@@ -1,0 +1,190 @@
+---
+decision_id: "ar_gerichte_Verwaltung_ARGVP_2003_1401"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "Verwaltung ARGVP 2003 1401"
+decided: "2003-09-10"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2003/Verwaltung-20030910-20030910-ARGVP-2003-1401.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2003/Verwaltung-20030910-20030910-ARGVP-2003-1401.pdf"
+cites_law: ["switzerland/bund/acts/814.01/art-011.md", "switzerland/bund/acts/814.01/art-013.md"]
+---
+
+# AR Gerichte Verwaltung ARGVP 2003 1401
+
+## Regeste
+
+A. Verwaltungsentscheide 1401 historisch wertvollen Charakter der N.-gasse zu erhalten. Zudem ist das Haus selbst mit Holzfenstern mit Holzfutter und Schlagläden in Holz ausgestattet. Weiter wurde auch für das bereits früher bewilligte Ga
+
+## Text
+
+A. Verwaltungsentscheide 
+1401 
+ 
+22 
+historisch wertvollen Charakter der N.-gasse zu erhalten. Zudem ist 
+das Haus selbst mit Holzfenstern mit Holzfutter und Schlagläden in 
+Holz ausgestattet. Weiter wurde auch für das bereits früher bewilligte 
+Garagentor die Verwendung von Holz und die Abstimmung der Farbe 
+mit der Fassade verlangt (vgl. Protokoll vom 15. Juli 2003, S. 5). Sei-
+ne Erscheinung weicht indessen von den anderen Häusern ab, finden 
+sich doch mehrere stilfremde Bauteile. Insbesondere wurde für die 
+Südfassade kein traditionelles Material verwendet. Überhaupt ist das 
+Haus Nr. 137, welches früher mit dem Haus Nr. 138 zusammenge-
+baut war, wohl etwa in den 60er/70er Jahren mit wenig Feingefühl für 
+seinen historischen Kontext renoviert worden. Auch von seiner histori-
+schen Bedeutung her nimmt es einen eher unbedeutenden Platz ein, 
+findet es doch in der Umschreibung des H. von Eugen Steinmann 
+(Eugen Steinmann, Die Kunstdenkmäler des Kantons Appenzell Aus-
+serrhoden, Bd. II, Basel 1980, S. 59 ff.) keine Erwähnung. Trotzdem 
+ist an die Anforderungen bei seiner Renovation ein hoher Massstab 
+anzusetzen, um eine der kulturhistorisch wertvollen Erscheinung der 
+Gebäudegruppe entsprechende und in seiner Gesamtwirkung befrie-
+digende Eingliederung des Gebäudes zu erwirken. In diesem Sinne 
+erscheint die verfügte Auflage bezüglich Holzschindelschirm grund-
+sätzlich sowohl als geeignet als auch erforderlich, um dem Interesse 
+am Ortsbildschutz gerecht zu werden. 
+ 
+Entscheid der Baudirektion vom 24.09.2003 
+1401 
+Umweltschutzrecht. Rechtmässigkeit der Grenzwerte gemäss Bun-
+desverordnung über den Schutz vor nichtionisierender Strahlung 
+ 
+6. Die Rekurrenten zweifeln in materiell-rechtlicher Hinsicht gene-
+rell die Rechtmässigkeit der Bundesverordnung über den Schutz vor 
+nichtionisierender Strahlung (NISV, SR 814.710) an und verlangen 
+eine konkrete Normenkontrolle. Im Speziellen rügen sie, die besonde-
+ren Schutzbedürfnisse von Personen mit erhöhter Empfindlichkeit 
+seien ignoriert worden, Art. 13 Abs. 2 des Bundesgesetzes über den 
+Umweltschutz (USG, SR 814.01) gehe von ebendieser erhöhten Emp-
+
+
+A. Verwaltungsentscheide 
+1401 
+ 
+23 
+findlichkeit und nicht von einer objektiven Empfindlichkeit aus, Schä-
+digungen an elektrosensiblen Personen seien bereits Tatsache, Art. 
+11 Abs. 2 USG werde durch die Behörden über den Schutzzweck der 
+BV und des USG gestellt und schliesslich, die Vorinstanzen hätten die 
+Menschenrechte der Rekurrenten in deren Kerngehalt verletzt. 
+ 
+a) Vorab ist auf den ausserdem vorgebrachten Einwand der Re-
+kurrenten einzugehen, dass in H. an einer weiteren Mobilfunkanlage 
+gar kein öffentliches Interesse bestehe. Sind alle öffentlich-rechtlichen 
+Vorschriften – etwa umwelt- und bauordnungsrechtlicher Natur – ein-
+gehalten, verleiht dies der Gesuchstellerin einer Mobilfunkantennen-
+anlage einen Anspruch auf Erteilung der erforderlichen Bewilligungen. 
+Der Nachweis konkreten öffentlichen Interesses ist weder in der 
+Fernmelde- noch in der Umweltschutz- und der Baurechtsgesetzge-
+bung vorgesehen und kann daher von den Netzbetreiberinnen auch 
+nicht verlangt werden. 
+ 
+b) Die Rekurrenten bemängeln implizit den Schutzumfang der 
+NISV und folgern daraus, die Verordnung hätte durch das Amt für 
+Umweltschutz nicht angewandt werden dürfen. Als Resultat dieser 
+Argumentation ersuchen sie um Durchführung einer konkreten Nor-
+menkontrolle. In unlängst ergangenen Entscheiden hat sich das Bun-
+desgericht der Frage konkret angenommen, ob die NISV durch die 
+Judikative zu korrigieren oder aber durch die rechtsanwendenen Be-
+hörden wie vorliegend anzuwenden sei. Es ist dabei im Leitentscheid 
+BGE 126 II 402 ff. (vgl. auch die dementsprechenden, ausführlichen 
+Begründungen im Entscheid des Verwaltungsgerichts des Kantons St. 
+Gallen vom 18. März 2003, Nr. 2002/160 und 2002/161) zum unmiss-
+verständlichen Schlusse gelangt, dass der Bundesrat mit dem Erlass 
+von Anlagegrenzwerten in der NISV den ihm zustehenden Spielraum 
+bei der Umsetzung von Art. 13 USG nicht überschritten habe. Mithin 
+wurde die NISV damit für zum Beurteilungszeitpunkt als rechtmässig 
+taxiert. Im selben Entscheid hat das höchste Landesgericht aber auch 
+festgestellt, dass der verordnungsgebende Bundesrat beim Erlass der 
+NISV von einem lückenhaften Erkenntnisstand in Hinsicht auf die 
+Wirkungen nichtionisierender Strahlungen auf die Gesundheit des 
+Menschen ausging. Dies gelte im Besonderen für den Bereich allfälli-
+ger nicht-thermischer Wirkungen der nichtionisierten Strahlung auf 
+den Menschen. Da gesicherte wissenschaftliche Erkenntnisse zur 
+genannten nicht-thermischen Wirkung auf den Menschen weitgehend 
+fehlen, kam der Bundesrat – nach Auffassung des Bundesgerichts 
+
+
+A. Verwaltungsentscheide 
+1401 
+ 
+24 
+zurecht – denn auch nicht umhin, die Anlagegrenzwerte an der ther-
+mischen Wirkung zu orientieren und deren Festlegung auf die Strah-
+lenintensität abzustützen (BGE 126 II 407). Angesichts dieser Um-
+stände sind die Bedenken der Rekurrenten bis zu einem gewissen 
+Mass durchaus als nachvollziehbar zu betrachten. Indessen ist klar 
+festzuhalten, dass aufgrund des Auftrages von Art. 13 USG auf dem 
+Verordnungswege Grenzwerte festzulegen waren, dass nicht einfach 
+jegliche Gesuche mit dem Hinweis auf noch nicht oder noch nicht 
+gesichert vorhandene wissenschaftliche Untersuchungen zu den a-
+thermischen Wirkungen abgelehnt werden konnten und können, und 
+dass der Verordnungsgeber mit der Festsetzung von Anlagegrenz-
+werten einen über die reinen Immissionsgrenzwerte hinausgehenden 
+Vorsorgeschutz ins Schutzkonzept der NISV eingebaut hat. Wie das 
+Bundesgericht im erwähnten Leitentscheid ausgeführt hat, wird es am 
+Bundesrat als Verordnungsgeber liegen, den Status der wissenschaft-
+lichen Erkenntnisse periodisch zu überprüfen und bei Vorliegen neuer 
+gesicherter wissenschaftlicher Erfahrungen die dannzumal erforderli-
+chen Konsequenzen zu ziehen. Ein Eingreifen der Legislative – sei 
+dies auf Bundes- und erst recht nicht auf kantonaler Ebene – ist zum 
+heutigen Zeitpunkt somit weder geboten noch möglich (vgl. BGE 
+1A.10/201 vom 8. April 2002, auszugsweise wiedergegeben in URP 
+2002 430 f.). 
+ 
+In Würdigung dieser Ausführungen des Bundesgerichts, welchen 
+seither keine neuen entscheidenden Erkenntnisse hinzugekommen 
+sind, kann damit in aller Deutlichkeit festgehalten werden, dass die 
+NISV zum jetzigen Zeitpunkt generell, und für den vorliegenden Fall 
+im Speziellen, anwendbar und für die zuständigen Behörden, so auch 
+das kantonale Amt für Umweltschutz von Appenzell A.Rh., bindend 
+ist. 
+ 
+c) Wie das Bundesgericht im nämlichen Entscheid weiter aus-
+drücklich – und ohne Interpretationsspielraum offen zu lassen – fest-
+gelegt hat, trägt die NISV auch der Wirkung der Strahlungsemissionen 
+auf Personengruppen mit erhöhter Empfindlichkeit im Sinne von Art. 
+13 Abs. 2 USG in angemessener Weise Rechnung (BGE 126 II 405). 
+Dies bedeutet, dass auch für diese Personengruppen die – und nur 
+die – Immissions- und Anlagegrenzwerte der NISV anzuwenden sind, 
+da die Forderung von Art. 13 Abs. 2 USG bereits durch den Bundesrat 
+als Verordnungsgeber erfüllt worden sind. Soweit folglich die Rekur-
+renten beanstanden, Personengruppen mit erhöhter Empfindlichkeit 
+
+
+A. Verwaltungsentscheide 
+1401 
+ 
+25 
+seien ignoriert worden, sind sie nicht zu hören. Ferner scheinen die 
+Rekurrenten hinsichtlich der Argumentation des Amtes für Umwelt-
+schutz zu ebendieser erhöhten Empfindlichkeit einem Missverständnis 
+auferlegen zu sein: Die vom angefochtenen Einspracheentscheid des 
+Amtes für Umweltschutz angesprochene sog. „objektivierte Empfind-
+lichkeit“ meint nicht, dass die erhöhten Schutzbedürfnisse von Perso-
+nen mit erhöhter Empfindlichkeit überhaupt nicht berücksichtigt wor-
+den seien. Vielmehr möchte diese Wendung aussagen, dass diese 
+Berücksichtigung durch den Verordnungsgeber erfolgt sei, und dass 
+weitergehende Massnahmen gestützt auf subjektive Wahrnehmung 
+einzelner Anwohner nicht getroffen werden können. Insgesamt ist 
+damit festzustellen, dass die Einwände der Rekurrenten zur Anwen-
+dung von Art. 13 Abs. 2 USG fehl gehen. 
+ 
+d) Zusammenfassend lässt sich festhalten, dass die NISV des 
+Bundes verfassungs- und gesetzeskonform und für die rechtsanwen-
+denen kantonalen Behörden bindend ist, dass sie insbesondere zum 
+heutigen Zeitpunkt dem Vorsorgeprinzip des USG genügt und dass 
+Personengruppen mit erhöhter Empfindlichkeit angemessen Rech-
+nung getragen wird. Dies hat zur weiteren Konsequenz, dass – wie 
+dies die Rekurrenten mehrfach vorbringen – keine Verletzungen der 
+Europäischen Menschenrechtskonvention (EMRK, SR 0.101) gege-
+ben sind, zumal deren Schutzbereich im hier interessierenden Bereich 
+nicht über jenen von Bundesverfassung und Umweltschutzgesetzge-
+bung hinausgehen (vgl. Entscheid des Verwaltungsgerichts des Kan-
+tons St. Gallen vom 18. März 2003, Nr. 2002/160 und 2002/161, Erw. 
+5c). 
+Entscheid der Baudirektion vom 10.09.2003 
+ 
+Eine gegen diesen Entscheid der Baudirektion gerichtete Verwal-
+tungsgerichtsbeschwerde ist zur Zeit noch hängig.
