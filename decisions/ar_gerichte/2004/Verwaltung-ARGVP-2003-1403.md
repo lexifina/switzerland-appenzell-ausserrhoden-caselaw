@@ -1,0 +1,395 @@
+---
+decision_id: "ar_gerichte_Verwaltung_ARGVP_2003_1403"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "Verwaltung ARGVP 2003 1403"
+decided: "2004-03-02"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2003/Verwaltung-20040302-20040302-ARGVP-2003-1403.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2003/Verwaltung-20040302-20040302-ARGVP-2003-1403.pdf"
+---
+
+# AR Gerichte Verwaltung ARGVP 2003 1403
+
+## Regeste
+
+A. Verwaltungsentscheide 1403 1403 Feuerschutzbeitrag. Verfahren zur Erweiterung einer Körperschaft des öffentlichen Rechts. Frage der Zwangsmitgliedschaft. Rechtsnatur des Feuerschutzbeitrages. Die Hydrantenkorporation U. wurde mit Ka
+
+## Text
+
+A. Verwaltungsentscheide 
+1403 
+ 
+29 
+1403 
+Feuerschutzbeitrag. Verfahren zur Erweiterung einer Körperschaft 
+des öffentlichen Rechts. Frage der Zwangsmitgliedschaft. Rechtsnatur 
+des Feuerschutzbeitrages. 
+ 
+Die Hydrantenkorporation U. wurde mit Kantonsratsbeschluss vom 
+30. November 1928 als Körperschaft des öffentlichen Rechts mit Bei-
+trittszwang anerkannt. Die Mitgliedschaft erstreckte sich gemäss § 2 
+der Statuten vom 4. März 1928 auf alle Eigentümer der im Hydranten-
+bezirk gelegenen Liegenschaften. Nach § 3 waren zudem bei einer 
+Erweiterung des Hydrantennetzes auch solche Gebäudebesitzer zum 
+Beitritt verpflichtet, die keinen Hauswasseranschluss wünschten, die 
+aber im Brandfall durch die Hydranten wirksam geschützt wurden. Als 
+Distanz für einen wirksamen Schutz galt eine Entfernung von 60 Me-
+tern ab Hydrantenstock. 
+ 
+Mit Statutenrevision vom 17. April 1986 wurde der Mitgliedschafts-
+kreis der Hydrantenkorporation U. erweitert. Er umfasste nun gemäss 
+Art. 3 der Statuten alle Grundeigentümer, deren Liegenschaften am 
+Versorgungsnetz angeschlossen waren oder deren Liegenschaften 
+innerhalb einer Entfernung von 100 Metern vom nächsten Hydranten-
+stock lagen. 
+ 
+Am 8. Juli 1999 beschloss die Hydrantenkorporation U. erneut eine 
+Statutenrevision. Gemäss Art. 2 der vom Regierungsrat mit Beschluss 
+vom 8. Februar 2000 genehmigten Statuten gelten neu als Mitglieder 
+der Korporation: a. die Eigentümer der Grundstücke, die am Trink-, 
+Brauch- und Löschwasserversorgungsnetz der Hydrantenkorporation 
+U. angeschlossen sind; b. diejenigen Gebäudeeigentümer im Ge-
+meindegebiet, die keinen Wasseranschluss am Versorgungsnetz der 
+Hydrantenkorporation aufweisen, sich jedoch innerhalb einer Distanz 
+von 250 Meter eines Hydranten befinden. 
+ 
+Nach Art. 20 Abs. 1 der Statuten vom 8. Juli 1999 haben zudem 
+neu alle Mitglieder der Korporation einen jährlichen Feuerschutzbei-
+trag zu entrichten. Dieser wird gemäss § 1 des Reglements über den 
+Feuerschutzbeitrag, das die Hydrantenkorporation bereits auf den 1. 
+Januar 2000 in Kraft gesetzt hat, auf der Basis des umbauten Gebäu-
+devolumens berechnet. 
+ 
+Gestützt darauf stellte die Hydrantenkorporation U. ihren Mitglie-
+dern im Jahr 2001 erstmals einen Feuerschutzbeitrag in Rechnung. 
+
+
+A. Verwaltungsentscheide 
+1403 
+ 
+30 
+Eine solche Rechnung erhielt mit Datum vom 7. Juni 2001 auch X., 
+der bisher nicht Mitglied der Hydrantenkorporation war. Der ihm in 
+Rechnung gestellte Feuerschutzbeitrag belief sich auf Fr. 173.75. 
+ 
+Gegen diese Rechnung erhob X. mit Schreiben vom 18. Juni 2001 
+Einsprache bei der Hydrantenkorporation. Er machte sinngemäss 
+geltend, er habe nie eine Einladung zu einer Versammlung der Hyd-
+rantenkorporation erhalten und er sei auch nicht Nutzniesser der 
+Wasserversorgung. Da er über eine eigene Quelle mit Leitungen, 
+Reservoir, Pumpe etc. verfüge, sei er nicht bereit, den Feuerschutz-
+beitrag zu bezahlen. 
+ 
+Die Hydrantenkorporation U. behandelte diese Einsprache an der 
+Sitzung vom 17. September 2001. Mit Schreiben vom 26. September 
+2001 gab sie sinngemäss die Abweisung der Einsprache bekannt. 
+Gemäss den vom Regierungsrat genehmigten Statuten seien alle 
+aufgeführten Objekte tarifpflichtig. Die Einladung an die Hauptver-
+sammlung werde allen Neumitgliedern ab 2002 zugestellt. Dieser 
+Entscheid wurde X. ohne Ansetzung einer Rechtsmittelfrist eröffnet. 
+ 
+Mit Rekurs vom 22. Oktober 2001 (Postaufgabe 26. Oktober) stell-
+te X. dem Regierungsrat von Appenzell A.Rh. sinngemäss den An-
+trag, der Einspracheentscheid der Hydrantenkorporation und die 
+Rechnung vom 7. Juni 2001 seien aufzuheben. Er habe weder eine 
+Einladung noch sonst irgendwelche Informationen zur Korporations-
+versammlung vom 8. Juli 1999 erhalten. Seiner Auffassung nach sei-
+en die Statuten weder rechtsgültig noch demokratisch legitimiert. Mit 
+Nachdruck halte er fest, dass er nicht am Hydrantennetz angeschlos-
+sen sei und keinen Nutzen daraus ziehe. 
+ 
+Mit Stellungnahme vom 25. November 2001 beantragte die Hyd-
+rantenkorporation U. sinngemäss die Abweisung des Rekurses. In 
+einem ähnlich gelagerten Fall betreffend die Ortskorporation W. hät-
+ten sowohl der Regierungsrat als auch das Bundesgericht die Erhe-
+bung des Feuerschutzbeitrages für rechtmässig befunden. 
+ 
+ 
+Der Regierungsrat hiess die Beschwerde von X. aus folgenden 
+Erwägungen gut: 
+ 
+1. Gemäss Art. 31 des Gesetzes vom 27. April 1969 über die Ein-
+führung des Schweizerischen Zivilgesetzbuches (EG zum ZGB; bGS 
+211.1) kann gegen Beschlüsse und Verfügungen der Körperschaften 
+des öffentlichen Rechts innert 20 Tagen an den Regierungsrat rekur-
+riert werden. Der angefochtene Beschluss wurde dem Rekurrenten 
+
+
+A. Verwaltungsentscheide 
+1403 
+ 
+31 
+ohne Ansetzung einer Rechtsmittelfrist eröffnet. Bei dieser Sachlage 
+ist die Einreichung eines Rekurses gemäss Art. 21 Abs. 2 des Geset-
+zes vom 28. April 1985 über das Verwaltungsverfahren (auf den 1. 
+Januar 2003 abgelöst durch die identische Bestimmung von Art. 34 
+Abs. 2 des Gesetzes vom 9. September 2002 über die Verwaltungs-
+rechtspflege [VRPG], bGS 143.1) noch innert zwei Monaten seit der 
+Zustellung der Verfügung zulässig. Diese Frist wurde mit der Eingabe 
+vom 22. Oktober 2001 gewahrt. Somit ist auf den Rekurs einzutreten. 
+ 
+2. Gemäss Art. 20 Abs. 1 der Statuten vom 8. Juli 1999 haben alle 
+Mitglieder der Hydrantenkorporation U. einen Feuerschutzbeitrag zu 
+entrichten. Dazu gehören gemäss Art. 2 lit. b der Statuten auch dieje-
+nigen Gebäudeeigentümer im Gemeindegebiet, die keinen Wasser-
+anschluss am Versorgungsnetz der Hydrantenkorporation aufweisen, 
+sich jedoch innerhalb einer Distanz von 250 Meter eines Hydranten 
+befinden. Der angefochtene Beschluss geht davon aus, dass im Falle 
+des Rekurrenten diese Mitgliedschaftsvoraussetzung erfüllt ist. Es 
+stellt sich jedoch die Frage, ob der Rekurrent damit auch zum Beitritt 
+verpflichtet ist. 
+ 
+a) Die Hydrantenkorporation wurde 1928 als Körperschaft des 
+öffentlichen Rechts mit Beitrittszwang anerkannt. Diese Anerkennung 
+stützte sich noch auf Art. 27 und 28 des Gesetzes vom 30. April 1911 
+betreffend die Einführung des schweizerischen Zivilgesetzbuches für 
+den Kanton Appenzell A.Rh. (aGS I/26). Seither wurden die Statuten 
+der Hydrantenkorporation und insbesondere deren Bestimmungen 
+über die Mitgliedschaft mehrfach revidiert. Mit der Totalrevision des 
+EG zum ZGB vom 27. April 1969 hat zudem das Recht der öffentli-
+chen Körperschaften eine umfassende Neugestaltung erfahren. Aus 
+der ursprünglichen Anerkennung des Beitrittszwanges lässt sich des-
+halb für den vorliegenden Fall nichts mehr ableiten. 
+ 
+b) Gemäss Art. 26 Abs. 1 EG zum ZGB bilden sich die kantonalen 
+Körperschaften des öffentlichen Rechts grundsätzlich durch freiwilli-
+gen Zusammenschluss. Kann der freiwillige Zusammenschluss der 
+Personen, welche ein unmittelbares Interesse an der Verwirklichung 
+des statutarischen Zweckes haben, nicht erzielt werden, kann der 
+Regierungsrat den Gründern nach Prüfung ihres Statutenentwurfs die 
+zwangsweise Bildung der Genossenschaft bewilligen und den Mit-
+gliedschaftskreis bestimmen. Die Bewilligung wird nur erteilt, wenn die 
+geforderten Beitragsleistungen der Mitglieder in einem richtigen Ver-
+hältnis zu den gebotenen Vorteilen stehen (Art. 26 Abs. 2 EG zum 
+
+
+A. Verwaltungsentscheide 
+1403 
+ 
+32 
+ZGB). In diesem Falle sind alle Personen dieses Kreises zum Beitritt 
+verpflichtet, wenn sie mit Mehrheit der Gründung und dem Statuten-
+entwurf zugestimmt haben (Art. 26 Abs. 3 EG zum ZGB). Ist die Mit-
+gliedschaft mit Grundeigentum verbunden, dessen Umfang und Wert 
+für Rechte und Pflichten massgebend ist, muss die zustimmende 
+Mehrheit zugleich den grösseren Teil der einbezogenen Bodenfläche 
+vertreten. Grundeigentümer, welche zur Gründungsversammlung trotz 
+ordnungsgemässer Ladung nicht erschienen sind und sich nicht ha-
+ben vertreten lassen, werden den zustimmenden Versammlungsteil-
+nehmern zugezählt (Art. 26 Abs. 4 EG zum ZGB). 
+ 
+c) Im Gegensatz zum Gründungsverfahren ist das Verfahren zur 
+nachträglichen Erweiterung einer schon bestehenden Körperschaft im 
+geltenden Gesetz nicht ausdrücklich geregelt. Die Bestimmungen 
+über das Gründungsverfahren sind in diesem Fall jedoch analog an-
+wendbar. Für die Erweiterung einer Zwangskörperschaft ist demnach 
+eine Bewilligung des Regierungsrates erforderlich, die nur unter Vor-
+aussetzungen von Art. 26 Abs. 2 EG zum ZGB erteilt wird. Eine sol-
+che Bewilligung ist der Hydrantenkorporation im Zusammenhang mit 
+der Statutenrevision vom 8. Juli 1999 nicht erteilt worden. Zwar hat 
+der Regierungsrat mit Beschluss vom 8. Februar 2000 die Statuten 
+und die darin vorgesehene Erweiterung des Mitgliedschaftskreises 
+genehmigt. Dieser Beschluss stützte sich jedoch auf einen Vorprü-
+fungsbericht der Direktion des Innern, der ausdrücklich davon aus-
+ging, dass die Hydrantenkorporation keine Zwangskörperschaft bilde 
+(Schreiben an die Hydrantenkorporation vom 21. September 1998, 
+Anmerkung zu Art. 1 des Statutenentwurfs). Aus der blossen Tatsa-
+che der Statutengenehmigung lässt sich somit kein Beitrittszwang 
+ableiten. 
+ 
+d) Eine Verpflichtung zum Beitritt besteht zudem gemäss Art. 26 
+Abs. 3 EG zum ZGB nur dann, wenn der Kreis der betroffenen Perso-
+nen mit Mehrheit dem Statutenentwurf zugestimmt hat. Dies setzt 
+voraus, dass sämtliche Mitglieder der künftigen Zwangskörperschaft 
+ordnungsgemäss zur Abstimmung über den Statutenentwurf eingela-
+den wurden. Zur Hauptversammlung vom 8. Juli 1999 waren jedoch 
+gemäss Stellungnahme der Hydrantenkorporation vom 25. September 
+2003 nur die bisherigen Korporationsmitglieder eingeladen worden. 
+Die übrigen Betroffenen hatten keine Möglichkeit, sich zum Statuten-
+entwurf zu äussern, und wurden erst anlässlich der Erhebung des 
+Feuerschutzbeitrages über ihre neue "Mitgliedschaft" informiert. Die-
+
+
+A. Verwaltungsentscheide 
+1403 
+ 
+33 
+ses Vorgehen lässt sich weder mit Art. 26 Abs. 3 EG zum ZGB noch 
+mit den Grundsätzen eines rechtsstaatlichen Verfahrens vereinbaren. 
+Schon der verfassungsrechtliche Anspruch auf rechtliches Gehör 
+bedingt, dass bei der Gründung oder Erweiterung einer Zwangskör-
+perschaft sämtlichen Betroffenen die Möglichkeit zur Stellungnahme 
+eingeräumt wird. Werden einzelne Personen oder ganze Personen-
+kreise davon ausgeschlossen, kann ihnen gegenüber auch kein Bei-
+trittszwang geltend gemacht werden. 
+ 
+e) Da im vorliegenden Fall kein Beitrittszwang begründbar ist, 
+konnte der Rekurrent nur durch freiwillige Beitrittserklärung zum Mit-
+glied der Hydrantenkorporation werden. Nun ist aber völlig unbestrit-
+ten, dass der Rekurrent weder ausdrücklich noch stillschweigend ei-
+nen solchen Beitritt erklärt hat. Dies ist denn auch der entscheidende 
+Unterschied zu dem von der Hydrantenkorporation angeführten Fall 
+betreffend die Ortskorporation W. In jenem Verfahren schlossen die 
+Rechtsmittelinstanzen auf eine stillschweigende Anerkennung der 
+Mitgliedschaft, nachdem der betroffene Grundeigentümer trotz ord-
+nungsgemässer Ladung und frühzeitiger Kenntnis von der geplanten 
+Erweiterung des Mitgliedschaftskreises nicht an der entsprechenden 
+Hauptversammlung der Korporation teilgenommen hatte (RRB vom 
+29. März 1994, S. 6 f.; Urteil des Bundesgerichts vom 23. Februar 
+1995, S. 5 ff.). Demgegenüber war es dem Rekurrenten mangels Ein-
+ladung von vornherein verwehrt, an der Hauptversammlung vom 8. 
+Juli 1999 teilzunehmen. Es ist auch nicht ersichtlich, dass er vor der 
+Zustellung der Rechnung vom 7. Juni 2001 sonst irgendwie Kenntnis 
+von der Erweiterung der Hydrantenkorporation erlangt haben könnte. 
+Von einer stillschweigenden Anerkennung der Mitgliedschaft kann 
+deshalb keine Rede sein. 
+ 
+3. Nach Art. 29 Abs. 2 EG zum ZGB sind die Körperschaften des 
+öffentlichen Rechts befugt, auch von Grundeigentümern, die nicht ihre 
+Mitglieder sind, öffentlich-rechtliche Beiträge zu erheben nach Mass-
+gabe des Vorteils für ihre Grundstücke, welcher durch die genossen-
+schaftlichen Anlagen und Einrichtungen bewirkt wird. Es stellt sich 
+deshalb die Frage, ob der Rekurrent trotz fehlender Mitgliedschaft zur 
+Bezahlung des Feuerschutzbeitrages verpflichtet ist. 
+ 
+a) Bei den Beiträgen im Sinne von Art. 29 Abs. 2 EG zum ZGB 
+handelt es sich um sogenannte Vorzugslasten (Christian Merz, Die 
+öffentlich-rechtlichen Körperschaften im Kanton Appenzell A.Rh., Zü-
+rich 1976, S. 187). Darunter verstehen Lehre und Rechtsprechung 
+
+
+A. Verwaltungsentscheide 
+1403 
+ 
+34 
+eine Abgabe, die als Ausgleich jenen Personen auferlegt wird, denen 
+aus einer öffentlichen Einrichtung ein wirtschaftlicher Sondervorteil 
+erwächst (Ulrich Häfelin/Georg Müller, Grundriss des Allgemeinen 
+Verwaltungsrechts, 3. Aufl., Zürich 1998, S. 528; Max Imboden/René 
+Rhinow, Schweizerische Verwaltungsrechtsprechung, Bd. II, Basel 
+1986, S. 784). Dieser wirtschaftliche Sondervorteil muss realisierbar 
+sein, d.h. er muss in Geld ausgedrückt und in Geld umgesetzt werden 
+können. Dass er auch effektiv realisiert wird, ist nicht erforderlich. Es 
+genügt, wenn es der Beitragsbelastete in der Hand hat, durch geeig-
+nete Massnahmen den Vorteil zu nutzen. Kann der behauptete Vorteil 
+auch durch Handlungen des Privaten wirtschaftlich nicht realisiert 
+werden, so ist keine Vorzugslast begründbar (Max Imboden/René 
+Rhinow, a.a.O., S. 786). 
+ 
+b) Gemäss Art. 19 der Statuten vom 8. Juli 1999 bezweckt der von 
+der Hydrantenkorporation erhobene Feuerschutzbeitrag die Mehrauf-
+wendungen für den Bau und Unterhalt der Löschwasserleitungen und 
+der Hydranten zu finanzieren resp. amortisieren. Solche Feuerschutz-
+beiträge wurden in der bisherigen Rekurspraxis des Regierungsrates 
+als Vorzugslasten im dargelegten Sinne qualifiziert. So führte der Re-
+gierungsrat im Entscheid betreffend die Ortskorporation W. aus, dass 
+die Korporation mit ihrem Hydrantennetz und dem dadurch zur Verfü-
+gung gestellten Löschwasser einen Beitrag zum Feuerschutz leiste, 
+welcher den Eigentümern von Gebäuden in einem gewissen Umkreis 
+der einzelnen Hydranten als Vorteil anzurechnen sei. Dieser Vorteil 
+bestehe bis zu einer Distanz von ungefähr 250 Metern zwischen Hyd-
+rant und Gebäude. Gestützt auf Art. 29 Abs. 2 EG zum ZGB könne 
+die Korporation von solchen Grundeigentümern auch unabhängig von 
+deren Mitgliedschaft einen Feuerschutzbeitrag erheben (RRB vom 29. 
+März 1994, S. 8 f.). 
+ 
+c) Das Bundesgericht qualifizierte Feuerschutzbeiträge in seiner 
+früheren Rechtsprechung ebenfalls als Vorzugslasten (BGE 86 I 97). 
+Im Jahre 1996 leitete es jedoch eine Praxisänderung ein und zog mit 
+Blick auf neuere Lehrmeinungen in Zweifel, dass der behauptete wirt-
+schaftliche Sondervorteil konkret genug sei, um Feuerschutzbeiträge 
+als Vorzugslasten qualifizieren zu können. Die abgabepflichtigen Ge-
+bäudeeigentümer hätten zwar ohne Zweifel ein Interesse an den Leis-
+tungen, die mit den Feuerschutzbeiträgen finanziert würden. Dieses 
+Interesse konkretisiere sich jedoch nur im Brandfall. Zuvor komme 
+den Gebäudeeigentümern im Vergleich zu der übrigen Bevölkerung in 
+
+
+A. Verwaltungsentscheide 
+1403 
+ 
+35 
+keiner Weise ein besonderer wirtschaftlicher Vorteil zu. Es sei daher 
+korrekter, in den Feuerschutzbeiträgen eine Art von Zwecksteuer 
+(Kostenanlastungssteuer) zu erblicken. Diese sei verfassungsrechtlich 
+an dieselben strengen Voraussetzungen gebunden wie die übrigen 
+Steuern (BGE 122 I 310 f.). 
+ 
+d) In der Tat ist nicht recht einzusehen, inwiefern die blosse Nähe 
+zu einem Hydranten dem jeweiligen Grundeigentümer einen besonde-
+ren und dazu noch wirtschaftlich realisierbaren Sondervorteil einbrin-
+gen soll. Insoweit ist die bisherige Praxis des Regierungsrates zu 
+überdenken. Hinzu kommt aber, dass am 1. Januar 1997 das kanto-
+nale Gesetz über den Feuerschutz (Feuerschutzgesetz; bGS 861.0) in 
+Kraft getreten ist. Gemäss dessen Art. 11 Abs. 1 ist die Löschwasser-
+versorgung grundsätzlich Sache der Gemeinden. Diese finanzieren 
+ihre Aufwendungen aus dem Ertrag der Ersatzabgabe, aus Kostenbe-
+teiligungen und aus allgemeinen Mitteln (Art. 13 Abs. 1). Kostenpflich-
+tig ist, wer einen Einsatz vorsätzlich oder grobfahrlässig verursacht 
+hat oder aufgrund einer gesetzlichen Pflicht dafür haftet (Art. 13 Abs. 
+2). An den Kosten beteiligt werden können zudem Personen, denen 
+ein Einsatz der Feuerwehr für ein von der Assekuranz nicht versicher-
+tes Ereignis zugute kommt (Art. 13 Abs. 2). Unter gewissen Voraus-
+setzungen beteiligt sich der Kanton an den Kosten der kommunalen 
+Löschwasserversorgung (Art. 11 Abs. 2). Er finanziert seine Aufwen-
+dungen durch eine Feuerschutzabgabe, die als Zuschlag zur Gebäu-
+deversicherung erhoben wird sowie durch Beiträge der Privatversiche-
+rungen (Art. 12 Abs. 1). 
+ 
+e) Das kantonale Feuerschutzgesetz schliesst nicht aus, dass die 
+Gemeinden die Löschwasserversorgung an eine selbständige Körper-
+schaft des öffentlichen Rechts übertragen (Art. 11 Abs. 2; vgl. auch 
+Art. 34 Abs. 1 Feuerschutzverordnung, bGS 861.1). Die im Gesetz 
+vorgesehene Finanzierung dürfte jedoch als abschliessende Rege-
+lung gemeint sein. Demnach wäre es sowohl den Gemeinden als 
+auch den von ihnen betrauten Körperschaften des öffentlichen Rechts 
+generell verwehrt, die Löschwasserversorgung über die Erhebung von 
+Grundeigentümerbeiträgen zu finanzieren. Wie es sich damit verhält, 
+braucht im vorliegenden Fall allerdings nicht abschliessend geklärt zu 
+werden. Muss der in Frage stehende Feuerschutzbeitrag im Sinne der 
+neueren bundesgerichtlichen Rechtsprechung als Zwecksteuer quali-
+fiziert werden, so ist der angefochtene Entscheid ohnehin aufzuhe-
+ben, weil der Hydrantenkorporation U. die für die Steuererhebung 
+
+
+A. Verwaltungsentscheide 
+1404 
+ 
+36 
+notwendige Ermächtigung des Kantonsrates fehlt (vgl. Art. 25 Abs. 4 
+EG zum ZGB). 
+ 
+f) Anzufügen bleibt, dass im vorliegenden Fall auch die Voraus-
+setzungen für die Erhebung einer Vorzugslast im Sinne von Art. 29 
+Abs. 2 EG zum ZGB nicht erfüllt wären. Denn wie der Rekurrent be-
+reits im vorinstanzlichen Verfahren unwidersprochen geltend gemacht 
+hat, verfügt er auf seinen Grundstücken über eine eigene Quelle mit 
+Reservoir, Leitungen und Pumpe. Bei dieser Sachlage kann selbst 
+nach der bisherigen Praxis des Regierungsrates nicht mehr davon 
+gesprochen werden, dass dem Rekurrenten aus dem Versorgungs-
+netz der Hydrantenkorporation noch ein zusätzlicher wirtschaftlicher 
+Sondervorteil erwachse. 
+ 
+4. Der vorliegende Rekurs ist demnach gutzuheissen. Gemäss 
+Art. 19 Abs. 3 VRPG ist der Rekurrent bei diesem Verfahrensausgang 
+nicht kostenpflichtig. 
+RRB vom 02.03.2004 
+1404 
+Strassenverkehrsrecht. Geschwindigkeitsüberschreitung von 35 
+km/h auf einer Strecke, welche vorübergehend zum Schutze der Lur-
+chenwanderung mit einer Höchstgeschwindigkeit von 30 km/h signali-
+siert war. 
+ 
+Auf der St. Georgen-Strasse in St. Gallen ist jeweils von Anfang 
+März bis Anfang Mai zum Schutze der Lurchenwanderung eine 
+Höchstgeschwindigkeit von 30 km/h signalisiert. In der übrigen Jah-
+reszeit gilt eine Höchstgeschwindigkeit von 60 km/h. Gemäss Ver-
+kehrsanzeige der Stadtpolizei St. Gallen fuhr X. am 22. März 2003 im 
+Bereich der 30 km/h-Limite mit einer Geschwindigkeit von 68 km/h, 
+was nach Abzug einer technisch bedingten Toleranz von 3 km/h einer 
+Geschwindigkeitsüberschreitung von 35 km/h entspricht. Das Unter-
+suchungsamt St. Gallen verurteilte X. deswegen mit Verfügung vom 
+12. Mai 2003 zu einer Busse von Fr. 450.--. Die Verwaltungspolizei 
+von Appenzell A.Rh. sprach mit Verfügung vom 12. August 2003 ei-
+nen Führerausweisentzug für die Dauer von einem Monat aus. Gegen
