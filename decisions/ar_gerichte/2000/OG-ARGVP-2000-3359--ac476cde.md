@@ -1,0 +1,350 @@
+---
+decision_id: "ar_gerichte_OG_ARGVP_2000_3359"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "OG ARGVP 2000 3359"
+decided: "2000-08-08"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Gerichtsentscheide/2000/OG-20000808-20000808-ARGVP-2000-3359.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Gerichtsentscheide/2000/OG-20000808-20000808-ARGVP-2000-3359.pdf"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/220/art-330a.md", "switzerland/bund/acts/220/art-337d.md", "switzerland/bund/acts/272/art-115.md", "switzerland/bund/acts/272/art-116.md"]
+---
+
+# AR Gerichte OG ARGVP 2000 3359
+
+## Regeste
+
+B. Gerichtsentscheide 3359 3359 Arbeitsvertrag. Streitwert des Anspruches auf ein Arbeitszeugnis, Rechtsnatur des Arbeitsvertrages mit einer Kirchgemeinde, Rechts-weg (Art. 115 Abs. 2 ZPO, Art. 330a OR, Art. 109 Abs. 3 KV). Sachverhalt:
+
+## Text
+
+B. Gerichtsentscheide 
+3359 
+ 
+82 
+3359 
+Arbeitsvertrag. Streitwert des Anspruches auf ein Arbeitszeugnis, 
+Rechtsnatur des Arbeitsvertrages mit einer Kirchgemeinde, Rechts-
+weg (Art. 115 Abs. 2 ZPO, Art. 330a OR, Art. 109 Abs. 3 KV). 
+ 
+Sachverhalt: 
+ 
+ A. war seit dem 1. April 1997 bei der evangelischen Kirchgemein-
+de X. als Mesmer-Stellvertreter angestellt. Am 14. Februar 1998 hatte 
+er sein Arbeitsverhältnis auf den 31. Mai 1998 gekündigt. Nach einem 
+ärztlichen Zeugnis war A. vom 28. April bis zum 31. Mai 1998 zu 100% 
+arbeitsunfähig. Er hatte während dieser Zeit seinen Dienst nicht ver-
+sehen und auch keinen Lohn erhalten. Mit Eingabe vom 15. Juni 1999 
+hat A. beim Kantonsgerichtspräsidium einen Lohnanspruch von Fr. 
+1'593.-- sowie die Ausstellung eines Arbeitszeugnisses eingeklagt. Die 
+beklagte Kirchgemeinde hatte diese Ansprüche bestritten. Sie war der 
+Ansicht, der Kläger habe das Arbeitsverhältnis auf eigenen Wunsch 
+und mit ihrer Zustimmung bereits per Ende April 1998 beendet. Am 
+29. April 1998 habe der Kläger jedenfalls die Schlüssel abgegeben. 
+ 
+Mit Urteil vom 19. Mai 2000 ist das Kantonsgerichtspräsidium 
+mangels Zuständigkeit auf die Klage nicht eingetreten. Zur Begrün-
+dung wurde im wesentlichen ausgeführt, dass der Zivilrichter nur zur 
+Beurteilung von privatrechtlichen Arbeitsverhältnissen zuständig sei. 
+Die Beklagte sei eine selbständige Körperschaft des öffentlichen 
+Rechts. Als solche sei sie nur dann zum Abschluss von privatrechtli-
+chen Arbeitsverträgen befugt, wenn eine klare Ermächtigung dazu 
+gegeben sei. Hinweise auf eine solche Ermächtigung fehlten gänzlich, 
+weshalb ein öffentlich-rechtliches Arbeitsverhältnis vorliege. 
+ 
+Mit Eingabe vom 30. Juni 2000 hat der Kläger gegen das Urteil der 
+Vorinstanz appelliert und seine Begehren erneuert. In der Begründung 
+liess er im wesentlichen vorbringen, dass er privatrechtlich angestellt 
+gewesen sei. Aber auch bei öffentlich-rechtlicher Anstellung habe er 
+nach Art. 30 Abs. 1 der Bundesverfassung und Art. 6 Abs. 1 EMRK 
+Anspruch auf ein durch Gesetz geschaffenes, zuständiges, unabhän-
+giges und unparteiisches Gericht. Die evangelisch-reformierte Lan-
+deskirche könne kein derartiges Gericht zur Verfügung stellen. Der 
+Nichteintretensentscheid der Vorinstanz verletze daher die Bundesver-
+fassung und die EMRK. 
+ 
+
+
+B. Gerichtsentscheide 
+3359 
+ 
+83 
+ 
+Aus den Erwägungen: 
+ 
+1. Der Kläger hat einen Betrag von Fr. 1'593.-- und die Ausstellung 
+eines Arbeitszeugnisses eingeklagt. Der Prozess über die Ausstellung 
+eines Arbeitszeugnisses ist vermögensrechtlicher Natur (BGE 116 II 
+379). Der Streitwert bemisst sich dabei primär nach den übereinstim-
+menden Angaben der Parteien. Wo solche fehlen, wie hier, hat der 
+Richter den Streitwert zu bestimmen. Die Praxis zur Höhe des Streit-
+wertes in Zeugnisprozessen ist uneinheitlich. So wird in Bern von ei-
+nem symbolischen Wert von Fr. 50.-- ausgegangen, in Zürich von Fr. 
+500.-- bis zu zwei Monatslöhnen (Streiff/von Kaenel, Leitfaden zum 
+Arbeitsvertragsrecht, Zürich 1993, Art. 330a OR, N. 6). Manfred Reh-
+binder (Kommentar zum schweizerischen Privatrecht, Obligationen-
+recht, Bern 1985, Art. 330a, N. 23) zitiert eine Faustregel, wonach der 
+Streitwert im Zeugnisprozess einen Monatslohn ausmacht, bei länger-
+dauernden qualifizierten Arbeitsverhältnissen aber bis auf drei Mo-
+natsgehälter steigen kann. Die von Rehbinder erwähnte Faustregel ist 
+dem symbolischen Wert, wie er z. B. im Kanton Bern angenommen 
+wird, vorzuziehen. 
+ 
+Der Kläger war nur rund ein Jahr bei der Beklagten angestellt. Der 
+Streitwert für das eingeklagte Zeugnis wird daher auf einen Monats-
+lohn festgesetzt. Aus den Akten ergibt sich, dass der Kläger pro Monat 
+etwa Fr. 1'000.-- verdient hat. Zusammen mit der eingeklagten Lohn-
+forderung von Fr.1'593.-- erreicht der Streitwert den Betrag von Fr. 
+8'000.-- gemäss Art. 46 des Bundesgesetzes über die Organisation 
+der Bundesrechtspflege (OG, SR 173.110) nicht. Dieses Urteil ist da-
+her nicht berufungsfähig. 
+ 
+2. Die Vorinstanz ist auf die Klage nicht eingetreten, weil die vom 
+Kläger eingeklagten Ansprüche öffentlich-rechtlicher Natur seien. Der 
+Kläger ist demgegenüber der Ansicht, er sei privatrechtlich angestellt 
+gewesen. 
+ 
+a) Der Einzelrichter des Kantonsgerichtes und auf Appellation hin 
+der Einzelrichter des Obergerichtes sind nach Art. 343 des schweizeri-
+schen Obligationenrechtes (OR, SR 220) i. V. mit Art. 1, 8 Ziff. 1 und 
+14 Ziff. 1 der Zivilprozessordnung (ZPO, bGS 231.1) nur zur Beurtei-
+lung von privatrechtlichen Ansprüchen aus dem Arbeitsvertrag zustän-
+dig. Die Beklagte ist gemäss Art. 1 der Verfassung für die evangelisch-
+reformierte Landeskirche beider Appenzell vom 16. April 1978 Teil der 
+Landeskirche. Die Landeskirche ihrerseits ist nach Art. 109 Abs. 1 der 
+Kantonsverfassung (KV, bGS 111.1) eine selbständige Körperschaft 
+
+
+B. Gerichtsentscheide 
+3359 
+ 
+84 
+des öffentlichen Rechts. Staatliche Dienstverhältnisse und Dienstver-
+hältnisse von öffentlich-rechtlichen Körperschaften sind grundsätzlich 
+öffentlich-rechtlicher Natur. Sofern die öffentlich-rechtliche Körper-
+schaft die Unterstellung der Dienstverhältnisse unter das Privatrecht 
+nicht ausgeschlossen hat, stellt sich die Frage, ob und gegebenenfalls 
+welche Voraussetzungen erfüllt sein müssen, damit ein Verweis auf 
+das Privatrecht zulässig ist. Dabei ist mit der Lehre, der kantonalen 
+Rechtsprechung und auch mit dem Bundesgericht (BGE 118 II 213) zu 
+verlangen, dass privatrechtliche Dienstverhältnisse nur gestützt auf 
+eine klare und unmissverständliche gesetzliche Grundlage geschaffen 
+werden dürfen. Der Staat (und andere öffentlich-rechtliche Körper-
+schaften) sollen nicht einfach frei die Rechtsform wählen und ins Pri-
+vatrecht „flüchten“ dürfen (Felix Hafner, Rechtsnatur der öffentlichen 
+Dienstverhältnisse, in Helbling/Poledna [Hrsg.], Personalrecht des 
+öffentlichen Dienstes, Zürich 1999, S. 193). 
+ 
+b) Der Kirchenverfassung kann bezüglich der Möglichkeit einer 
+privatrechtlichen Anstellung von Personal nichts entnommen werden. 
+Hingegen ermächtigt Art. 79 Abs. 2 der Kirchenordnung vom 29. Juni 
+1981 die Kirchgemeinden, eine Dienst- und Besoldungsordnung für 
+sämtliche Verantwortlichen und Beauftragten der Kirchgemeinde, na-
+mentlich für Pfarrer, Mesmer, Organist und Gemeindehelfer zu erlas-
+sen. Nach Art. 8 Ziff. 10 des Reglementes für die evangelisch-
+reformierte Kirchgemeinde X. ist die Kirchgemeindeversammlung zur 
+Genehmigung einer Dienst- und Besoldungsordnung für die Angestell-
+ten der Kirchgemeinde zuständig. Eine telefonische Anfrage beim 
+Präsidenten der Beklagten hat ergeben, dass bisher keine solche 
+Dienst- und Besoldungsordnung erlassen worden ist. In der evangeli-
+schen Kirchgemeinde X. fehlt es daher an einer gesetzlichen Grundla-
+ge, um Personal privatrechtlich anstellen zu können. Im übrigen wei-
+sen die Bestimmungen des Kirchenreglementes ausdrücklich darauf 
+hin, dass die Mesmer öffentlich-rechtlich angestellt werden. Nach Art. 
+18 Abs. 3 Ziff. 3 des Kirchenreglementes obliegt die Wahl der Mesmer 
+der Kirchenvorsteherschaft. Der Begriff der Wahl weist auf die Be-
+gründung des Dienstverhältnisses durch (zustimmungsbedürftige) 
+Verfügung und somit zwingend auf öffentliches Recht hin (vgl. Hafner, 
+a.a.O., S. 190). 
+ 
+c) Der Kläger lässt in der Appellationsschrift ausführen, dass es 
+nicht aussergewöhnlich sei, dass Kirchgemeinden Verträge mit Priva-
+ten abschliessen, welche unter das Privatrecht fallen. Dazu brauche 
+
+
+B. Gerichtsentscheide 
+3359 
+ 
+85 
+es keine über das Obligationenrecht hinausgehende gesetzliche 
+Grundlage. Gleich verhalte es sich auch für den Abschluss privatrecht-
+licher Arbeitsverträge. Diese Behauptung trifft so nicht zu. Dass es für 
+die privatrechtliche Anstellung von Personal einer gesetzlichen Grund-
+lage bedarf, wurde oben dargelegt. Dass die Kirchgemeinde daneben 
+durchaus auch privatrechtlich auftritt, z. B. beim Abschluss eines 
+Werkvertrages zur Renovation einer Pfarrwohnung oder des Kirchen-
+gebäudes, trifft hingegen zu, ist aber im vorliegenden Falle nicht von 
+Belang. Nachdem das Dienstverhältnis der Parteien auf öffentlichem 
+Recht basierte, hat die Vorinstanz ihre Zuständigkeit zu Recht als nicht 
+gegeben erachtet. Die Appellation ist unbegründet und abzuweisen. 
+ 
+3. Der Kläger wirft der Vorinstanz sodann eine Verletzung von Art. 
+30 Abs. 1 der Bundesverfassung (BV, SR 101) und Art. 6 Abs. 1 der 
+Konvention zum Schutze der Menschenrechte und Grundfreiheiten 
+(EMRK, SR 0.101) vor. Nach Art. 30 Abs. 1 BV hat jede Person, deren 
+Sache in einem gerichtlichen Verfahren beurteilt werden muss, An-
+spruch auf ein durch Gesetz geschaffenes, zuständiges, unabhängi-
+ges und unparteiisches Gericht. Desgleichen garantiert Art. 6 Abs. 1 
+EMRK dem Einzelnen, dass über seine zivilrechtlichen Ansprüche in 
+billiger Weise öffentlich und innerhalb einer angemessenen Frist von 
+einem unabhängigen und unparteiischen, auf Gesetz beruhendem 
+Gericht entschieden werde. Die Vorinstanz konnte wegen mangelnder 
+Zuständigkeit auf die Klage gar nicht eintreten und deshalb auch keine 
+verfassungs- oder konventionsmässigen Rechte des Klägers verlet-
+zen. An sich könnte sich die Appellationsinstanz auf diese Feststellung 
+beschränken. Nachdem der Kläger aber die Frage der Rechtswegga-
+rantie gemäss Art. 6 Abs. 1 EMRK zu Recht aufgeworfen hat, ist auch 
+diese Rüge näher zu prüfen. 
+ 
+a) Art. 6 Abs. 1 EMRK garantiert den Rechtsweg für zivilrechtliche 
+Ansprüche und Verpflichtungen. Der Begriff des zivilrechtlichen An-
+spruches deckt sich dabei nicht mit dem nationalen Recht, weil sonst 
+eine je nach Staat unterschiedliche Anwendung der Konventionsbe-
+stimmungen herbeigeführt würde. Nach der Rechtsprechung des Bun-
+desgerichtes und der Strassburger Organe ist vielmehr massgebend, 
+dass sich der Anspruch auf die vermögensrechtlichen Verhältnisse 
+des Betroffenen auswirkt. So zählen zu den zivilrechtlichen Ansprü-
+chen gemäss Art. 6 Abs. 1 EMRK zusätzlich zu den eigentlichen An-
+sprüchen des Privatrechtes etwa Enteignungssachen, Landumlegun-
+gen, behördliche Genehmigungen zum Verkauf ladwirtschaftlicher 
+
+
+B. Gerichtsentscheide 
+3359 
+ 
+86 
+Liegenschaften oder Bewilligungen zur Berufsausübung (Arthur 
+Haefliger, Die Europäische Menschenrechtskonvention und die 
+Schweiz, Bern 1993, S. 113ff). Lohnansprüche des Arbeitnehmers 
+fallen ebenfalls generell unter die Garantien von Art. 6 EMRK (Mark E. 
+Villiger, Handbuch der Europäischen Menschenrechtskonvention, 
+Zürich 1993, N. 386). Die vom Kläger eingeklagten Lohn- und Zeug-
+nisansprüche sind vermögensrechtlicher Natur, auch wenn sie, wie 
+oben dargelegt, auf öffentlichem Recht basieren. Der Kläger hat daher 
+Anspruch darauf, dass seine Klage von einem unabhängigen und 
+unparteiischen, auf Gesetz beruhendem Gericht entschieden wird. 
+Dieses Gericht muss nicht nur funktionell, sondern auch organisato-
+risch und personell von den andern staatlichen Gewalten unabhängig 
+sein. Es muss über volle Kognition verfügen. Die EMRK verbietet al-
+lerdings nicht, dass der Entscheid über einen zivilrechtlichen Anspruch 
+einer Verwaltungsbehörde übertragen wird. Der Betroffene muss aber 
+in einem solchen Falle letztinstanzlich ein Gericht anrufen können, das 
+den Anforderungen von Art. 6 EMRK entspricht (Haefliger, a.a.O., S. 
+128). 
+ 
+b) Der Kläger war bei der evangelischen Kirchgemeinde X., einer 
+selbständigen Körperschaft des öffentlichen Rechtes, angestellt. Nach 
+Art. 109 Abs. 2 KV regeln die kirchlichen Körperschaften ihre inneren 
+Angelegenheiten selbst. Beschlüsse und Verfügungen kirchlicher Or-
+gane können gemäss Art. 109 Abs. 3 KV nicht an staatliche Stellen 
+weitergezogen werden. Aus diesen Bestimmungen leitet der Kläger 
+ab, dass er seine Ansprüche bei einem staatlichen Gericht einklagen 
+könne, weil darüber noch nie ein kircheninterner Entscheid gefällt wor-
+den sei und auch keine kircheninterne Gerichtsinstanz zur Verfügung 
+stehe. Der vom Kläger gezogene Schluss ist nicht zutreffend. Wenn 
+Art. 109 Abs. 3 KV bestimmt, dass Entscheide von kirchlichen Orga-
+nen nicht an staatliche Stellen weitergezogen werden können, so be-
+deutet das, dass Streitpunkte, über die kirchliche Organe überhaupt 
+noch nicht entschieden haben, umso weniger bei staatlichen Stellen 
+angefochten oder geltend gemacht werden können. Aus der verfas-
+sungsrechtlichen Stellung der Landeskirchen ergibt sich vielmehr, 
+dass die Ansprüche des Klägers ausschliesslich kirchenintern beurteilt 
+werden müssen. Nach Art. 21 Abs. 1 der Kirchenverfassung und Art. 
+18 Abs. 2 des Kirchenreglementes der Beklagten ist die Kirchen-
+vorsteherschaft für alle Geschäfte zuständig, die nicht ausdrücklich 
+einer andern Instanz übertragen sind. Die Kirchenvorsteherschaft hät-
+
+
+B. Gerichtsentscheide 
+3359 
+ 
+87 
+te demnach erstinstanzlich über die Ansprüche des Klägers entschei-
+den können. Gegen den Entscheid der Kirchenvorsteherschaft kann 
+nach Art. 23 der Kirchenverfassung und Art. 22 des Kirchenreglemen-
+tes an den Kirchenrat rekurriert werden. Auf diesen Rechtsweg hatte 
+die Beklagte bereits in ihrer Eingabe vom 24. Februar 2000 an die 
+Vorinstanz hingewiesen. Dabei hatte sie aber übersehen, dass sie 
+selbst noch gar nicht erstinstanzlich entschieden hat. Nachdem über 
+die Ansprüche des Klägers noch nie materiell entschieden worden ist, 
+wird er diese Ansprüche bei der zuständigen Kircheninstanz geltend 
+machen können. Wenn der innerkirchliche Verwaltungsinstanzenzug 
+ausgeschöpft ist, muss dem Kläger, wie oben dargelegt, die Anrufung 
+eines Gerichtes möglich sein. Diese Möglichkeit besteht im geltenden 
+Recht der Landeskirche zur Zeit nicht. Die in erster Lesung von der 
+Synode beratene neue Kirchenverfassung sieht demgegenüber in Art. 
+15 die Wahl einer vom Kirchenrat und der Synode unabhängigen Re-
+kurskommission vor. Nach Art. 40 Abs. 2 und 3 des Entwurfes soll die 
+Rekurskommission über Beschwerden gegen erst- und zweitinstanzli-
+che Beschlüsse des Kirchenrates entscheiden. Sollten diese Bestim-
+mungen einmal in Kraft treten und, vorausgesetzt eine allenfalls noch 
+zu schaffende Verfahrensordnung schränke die Kognitionsbefugnis 
+der vorgesehenen Rekurskommission nicht ein, würde die Landeskir-
+che dannzumal über ein EMRK-konformes Gericht verfügen. 
+ 
+c) Der von Art. 6 Abs. 1 EMRK verlangte gerichtliche Rechtsschutz 
+zählt nach der Rechtsprechung des Bundesgerichts zu den verfas-
+sungsrechtlichen Anforderungen des Bundesrechts, denen die Kanto-
+ne Rechnung zu tragen haben. Bei Fehlen einer entsprechenden Ge-
+richtsinstanz werden die Kantone vom Bundesgericht jeweils angewie-
+sen, eine Gerichtsinstanz mit voller Kognitionsbefugnis zur Verfügung 
+zu stellen (BGE 123 I 96 E. 5, 120 Ia 31 E. 5). Nach dem erstgenann-
+ten Entscheid fehlte im Kanton Graubünden eine unabhängige Ge-
+richtsinstanz, bei der ein Notar den Entscheid über den Entzug seiner 
+Notariatsbewilligung hätte anfechten können. Das Bundesgericht hatte 
+nach der Feststellung des Fehlens einer EMRK-konformen Gerichts-
+behörde erwogen, dass Art. 6 Abs. 1 EMRK unmittelbar anwendbar 
+sei und der Kanton Graubünden nötigenfalls auf dem Wege der Ver-
+ordnungsgebung eine solche Instanz zu bezeichnen habe, an die als-
+dann die Angelegenheit zu überweisen sei. Genau so, wie vom Bun-
+desgericht vorgezeichnet, würde es sich im vorliegenden Falle verhal-
+ten. D. h. die Landeskirche als öffentlich-rechtliche Körperschaft des 
+
+
+B. Gerichtsentscheide 
+3360 
+ 
+88 
+kantonalen Rechts hätte dem Kläger eine EMRK-konforme Gerichts-
+behörde zur Verfügung zu stellen. Zufolge von Art. 109 Abs. 3 KV 
+kann die vorliegende Streitsache entgegen der Meinung des Klägers 
+nicht einfach bei einem staatlichen Gericht eingeklagt oder an ein sol-
+ches weitergezogen werden, weil zur Zeit eine kirchliche, den Garan-
+tien von Art. 6 Abs. 1 EMRK genügende Instanz fehlt. Die derzeit gülti-
+ge Behördenorganisation der Landeskirche hat damit auf die fehlende 
+Zuständigkeit der Vorinstanz zur Beurteilung der vom Kläger einge-
+klagten Ansprüche keinen Einfluss. Es bleibt dabei, dass die Appellati-
+on abzuweisen ist. 
+OGP 8.8.2000 
+3360 
+Arbeitsvertrag. Schadenersatz des Arbeitgebers bei vorzeitigem Ver-
+lassen der Arbeitsstelle; Teilklage, abgeurteilte Sache (Art. 337d OR; 
+Art. 116 Abs. 2 Ziff. 2 ZPO). 
+ 
+1. Die Klägerin hat ihre auf die Art. 321a Abs. 3, 321e und 337d 
+OR abgestützten Forderungen an Schranken mit insgesamt knapp Fr. 
+10'000.-- beziffert. Davon hat sie ausdrücklich nur Fr. 7'000.-- vom 
+Beklagten verlangt. Nach der Dispositionsmaxime ist dies zulässig. Es 
+versteht sich jedoch von selbst, dass nach rechtskräftigem Abschluss 
+des vorliegenden Verfahrens bezüglich der genannten Ansprüche eine 
+abgeurteilte Sache im Sinne von Art. 116 Abs. 2 Ziffer 2 ZPO vorliegt. 
+Dies gilt insbesondere für die Ansprüche nach Art. 337d OR, da in 
+Arbeitsstreitigkeiten mit einem Streitwert von unter Fr. 20'000.-- (Art. 
+343 
+OR) 
+nur 
+sogenannte 
+unechte 
+Teilklagen 
+zulässig 
+sind 
+(Streiff/v.Kaenel, Arbeitsvertrag, 5. Auflage, Zürich 1993, N. 7 zu Art. 
+343, und Entscheid des Obergerichtspräsidenten vom 5.1.1994 in der 
+Proz. Nr. 73/93). Wäre die Klägerin der Auffassung gewesen, sie hätte 
+vom Beklagten als Schadenersatz nach Art. 337d OR einen grösseren 
+Betrag zugute, hätte sie diesen grösseren Betrag einklagen müssen. 
+Die Geltendmachung lediglich eines Teils davon hätte als verpönte 
+echte Teilklage zu einem Nichteintretensentscheid führen müssen. 
+ 
+2. Aus Art. 337d Abs. 1 OR folgt ein Anspruch der Klägerin auf 
+Entschädigung. Diese entspricht einem Viertel des Monatslohnes und
