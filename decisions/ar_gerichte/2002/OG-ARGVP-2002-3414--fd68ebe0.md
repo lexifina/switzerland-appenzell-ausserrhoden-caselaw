@@ -1,0 +1,107 @@
+---
+decision_id: "ar_gerichte_OG_ARGVP_2002_3414"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "OG ARGVP 2002 3414"
+decided: "2002-05-23"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Gerichtsentscheide/2002/OG-20020523-20020523-ARGVP-2002-3414.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Gerichtsentscheide/2002/OG-20020523-20020523-ARGVP-2002-3414.pdf"
+cites_law: ["switzerland/bund/acts/281.1/art-143.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# AR Gerichte OG ARGVP 2002 3414
+
+## Regeste
+
+B. Gerichtsentscheide 3414 Die Schuldanerkennung (Mietvertrag) ist vorerst und bis zum Vorlie-gen korrekter Nebenkostenabrechnungen entkräftet. Das Rechtsöff-nungsgesuch des Gläubigers ist abzuweisen. OGP 21.3.2002 3414 Ausfallforderu
+
+## Text
+
+B. Gerichtsentscheide 
+3414 
+ 
+117 
+Die Schuldanerkennung (Mietvertrag) ist vorerst und bis zum Vorlie-
+gen korrekter Nebenkostenabrechnungen entkräftet. Das Rechtsöff-
+nungsgesuch des Gläubigers ist abzuweisen. 
+OGP 21.3.2002 
+3414 
+Ausfallforderung. Zuständigkeit zum Entscheid über die Geltendma-
+chung einer Ausfallforderung. 
+ 
+Sachverhalt: 
+ 
+In der Betreibung Nr. 9861517 gelangte am 23. November 2001 
+das der S. GmbH gehörende Grundstück Parz. Nr. 3318 zur Verstei-
+gerung. Es wurde der G.T. GmbH zum Preise von Fr. 850'000.-- zu-
+geschlagen. Die Ersteigererin leistete die in den Steigerungsbedin-
+gungen vorgesehene Baranzahlung von Fr. 50'000.--, nicht jedoch 
+den restlichen Kaufpreis von Fr. 800'000.--, weshalb das Betreibungs-
+amt H. den Zuschlag am 27. Dezember 2001 aufhob. Eine zweite 
+Versteigerung unterblieb. Mit Verfügung des Vizepräsidenten des 
+Bezirksgerichts Kreuzlingen wurde über die Eigentümerin und Grund-
+pfandschuldnerin infolge Insolvenzerklärung gestützt auf Art. 191 Abs. 
+1 SchKG per 19. Februar 2002 der Konkurs eröffnet und das Kon-
+kursamt des Kantons Thurgau mit der Durchführung des Konkurses 
+beauftragt. 
+ 
+Mit Verfügung vom 28. März 2002 lehnte es das Betreibungsamt 
+auf ein von der G.T. GmbH am 27. März 2002 gestelltes Gesuch hin 
+ab, die bei der Versteigerung geleistete Anzahlung von Fr. 50'000.-- 
+zurückzuerstatten. Dabei ging es davon aus, dass im Konkurs die 
+Verwertung des Grundstückes Nr. 3318 vom Konkursamt weiterge-
+führt werde. Solange nicht feststehe, ob und allenfalls was für ein 
+Ausfall bei einer Verwertung im Konkurs entstehe, könne die im 
+Betreibungsverfahren erhobene Sicherheit nicht freigegeben werden. 
+ 
+Gegen diese Verfügung liess die G.T. GmbH fristgemäss Be-
+schwerde erheben mit dem Antrag, es sei die Verfügung vom 28. 
+März 2002 des Betreibungsamtes in der Betreibung Nr. 9861517 auf-
+zuheben und es sei das Betreibungsamt anzuweisen, der Beschwer-
+deführerin den Betrag von Fr. 50'000.-- zurückzuerstatten. Zur Be-
+
+
+B. Gerichtsentscheide 
+3414 
+ 
+118 
+gründung wird im Wesentlichen ausgeführt, es fehle die gesetzliche 
+Grundlage für ein Zurückbehalten der Anzahlung in der dahingefalle-
+nen Betreibung. Infolge Konkurses werde die Verwertung von Grund 
+auf neu durchgeführt. Eine Haftung aus Analogie lasse sich nicht her-
+leiten; diesbezüglich liege ein qualifiziertes Schweigen des Gesetzge-
+bers vor. Der Untergang der Haftung ergebe sich aus BGE 40 III 403. 
+Auch werde in der Lehre die Meinung vertreten, die Haftung des ur-
+sprünglichen Ersteigerers ergebe sich „ausschliesslich“ aus Art. 143 
+SchKG. 
+ 
+ 
+Aus den Erwägungen: 
+ 
+Zum Zeitpunkt der Konkurseröffnung über die Grundpfandschuld-
+nerin bestand eine bedingte Ausfallforderung gegen die Ersteigererin. 
+Diese fiel, wie auch die dafür haftende Anzahlung von Fr. 50'000.--, in 
+die Konkursmasse (Lukas Handschin/Daniel Hunkeler in Staehelin/ 
+Bauer/Staehelin [Hrsg.], Kommentar zum Bundesgesetz über Schuld-
+betreibung und Konkurs, SchKG II, Basel/Genf/München 1998, Art. 
+199, N. 8). Mit der Eröffnung des Konkurses über die S. GmbH hat 
+das Konkursamt Frauenfeld als Vertreterin der Gemeinschuldnerin 
+wie auch der Pfandgläubiger in Wahrung der Interessen aller Beteilig-
+ten darüber zu entscheiden, ob gegen die Ersteigererin ein Ausfall 
+geltend zu machen ist und ob und in welchem Umfang sie die geleis-
+tete Anzahlung als Sicherheit zurückbehalten soll (vgl. Entscheid der 
+Aufsichtsbehörde Bern vom 26.7.1972, BlSchK 38, Nr. 13, S. 44). Die 
+in der Beschwerde zitierte Literatur trifft auf die vorliegende Problema-
+tik nicht zu. In BGE 40 III 403 ff. geht es um die Identität der Steige-
+rungsbedingungen im Falle einer Wiederholung der Versteigerung. 
+Somit bleibt festzuhalten, dass das Betreibungsamt H. nach der Kon-
+kurseröffnung nicht mehr zuständig ist, über die Ausfallforderung und 
+die dafür haftende Sicherheit zu entscheiden. Es hat diesbezüglich 
+nach den Anweisungen des zuständigen Konkursamtes Frauenfeld zu 
+verfahren. Die Verfügung vom 28. März 2002 ist deshalb aufzuheben. 
+Soweit die Beschwerdeführerin indes mehr verlangt, nämlich die 
+Rückerstattung der Anzahlung durch das Betreibungsamt, ist auf die 
+Beschwerde nach dem Gesagten nicht einzutreten. 
+ 
+ABSchKG 23.5.2002
