@@ -1,0 +1,197 @@
+---
+decision_id: "ar_gerichte_Verwaltung_ARGVP_2001_1375"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "Verwaltung ARGVP 2001 1375"
+decided: "2001-04-09"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2001/Verwaltung-20010409-20010409-ARGVP-2001-1375.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2001/Verwaltung-20010409-20010409-ARGVP-2001-1375.pdf"
+---
+
+# AR Gerichte Verwaltung ARGVP 2001 1375
+
+## Regeste
+
+A. Verwaltungsentscheide 1375 seien, ist ihr im Lichte des eben Ausgeführten entgegen zu halten, dass über die Festlegung der Wiederherstellungspflicht an sich bereits rechtskräftig entschieden worden ist: Die Baubewilligungskommission h
+
+## Text
+
+A. Verwaltungsentscheide 
+1375 
+ 
+8 
+seien, ist ihr im Lichte des eben Ausgeführten entgegen zu halten, 
+dass über die Festlegung der Wiederherstellungspflicht an sich bereits 
+rechtskräftig entschieden worden ist: Die Baubewilligungskommission 
+hat mit ihrem (unangefochten gebliebenen) Bewilligungsentscheid 
+vom 22. Juni 1995 rechtskräftig über das Schicksal des in Abwei-
+chung von der ursprünglich erteilten Baubewilligung erstellten Balkons 
+entschieden. Dass die Rekurrentin damals noch gar nicht Eigentüme-
+rin der Wohnung und damit des strittigen Balkons war, vermag ihr in 
+diesem Zusammenhang nicht weiter zu helfen (vgl. Hanspeter Geiser, 
+Rechtsschutz im Verwaltungsvollstreckungsverfahren, St. Gallen 
+1978, S. 99 f.; vgl. auch hinten Erw. 3a). Auch vermag nichts zu än-
+dern, dass die damals verfügende Gemeindebaubehörde nicht er-
+kennbar überprüft hat, ob die verlangten Wiederherstellungsmass-
+nahmen am umstrittenen Balkon dem Verhältnismässigkeitsgebot 
+genügen können. Anhaltspunkte, welche zur Nichtigkeit der Verfü-
+gung vom 22. Juni 1995 führen müssten, sind jedenfalls weder er-
+sichtlich, noch wurden solche von der Rekurrentin vorgebracht. 
+ 
+Gesagtes führt zum Zwischenergebnis, dass an der grundsätzli-
+chen, mit rechtskräftiger Verfügung vom 22. Juni 1995 festgelegten 
+Pflicht zur Ergreifung bestimmter wiederherstellender Massnahmen 
+nichts mehr geändert werden darf. In concreto können die Vorbringen 
+der Rekurrentin bezüglich der Verletzung des Verhältnismässigkeits-
+prinzips bei der Festsetzung der Wiederherstellungspflicht in diesem 
+Verfahren nicht mehr gehört werden. Als Folge davon vermag die 
+Rekurrentin mit ihrem Begehren um nachträgliche Bewilligung der 
+umstrittenen Bauteile nicht durchzudringen. 
+Entscheid der Baudirektion i.V. vom 28.3.2001 
+1375 
+Bewilligungspflicht. Abgrenzung zwischen Unterhaltsarbeiten und 
+bewilligungspflichtigen Umgestaltungen (Bestätigung der Rechtspre-
+chung) 
+ 
+Der Rekurrent macht geltend, dass es für die (inzwischen vorge-
+nommene) Sanierung des Fuss- und Fahrweges eine Baubewilligung 
+
+
+A. Verwaltungsentscheide 
+1375 
+ 
+9 
+brauche bzw. ein Baubewilligungsverfahren durchgeführt werden 
+müsse. Es stellt sich vorerst also die Frage, ob die Vorinstanzen zu 
+Recht entschieden haben, dass das Bauvorhaben bzw. die ausgeführ-
+ten Bauarbeiten nicht bewilligungspflichtig seien. 
+ 
+Sinn und Zweck des Baubewilligungsverfahrens ist es, den Behör-
+den die Möglichkeit zu verschaffen, ein Bauvorhaben vor seiner Aus-
+führung auf seine Übereinstimmung mit der einschlägigen Gesetzge-
+bung zu prüfen. Folgerichtig müsste somit eigentlich jede Massnah-
+me, die auf irgendeine Vorschrift Bezug nimmt, der Bewilligungspflicht 
+unterliegen. Eine derart weitgehende Grenzziehung würde aber das 
+Prinzip überspannen und zu einer unnötigen Belastung des Verwal-
+tungsapparates führen. Zudem würde die Freiheit des Einzelnen un-
+verhältnismässig beschränkt. Das kantonale Recht unterstellt denn 
+auch der Bewilligungspflicht nur baurechtlich bedeutsame Umgestal-
+tungen (vgl. Art. 3 der Verordnung über Baubewilligungspflicht und 
+-verfahren sowie über das Bauen ausserhalb der Bauzonen [Bauver-
+ordnung; BauV; bGS 721.11]). Als Massstab dafür, ob eine bauliche 
+Massnahme bedeutsam genug ist, um sie dem Baubewilligungsver-
+fahren zu unterstellen, ist daher darauf abzustellen, ob im Allgemei-
+nen, nach dem gewöhnlichen Lauf der Dinge, ein nicht unerhebliches 
+Interesse der Öffentlichkeit oder der Nachbarn an einer vorgängigen 
+Kontrolle besteht. Dabei ist ein Bauvorhaben nicht isoliert, sondern in 
+seinem Gesamtzusammenhang zu würdigen. Die Behörde darf alle 
+wahrscheinlichen, baurechtlich erheblichen Folgen einer Nutzung in 
+die Betrachtung einbeziehen. Zudem muss berücksichtigt werden, 
+dass sich die Behörden begreiflicherweise nur schwer dazu ent-
+schliessen können, eine einmal erstellte Baute, selbst wenn sie wider-
+rechtlich ist, beseitigen oder anpassen zu lassen. Diese Schwierigkei-
+ten des Vollzuges, wenn eine Rechtsverletzung erst nachträglich fest-
+gestellt wird, liefern ein Argument dafür, die Baubewilligungspflicht 
+eher weit zu fassen und eine vorgängige Kontrolle sicherzustellen 
+(vgl. AGVE 1978; S. 552f; RRB vom 7.1.1986, in: AR GVP Nr. 1118, 
+mit weiteren Hinweisen; RRB vom 7.1.1992, in: AR GVP 4/1992 Nr. 
+1229; RRB vom 7.2.1996, in: AR GVP 7/1995, Nr. 1275). Nach Mass-
+gabe von Art. 3 BauV gelten als bewilligungspflichtig u.a. die Errich-
+tung, der Wiederaufbau, die bauliche Änderung, die Nutzungsände-
+rung und der Abbruch einer Baute und Anlage (vgl. AR GVP 7/1995, 
+Nr. 1275; vgl. auch AR GVP 4/1992 Nr. 1229). Als Bauten und Anla-
+gen in diesem Sinne gelten auch Tiefbauten wie Strassen, Plätze aller 
+
+
+A. Verwaltungsentscheide 
+1375 
+ 
+10 
+Art, Sportanlagen und unterirdische Bauten und Schwimmbassins 
+(Art. 3 lit. b BauV). Umgekehrt sind nicht bewilligungspflichtig u.a. 
+Erneuerungen (Renovationen), welche dem normalen Unterhalt die-
+nen und gegenüber dem Bestehenden keine nach aussen sichtbare 
+Veränderungen mit sich bringen und die Sicherheit für Menschen und 
+Sachen nicht verschlechtern sowie einmalige Terrainveränderungen 
+bis zu einer maximalen Differenz von 1.20 m zum gewachsenen Ter-
+rain und einer Bodenfläche von 100 m2 (Art. 4 lit. a und c BauV). 
+ 
+Der Gemeinderat Lutzenberg bzw. die Baubewilligungskommission 
+vertreten die Ansicht, dass die (vorgenommenen) Arbeiten Erneue-
+rungen im Sinne von Art. 4 lit. a BauV bzw. einmalige Terrainverände-
+rungen im Sinne von Art. 4 lit. c BauV sind. Demgegenüber behauptet 
+der Rekurrent sinngemäss, es handle sich nicht mehr um eine Erneu-
+erung in diesem Sinne und die Terrainveränderungen fielen nicht 
+mehr unter die genannte Bestimmung. Vorerst ist mithin die Frage zu 
+klären, ob die fragliche Sanierung als bewilligungsbedürftige Umges-
+taltung oder als nicht bewilligungspflichtige Erneuerung (im Sinne von 
+Art. 4 lit. a BauV) zu gelten hat. Dem Unterhalt, der Instandhaltung 
+dienen alle Arbeiten, wenn eine Baute in ihrer derzeitigen inneren und 
+äusseren Gestaltung, Form und Zweckbestimmung bestehen bleibt, 
+lediglich mangelhafte Teile ersetzt oder instandgehalten werden. Der 
+Begriff des Unterhaltes ist nicht eng auszulegen, fallen unter ihn doch 
+auch bauliche Vorkehren, die nicht alle der Erhaltung, sondern auch 
+der Modernisierung bzw. der zeitgemässen Erneuerung dienen, vor-
+ausgesetzt, dass sie nicht bauliche Umgestaltungen zur Folge haben" 
+(AR GVP 4/1992, Nr. 1229 mit Hinweis auf E. Zimmerlin, Baugesetz 
+des Kantons Aargau, Aarau 1985, N.2 zu § 150). Die Abgrenzung 
+zwischen blossen Unterhaltsarbeiten und als (bewilligungspflichtige) 
+Umgestaltung geltenden Vorkehren fällt nicht immer leicht (vgl. AR 
+GVP 4/1992; Nr. 1229). Bei Hochbauten wird die Abgrenzung biswei-
+len dadurch getroffen, indem die Frage gestellt wird, ob der zur Dis-
+kussion stehende Bau dank seiner neuen Ausgestaltung in einen hö-
+heren Rang aufrückt (vgl. ZBI 70 (1969) S. 400). Ein anderes Kriteri-
+um ist etwa, ob der Arbeitsaufwand seiner Qualität nach denjenigen 
+einer (bewilligungspflichtigen) Umgestaltung oder eines Umbaus er-
+reicht (AR GVP 4/1992, Nr. 1229 mit Hinweis auf Zimmerlin, a.a.O., N. 
+2c zu § 150). 
+ 
+In der kantonalen Praxis wurden etwa für bewilligungspflichtig er-
+klärt: Die Teerung eines 400 m2 grossen, gekiesten Parkplatzes (AR 
+
+
+A. Verwaltungsentscheide 
+1375 
+ 
+11 
+GVP 4/1992 Nr. 1229); die Bekiesung eines Wiesenweges bzw. eines 
+überwachsenen Weges, der mit Ziegeln und einem Steinbett befestigt 
+war (AR GVP 3/1991 Nr. 1216). 
+ 
+Wie anlässlich des Augenscheins festgestellt werden konnte, und 
+wie aus verschiedenen ins Recht gelegten Fotografien ersichtlich ist, 
+wurde der ursprüngliche (teilweise überwachsene) Fahrweg neu ge-
+kiest und die vorhandenen Fahrrinnen ausgeebnet. Auch wurde der 
+wegseits gelegene Teil des bestehenden, betonierten Brunnenvor-
+platzes mit Kies überdeckt. Kaum von der Hand zu weisen ist, dass 
+diese vorgenommenen Sanierungsarbeiten - wie die eingereichten 
+Fotos z. T. belegen - kurz nach Abschluss der Sanierung im Nachhi-
+nein wohl nach aussen sichtbar in Erscheinung treten. Dies liegt je-
+doch in der Natur der Sache selbst. Denn es ist offensichtlich, dass 
+sich ein neu bekiester, ebener Kiesweg im Vergleich zu einem teilwei-
+se überwachsenen, von Fahrspuren gezeichneten Weg in seiner äus-
+seren Erscheinung unterscheidet. Im Gegensatz zu den oben zitierten 
+Entscheiden wurde der Weg jedoch nicht mit einem qualitativ ande-
+ren, sondern einem gleichartigen Belag versehen. Deshalb kann 
+zwanglos angenommen werden, dass sich nach mehrjährigem Befah-
+ren des Weges wieder Rillen bilden werden, und Teile des Weges 
+wieder überwachsen sein werden, so dass nicht von einer nach aus-
+sen sichtbaren Veränderung gesprochen werden kann. Auch ist zu 
+beachten, dass der Begriff des Unterhalts "extensiv" auszulegen ist, 
+umfasst er doch nach den obenstehenden Ausführungen auch Mo-
+dernisierungen bzw. zeitgemässe Erneuerungen. Hier liegt aber noch 
+nicht einmal eine solche zeitgemässe Erneuerung vor: Die Arbeiten 
+beschränkten sich vorwiegend auf die neue Bekiesung (inkl. Koffe-
+rung) und die Ausebnung der vorhandenen Fahrrinnen. Wollte man im 
+Übrigen davon ausgehen, dass jede noch so geringe nach aussen hin 
+sichtbare Veränderung die Bejahung der Bewilligungspflicht zur Folge 
+hätte, würde die Ausnahmeregelung von Art. 4 lit. a BauV illusorisch. 
+Unter diesem Gesichtspunkt und in Anbetracht des Umstandes, dass 
+Erneuerungen nicht nur erhaltende, sondern auch modernisierende 
+Vorkehren umfassen, ist ebenfalls die Überdeckung des betonierten 
+Brunnenvorplatzes mit Kies nicht zu bemängeln. Insoweit ist die An-
+sicht der Vorinstanz, wonach die Sanierungsarbeiten als Erneuerung 
+im Sinne von Art. 4 lit. a BauV zu gelten haben, grundsätzlich nicht zu 
+beanstanden. 
+Entscheid der Baudirektion vom 9.4.2001
