@@ -1,0 +1,340 @@
+---
+decision_id: "ar_gerichte_OG_ARGVP_2003_2230"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "OG ARGVP 2003 2230"
+decided: "2003-11-26"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Gerichtsentscheide/2003/OG-20031126-20031126-ARGVP-2003-2230.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Gerichtsentscheide/2003/OG-20031126-20031126-ARGVP-2003-2230.pdf"
+cites_law: ["switzerland/bund/acts/142.20/art-012.md"]
+---
+
+# AR Gerichte OG ARGVP 2003 2230
+
+## Regeste
+
+B. Gerichtsentscheide 2230 wird mit dem Sachentscheid gegenstandslos und der ohne förmliche Verfügung geduldete weitere Aufenthalt verliert seine Rechtfertigung. Aus diesem Grund hat der Beschwerdeführer den Kanton nun spätes-tens an dem
+
+## Text
+
+B. Gerichtsentscheide 
+2230 
+ 
+82 
+wird mit dem Sachentscheid gegenstandslos und der ohne förmliche 
+Verfügung geduldete weitere Aufenthalt verliert seine Rechtfertigung. 
+Aus diesem Grund hat der Beschwerdeführer den Kanton nun spätes-
+tens an dem vom kantonalen Amt für Ausländerfragen festzusetzen-
+den Ausreisetag zu verlassen (Art. 12 Abs. 3 ANAG). 
+ 
+VGer 30.10.2002 
+ 
+Das Bundesgericht hat eine gegen dieses Urteil erhobene Ver-
+waltungsgerichtsbeschwerde 
+am 
+14. 
+April 
+2003 
+abgewiesen 
+(2A.155/2003); es hat die Erw. 4.b und c namentlich auch in Bezug 
+auf die als Indiz für das Fehlen eines Ehewillens gewürdigte Wahl des 
+entfernt gelegenen Arbeitsortes bestätigt. 
+2230 
+Unentgeltlicher Schülertransport. 
+ 
+Sachverhalt 
+ 
+Die in der Speicherschwendi, Gemeinde Speicher, wohnhaften 
+Kinder können dort die Unterstufe (1.-3. Klasse) besuchen. Ab der 
+Mittelstufe (4.-6. Klasse) haben die Kinder die Schulen im rund 3 km 
+entfernten Dorfzentrum zu besuchen. Nach Auffassung des Gemein-
+derates ist der Schulweg ins Dorfzentrum ab der Mittelstufe zumutbar, 
+wobei Mittelstufenschüler den öffentlichen Bus zu benutzen haben. 
+Nach der mit Beschwerde angefochtenen Praxis der Gemeinde Spei-
+cher werden der einzelnen Familie die Buskosten jeweils nur für das 
+zweite oder für die weiteren Kinder zurückvergütet, wenn gleichzeitig 
+zwei oder mehrere die obligatorische Mittel- oder Oberstufe besu-
+chen. 
+ 
+ 
+Aus den Erwägungen: 
+ 
+2. Nach Art. 27 Abs. 2 der alten sowie nach Art. 19 und 62 Abs. 2 
+der geltenden Bundesverfassung (BV, SR 101) haben alle Kinder 
+Anspruch auf einen genügenden und unentgeltlichen Grundschulun-
+terricht; der Grundschulunterricht ist obligatorisch und untersteht 
+staatlicher Leitung oder Aufsicht. Dieser Anspruch besteht grundsätz-
+
+
+B. Gerichtsentscheide 
+2230 
+ 
+83 
+lich gegenüber dem für das Schulwesen zuständigen Kanton, wobei 
+der Kanton diese Aufgabe im Rahmen seiner Schulgesetzgebung den 
+Gemeinden übertragen kann. Nach Art. 4 des kantonalen Schulgeset-
+zes (SchG, bGS 411.0) sind die Gemeinden Träger der Schulen der 
+Primarschulstufe und der Sekundarschulstufe I. Letztere schliesst an 
+die sechste Primarklasse an und dauert zwei bis vier Jahre (Art. 10 
+Abs. 2 SchG), wobei aber das Schulobligatorium nach dem Ende des 
+achten Schuljahres endet (vgl. Art. 19 Abs. 1 SchG und Art. 21 Abs. 2 
+der Schulverordnung, SchVO, bGS 411.1). In ständiger Rechtspre-
+chung des Bundesrates ist aus den vorgenannten Bestimmungen der 
+Bundesverfassung der Grundsatz abgeleitet worden, die Kantone 
+oder an ihrer Stelle die zuständigen Gemeinden hätten dafür zu sor-
+gen, dass der Besuch der Grundschulen ohne unzumutbaren Auf-
+wand für den Schulweg erfolgen könne. Schüler der Grundschulen 
+haben demnach in ihren Wohnsitzgemeinden nicht nur Anspruch auf 
+unentgeltlichen Unterricht, sondern darüber hinaus auch darauf, dass 
+der Schulweg für sie keine unzumutbare Erschwerung des Schulbe-
+suches bedeutet. Ist der Weg zur Schule für die Primarschüler allzu 
+weit, zu mühsam oder mit unzumutbaren Gefahren verbunden, so 
+haben die Kantone und Gemeinden Abhilfe zu schaffen (Entscheid 
+des Bundesrates vom 17.2.1999, VPB 2000/64.56, 681; H. Plotke, 
+Schweizerisches Schulrecht, Bern/Stuttgart 1979, 179 ff.; AR GVP 
+13/2001, Nr. 2207). Die Frage der Zumutbarkeit beurteilt sich dem-
+nach einerseits nach der Länge, aber zunehmend auch nach der Ge-
+fährlichkeit des Weges. Die Gefährlichkeit beurteilt sich nach der 
+Stärke des Strassenverkehrs sowie nach dem Vorhandensein von 
+Fussgängerstreifen, Trottoirs, Lichtsignalanlagen und dergleichen 
+(vgl. VPB 2000/64.1, 19 ff). Auf unbefestigten Fuss- und Wanderwe-
+gen ist die Begehbarkeit bei schlechtem Wetter zu berücksichtigen; 
+wo eine Beleuchtung fehlt, ist für das Winterhalbjahr zu prüfen, ob der 
+Weg vor Schulbeginn bei Dunkelheit begangen werden muss und ob 
+dies sicher möglich ist (VPB 2000/64.56, 682); dabei ist auch das 
+Risiko von Übergriffen auf einsamen und abgelegenen Teilen zu be-
+rücksichtigen. Bezüglich der Länge des Schulweges gilt nach der 
+Rechtsprechung des Bundesrates, dass Schulwege als unzumutbar 
+gelten, wenn sie Fussmärsche von über 30 Minuten, in den Alpen 
+solche von über 45 Minuten pro Strecke bedingen, oder wenn diese 
+2,5 km übersteigen (VPB 2000/64.1, Erw. 4.1). Der dort und in BVR 
+2003 (S.204, E. 4.c/aa) erwähnte Entscheid, wonach ein Schulweg 
+
+
+B. Gerichtsentscheide 
+2230 
+ 
+84 
+von drei Kilometern Länge und einem Höhenunterschied von 215 
+Metern, für den bei wenig prekären Schneeverhältnissen 45 Minuten 
+aufzuwenden waren, nicht beanstandet wurde, stammt aus dem Jahre 
+1941 und dürfte heutiger Auffassung namentlich im Bereich einer 
+Agglomerationsgemeinde nicht mehr entsprechen. Dazu kommt, dass 
+das Alter der damals betroffenen Kinder nicht ersichtlich ist. In einem 
+neueren Entscheid hat der Bundesrat erwogen, ein Schulweg von 2.5 
+Kilometern und 500m Gefälle, teilweise auf einem steilen Naturweg, 
+sei für Kinder der ersten bis dritten Klasse bei einem Zeitbedarf von 
+knapp 40 Minuten nicht zumutbar (VPB 2000/64.56, Erw. 5.1.und 5.2). 
+Mit diesem Entscheid hat der Bundesrat bestätigt, dass das Alter, 
+aber auch eine durchschnittliche Gesundheit und Konstitution der 
+betroffenen Kinder eine bedeutende Rolle spielen, wobei er bei Schü-
+lern der untersten Altersstufe, das heisst bei solchen der 1. bis 
+3. Klasse, erhöhte Anforderungen an die sichere Begehbarkeit eines 
+Fussweges stellt. Die Eltern haben demnach zwar kein allgemeines 
+Recht auf Übernahme der Reisekosten für ihre Kinder. Unabhängig 
+von der kantonalen Regelung räumt ihnen aber die verfassungsrecht-
+liche Mindestgarantie einen subjektiven Anspruch auf unentgeltlichen 
+Grundschulunterricht ein, der unter den vorstehend umschriebenen 
+Voraussetzungen auch die Übernahme der Transportkosten durch 
+das Gemeinwesen verlangt, wenn der Schulweg aufgrund seiner ü-
+bermässigen Länge oder grossen Gefährlichkeit als unzumutbar gilt 
+(vgl. Häfelin/Haller, Schweiz. Bundesstaatsrecht, 5. Aufl. 2001, N 920, 
+sowie BVR 2003, 202, mit weiteren Hinweisen). Nach dieser Rechts-
+sprechung kann für die Zumutbarkeit eines Schulweges auch eine 
+Rolle spielen, wie oft der Schulweg zurückgelegt werden muss (z.B. 
+wenn in der Schule keine Mittagsverpflegung angeboten wird), ferner 
+ob der Weg allein oder in Gruppen und zu welcher Tageszeit zurück-
+gelegt werden muss (BVR 2003, 202, E. 4.b und 4.c/cc). Weil die 
+Gemeinden Streusiedlungen in grösserem oder kleinerem Mass zu-
+lassen können, müssen sie sich gegebenenfalls auch an den Folge-
+kosten beteiligen. Steht ein öffentliches Transportmittel zur Verfügung 
+und sind Schulbeginn und Schulschluss auf den Fahrplan ausgerich-
+tet oder umgekehrt, so genügt es, wenn die Gemeinde die entspre-
+chenden Billetkosten übernimmt (vgl. H. Plotke, Schweizerisches 
+Schulrecht, 2. überarb. Aufl. 2003, 234/235). 
+ 
+3. Nach den Akten steht fest, dass die Kinder der Beschwerdefüh-
+rer die Unterstufe (1. - 3. Klasse) in Speicherschwendi besuchen 
+
+
+B. Gerichtsentscheide 
+2230 
+ 
+85 
+konnten. Im übrigen ist unbestritten, dass der Schulweg für das Kind 
+in der Mittelstufe (M.) und in der Oberstufe (O.) je eine Länge von 
+rund 3.2 km aufweist und dass sie dabei eine Höhendifferenz von 
+etwas über 150m zu überwinden haben. Unbestritten ist auch, dass 
+den beiden Kindern keine Mittagsverpflegung angeboten wird, so 
+dass sie den Weg in aller Regel viermal täglich zurückzulegen haben. 
+Da Erwachsene in der Regel etwa 5 km pro Stunde zu Fuss zurückle-
+gen, ist davon auszugehen, dass M. als Kind in der Mittelstufe (4. - 
+6.Klasse) wohl wenigstens 40 bis 45 Minuten für die etwas über drei 
+Kilometer benötigt. Dies ergibt eine Marschzeit von täglich zwischen 
+zwei Stunden 40 Minuten und drei Stunden für die insgesamt 12.8 
+Kilometer messende Strecke. Auch O. dürfte als Oberstufenschüler 
+für dieselbe Distanz täglich kaum weniger als 2 ½ Stunden benötigen. 
+ 
+a) Der Gemeinderat ging in seiner Verfügung vom 4. Juni 2002 
+ausdrücklich davon aus, dass dieser Schulweg ab der Mittelstufe 
+(4. Klasse) zumutbar sei und dass der Schulweg über die öffentlichen 
+Verkehrsmittel erfolgen soll. Diese Haltung der Gemeinde ist insofern 
+widersprüchlich, als für einen Schulweg mit zumutbarer Länge es 
+zumindest nach der oben zitierten Rechtsprechung zu Art. 19 und 62 
+BV keines Bustransportes ab der Speicherschwendi und auch keiner 
+Kostenübernahme durch die Gemeinde bedurft hätte. An diesem Wi-
+derspruch ändert wenig, dass die Gemeinde lediglich, aber immerhin 
+die Buskosten für das zweite, derzeit die obligatorische (Mittel-)Stufe 
+besuchende Kind und mithin für das dritte Kind M. der betroffenen 
+Familie zu übernehmen bereit ist (das älteste der drei Kinder besucht 
+eine Kantonsschule und fällt nicht mehr unter die obligatorische 
+Schulpflicht). Der Regierungsrat ist im angefochtenen Entscheid da-
+von ausgegangen, dass der Weg für M. als Kind in der Mittelstufe 
+zumindest mit dem öffentlichen Verkehrsmittel dank eines in der Mit-
+tagszeit auf den Schulschluss abgestimmten Busfahrplanes und dank 
+der Kostentragung durch die Gemeinde für dieses dritte Kind der Be-
+schwerdeführer zumutbar sei. Dies ist nicht zu beanstanden, soweit 
+die Vorinstanz damit die Notwendigkeit eines separaten Schulbusses 
+verneint hat. Die Frage, ob der Weg für M. als Kind in der Mittelstufe 
+(4.-6. Klasse) auch zu Fuss zumutbar sei, liess der Regierungsrat 
+offen. Diese Frage kann indessen nicht offen gelassen werden, denn 
+der von der beschwerdeführenden Familie geltend gemachte An-
+spruch auf Übernahme der Transportkosten durch das Gemeinwesen 
+besteht als Ausfluss des Anspruches auf einen genügenden und un-
+
+
+B. Gerichtsentscheide 
+2230 
+ 
+86 
+entgeltlichen Grundschulunterricht gegebenenfalls für jedes ihrer Kin-
+der unabhängig davon, ob es sich um das erste, zweite oder dritte 
+Kind handelt. Mit anderen Worten dieser aus Art. 19 und 62 BV abge-
+leitete Anspruch darf nicht davon abhängig gemacht werden, ob der 
+Gemeinderat aus Goodwill oder anderen Gründen gewillt ist und 
+bleibt, ab dem zweiten oder dritten Kind die Buskosten zu überneh-
+men. 
+ 
+b) Nach der oben zitierten Rechtsprechung und der eigenen Pra-
+xis des Verwaltungsgerichtes (AR GVP 13/2001, Nr. 2207) muss der 
+vorliegend von M. als Mittelstufenschülerin mit einem täglichen Zeit-
+aufwand von wenigstens 2 Stunden und 40 Minuten täglich zurückzu-
+legende Schulweg von insgesamt mehr als 12 km Länge vorab auf-
+grund seiner Länge als unzumutbar beurteilt werden. Dabei übersieht 
+das Gericht keineswegs, dass der Weg auf seiner ganzen Länge ent-
+weder ein Trottoir aufweist oder durch eine verkehrsberuhigte Zone 
+mit Geschwindigkeitsbegrenzung führt (30 km/h) und insofern keinen 
+besonderen Gefahren ausgesetzt ist. Auch weist der Weg entgegen 
+der Darstellung der Beschwerdeführer auf seiner ganzen Länge eine 
+Beleuchtung auf, weshalb ein Begehen oder Befahren bei frühem 
+Schulbeginn für sich allein als zumutbar erscheint. Richtig ist aller-
+dings, dass der Weg teilweise durch ein unbewohntes Waldgebiet 
+führt. Unter diesen Umständen kommt das Gericht anders als der 
+Gemeinderat zum Schluss, dass dieser Schulweg zumindest einem 
+Kind in der Mittelstufe (4. - 6. Klasse) nicht täglich viermal zu Fuss 
+abverlangt werden kann. Mit der Vorinstanz und dem Gemeinderat ist 
+hingegen davon auszugehen, dass M. der Schulbesuch mit dem öf-
+fentlichen Bus zuzumuten ist, nachdem dieser auf den Schulschluss 
+und -wiederbeginn weitgehend abgestimmt ist und ihr die Einnahme 
+des Mittagessens zu Hause erlaubt. Ist M. als obligatorisch schul-
+pflichtige Mittelstufenschülerin der Schulweg nach Speicher nur unter 
+Benutzung des öffentlichen Busses zumutbar, haben die Eltern indes-
+sen einen Anspruch auf Ersatz der ihnen für das öffentliche Ver-
+kehrsmittel erwachsenden Fahrkosten, und zwar unabhängig davon, 
+ob es sich bei M. um ihr erstes, zweites oder drittes Kind handelt. Bei 
+diesem Ergebnis kann offen bleiben, ob der Gemeinderat seine bishe-
+rige Praxis rechtsgleich gehandhabt hat. 
+ 
+c) Auch die Kostentragung für O. als Oberstufen- bzw. Sekundar-
+schüler I ist vorab nach der Zumutbarkeit des Schulweges und nicht 
+nach den Kriterien der Gemeinde zu beurteilen. Dass bei O. aufgrund 
+
+
+B. Gerichtsentscheide 
+2230 
+ 
+87 
+seines Alters ein anderer Massstab für die Beurteilung der Länge oder 
+Gefährlichkeit des Schulweges anzulegen ist, als bei M., ist grund-
+sätzlich richtig. Die Vorinstanz hat zu Recht erkannt, dass einem O-
+berstufenschüler anstelle eines Fussmarsches die Benützung eines 
+Velos oder allenfalls eines Mofas (ab 14 Jahren) zugemutet werden 
+kann. Dadurch wird die Länge des Weges in der Tat relativiert, und 
+der tägliche Zeitaufwand dürfte sich trotz des Höhenunterschiedes auf 
+wenig mehr als eine Stunde reduzieren. Dies gilt allerdings nur solan-
+ge, als die saisonalen Witterungsverhältnisse die Benutzung des Ve-
+los regelmässig erlauben. Sobald im Winter die Witterungsverhältnis-
+se einen Fussmarsch als angezeigt erscheinen lassen (in der Regel 
+ab November bis März, vgl. Stellungnahme der Gemeinde Speicher 
+vom 30.10.2002), dürfte auch ein Oberstufenschüler für die rund 
+3.2 Kilometer berg- und talwärts je rund 40 Minuten und damit täglich 
+rund 2 ½ Stunden benötigen. Anders als die Vorinstanz kommt das 
+Gericht zum Schluss, dass auch einem Oberstufenschüler namentlich 
+über die Mittagszeit nicht genügend Zeit zum Essen und zur Erholung 
+verbleibt, wenn er über den Mittag für den Fussweg hin und zurück 
+rund 80 Minuten aufwenden muss. Die Gemeinde ist deshalb ver-
+pflichtet, dem Oberstufenschüler O. die kostenlose Benutzung des 
+öffentlichen Busses wenigstens während den Wintermonaten zu er-
+möglichen. Aus Praktikabilitätsgründen ist die Gemeinde Speicher zur 
+Tragung der ausgewiesenen Buskosten jeweils ab Ende der Herbstfe-
+rien bis zu Beginn der Frühlingsferien zu verpflichten. Da sich dieser 
+Anspruch aus dem Anspruch auf unentgeltlichen obligatorischen 
+Grundschulunterricht ableitet, endet dieser Anspruch mit dem Ende 
+der obligatorischen Schulzeit. Diese bestimmt sich trotz bundesver-
+fassungsrechtlicher Grundlage nach wie vor nach kantonalem Recht 
+(vgl. H. Plotke, Schweiz. Schulrecht, 2. Aufl. 2003, S. 167 ff.). Nach 
+hiesigem Recht endet die obligatorische Schulpflicht mit dem Ende 
+des achten Schuljahres (Art. 19 Abs. 1 SchG). Die Gemeinde Spei-
+cher ist deshalb auch nur bis zum Ende des achten Schuljahres zur 
+Übernahme der im Winter für den Oberstufenschüler O. anfallenden 
+Buskosten verpflichtet. Desgleichen gilt für M., sobald sie in die Ober-
+stufe eintritt. 
+ 
+4. Zusammenfassend ergibt sich, dass die Beschwerde im Sinn 
+dieser Erwägungen teilweise gutzuheissen ist. Der angefochtene Ent-
+scheid ist insofern aufzuheben, als die Gemeinde Speicher zugunsten 
+der Beschwerdeführer zu verpflichten ist, dass sie die ausgewiesenen 
+
+
+B. Gerichtsentscheide 
+2231 
+ 
+88 
+Buskosten für M. bis zum Ende der Mittelstufe sowie für O. (und ab 
+der Oberstufe auch für M.) jeweils noch für das Wintersemester zu 
+erstatten hat. 
+VGer 26.11.2003 
+2231 
+Submission. Aufschiebende Wirkung (Art. 4 Abs. 3 GöB). Mangelhaf-
+te Begründung der Zuschlagsverfügung (5 Abs. 2 GöB). Die mangel-
+hafte Begründung einer Zuschlagsverfügung führt in der Regel dazu, 
+dass der Beschwerde aufschiebende Wirkung erteilt wird. 
+ 
+Aus den Erwägungen: 
+ 
+Nach Art. 4 Abs. 3 des Gesetzes über das öffentliche Beschaf-
+fungswesen (GöB, bGS 712.1) in Verbindung mit Art. 17 Abs. 1 der 
+Interkantonalen Vereinbarung über das öffentliche Beschaffungswe-
+sen (IVöB, SR 172.056.4) hat die Submissionsbeschwerde keine auf-
+schiebende Wirkung. Die Beschwerdeinstanz kann aber auf Gesuch 
+hin oder von Amtes wegen die aufschiebende Wirkung erteilen, wenn 
+die Beschwerde als ausreichend begründet erscheint und keine über-
+wiegenden öffentlichen oder privaten Interessen entgegen stehen. Die 
+Beschwerdeinstanz entscheidet innert 10 Tagen (praxisgemäss seit 
+Eingang des Kostenvorschusses) über die aufschiebende Wirkung. 
+ 
+Zuschlagsverfügungen sind nach Art. 5 Abs. 2 GöB kurz zu be-
+gründen. Dieser Vorschrift entspricht die angefochtene Vergabeverfü-
+gung nicht, heisst es darin doch lediglich, dass das wirtschaftlich 
+günstigste Angebot den Zuschlag erhalten habe, wofür die Gesamt-
+beurteilung der Kriterien massgebend gewesen sei. Diese Begrün-
+dung ist ungenügend und stellt nur eine inhaltsleere Formel dar. Dass 
+die Angebote nach Massgabe der Zuschlagskriterien geprüft werden, 
+ist eine Selbstverständlichkeit. Warum das preislich günstigste Ange-
+bot der Beschwerdeführerin den Zuschlag nicht erhalten hat, wird in 
+der Vergabeverfügung mit keinem Wort erwähnt. Aufgrund der gänz-
+lich fehlenden Begründung in der Zuschlagsverfügung kann im Sinne 
+einer vorläufigen Würdigung der Beschwerde nicht abgeschätzt wer-
+den, ob diese aussichtslos oder wenigstens überwiegend unbegrün-
+det erscheint. Nachdem der Gewährung der aufschiebenden Wirkung,
