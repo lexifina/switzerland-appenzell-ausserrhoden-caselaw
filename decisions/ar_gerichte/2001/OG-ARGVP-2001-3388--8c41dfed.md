@@ -1,0 +1,110 @@
+---
+decision_id: "ar_gerichte_OG_ARGVP_2001_3388"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "OG ARGVP 2001 3388"
+decided: "2001-11-12"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Gerichtsentscheide/2001/OG-20011112-20011112-ARGVP-2001-3388.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Gerichtsentscheide/2001/OG-20011112-20011112-ARGVP-2001-3388.pdf"
+cites_law: ["switzerland/bund/acts/281.1/art-106.md", "switzerland/bund/acts/281.1/art-131.md", "switzerland/bund/acts/281.1/art-219.md"]
+---
+
+# AR Gerichte OG ARGVP 2001 3388
+
+## Regeste
+
+B. Gerichtsentscheide 3388 3388 Arrestvollzug. Für eine Forderung gegen eine Mehrheit solidarisch haftender Drittschuldner ist kein Widerspruchsverfahren zu eröffnen, wenn diese ihre Schuldpflicht bestreiten (Art. 106 ff., 275 SchKG) Sac
+
+## Text
+
+B. Gerichtsentscheide 
+3388 
+ 
+105 
+3388 
+Arrestvollzug. Für eine Forderung gegen eine Mehrheit solidarisch 
+haftender Drittschuldner ist kein Widerspruchsverfahren zu eröffnen, 
+wenn diese ihre Schuldpflicht bestreiten (Art. 106 ff., 275 SchKG) 
+ 
+Sachverhalt: 
+ 
+Z. erwirkte zur Durchsetzung ihrer Ansprüche gegen X. einen Ar-
+restbefehl betreffend eine Forderung desselben im Betrage von Fr. 
+96’615.-- gegen die Hausgemeinschaft H., für deren Verpflichtungen 
+acht Drittschuldner solidarisch haften. Der Arrestbefehl wurde am 9. 
+August 2001 durch das Betreibungsamt vollzogen. Mit Verfügung vom 
+20. August 2001 setzte dieses Z. eine Frist von 20 Tagen zur Klage 
+auf Aberkennung der Ansprüche der Drittschuldner. Hiergegen erhob 
+Z. fristgerecht Beschwerde an die Aufsichtsbehörde mit dem Antrag, 
+die Klägerrolle sei den Drittschuldnern aufzuerlegen. Dieses Begeh-
+ren wurde abgewiesen. 
+ 
+Aus den Erwägungen: 
+ 
+Ein Widerspruchsverfahren hat stattzufinden, wenn geltend ge-
+macht wird, einem Dritten stehe am gepfändeten (oder verarrestier-
+ten) Vermögenswert Eigentum oder ein Pfandrecht oder ein anderes 
+Recht zu (Art. 106 SchKG). Bestimmung für die Parteirollenverteilung 
+ist die Frage des Gewahrsams. Vorliegend handelt es sich bei dem 
+unter Beschlag genommenen Vermögenswert um eine Forderung, die 
+nicht in einem Wertpapier verbrieft ist. Somit entfällt das Kriterium des 
+Gewahrsams. Ersatzweise ist in solchen Fällen auf die Berechtigung 
+an der Forderung abzustellen. Ist diese Berechtigung umstritten, so 
+kommt es für den Entscheid über die Parteirollen auf die „grössere 
+Wahrscheinlichkeit der Berechtigung" an (K. Amonn/ D.Gasser, 
+Grundriss des Schuldbetreibungs- und Konkursrechtes, 6. Aufl. Bern 
+1997, S. 191 N. 37). 
+ 
+Das Betreibungsamt verkennt indessen, dass es nicht darum geht 
+abzuklären, wer an der Forderung berechtigt ist, sondern darum, dass 
+sie bestritten ist. Die Gesellschafter der Hausbaugemeinschaft ma-
+chen nicht geltend, dass die verarrestierte Forderung ihnen als Gläu-
+biger zustehe, etwa, weil diese an sie abgetreten worden sei. Viel-
+mehr bestreiten sie als Schuldner, dass die Forderung bestehe, weil 
+für diese kein Rechtsgrund vorhanden sei. Eines Widerspruchsverfah-
+rens nach Art. 106 ff. SchKG bedarf es deshalb nicht. Gegebenenfalls 
+
+
+B. Gerichtsentscheide 
+3389 
+ 
+106 
+ist bei der Fortsetzung des Verfahrens dem Umstand, dass es sich 
+um eine bestrittene Forderung handelt (vgl. BGE 109 III 11) dadurch 
+Rechnung zu tragen, dass eine Übernahme zur Eintreibung im Sinne 
+von Art. 131 Abs. 2 SchKG angeboten wird (K. Ammonn/D. Gasser, 
+a.a.O., S. 227, N. 63). 
+ 
+Der Antrag der Beschwerdeführerin, wonach die Klägerrolle den 
+Drittschuldnern auferlegt werden soll, ist demgemäss unbegründet; 
+die Beschwerde ist abzuweisen. 
+ 
+Der Klarheit halber ist zuhanden des weiteren Verfahrens festzu-
+stellen, dass das Betreibungsamt kein Widerspruchsverfahren einzu-
+leiten hat. 
+ABSchKG 12.11.2001 
+3389 
+Konkursverfahren. Der unter dem Titel Verlustbeteiligung zurückbe-
+haltene Teil des monatlichen Lohnes ist nicht als Kaution zu qualifizie-
+ren, sondern ist als gewöhnliche Forderung aus dem Arbeitsverhältnis 
+nur insoweit privilegiert, als die Rückbehalte sechs Monate vor der 
+Konkurseröffnung des Arbeitgebers gemacht wurden (Art. 219 Abs. 4 
+SchKG, Art. 323a und 330 OR). 
+ 
+Aus den Erwägungen: 
+ 
+Zur Beurteilung offen steht einzig noch die Klassierung des unter 
+dem Titel Verlustbeteiligung zurückbehaltenen Lohnbetrags von Fr. 
+16'200.--, d.h. je Fr. 600.-- monatlich bis Januar 2000. Der Anspruch 
+des Klägers unter dem Titel Verlustbeteiligung ist gemäss dem Appel-
+lations-(Eventual)antrag der Beklagten sowohl dem Grundsatze nach 
+wie auch im Quantitativen anerkannt. Das Obergericht braucht sich 
+demgemäss weder zur Frage, ob ein Arbeitsvertrag oder ein Vertrag 
+"sui generis" vorliege, noch zur Zulässigkeit von Verlustbeteiligungen 
+zu äussern. Zu entscheiden ist einzig noch die Frage einer allfälligen 
+Privilegierung der klägerischen Forderung nach Art. 219 Abs. 4 
+SchKG. Die Vorinstanz hat den zurückbehaltenen Lohn als Kaution 
+qualifiziert, die gemäss der erwähnten Bestimmung in die erste Klasse 
+(lit. a) zu kollozieren ist. Sie beruft sich hierbei auf die im Basler 
+Kommentar vertretene Meinung, wonach die Privilegierung von Kauti-
