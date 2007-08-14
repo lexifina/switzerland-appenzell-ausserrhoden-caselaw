@@ -1,0 +1,406 @@
+---
+decision_id: "ar_gerichte_Verwaltung_ARGVP_2007_1456"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "Verwaltung ARGVP 2007 1456"
+decided: "2007-08-14"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2007/Verwaltung-20070814-20070814-ARGVP-2007-1456.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2007/Verwaltung-20070814-20070814-ARGVP-2007-1456.pdf"
+cites_law: ["switzerland/bund/acts/210/art-023.md", "switzerland/bund/acts/210/art-025.md", "switzerland/bund/acts/210/art-026.md", "switzerland/bund/acts/210/art-308.md", "switzerland/bund/acts/210/art-312.md", "switzerland/bund/acts/210/art-315.md", "switzerland/bund/acts/210/art-368.md", "switzerland/bund/acts/210/art-377.md", "switzerland/bund/acts/210/art-420.md"]
+---
+
+# AR Gerichte Verwaltung ARGVP 2007 1456
+
+## Regeste
+
+A. Verwaltungsentscheide 1456 1456 Übertragung der Vormundschaft. Die Übertragung einer Vormundschaft setzt den übereinstimmenden Beschluss der Vormundschaftsbehörden auf Übergabe bzw. Übernahme voraus. Ein Aufenthalt in einem Kinde
+
+## Text
+
+A. Verwaltungsentscheide 
+1456 
+ 
+26 
+1456 
+Übertragung 
+der 
+Vormundschaft. 
+Die 
+Übertragung 
+einer 
+Vormundschaft 
+setzt 
+den 
+übereinstimmenden 
+Beschluss 
+der 
+Vormundschaftsbehörden auf Übergabe bzw. Übernahme voraus. Ein 
+Aufenthalt in einem Kinderheim zu einem Sonderzweck begründet 
+keinen Wohnsitz. 
+Die Vormundschaftskommission Z. entzog R. im November 1999 die 
+Obhut über ihren 8-jährigen Sohn S. und errichtete gleichzeitig eine 
+Beistandschaft nach Art. 308 Abs. 1 ZGB. Seit Februar 2004 ist S. im 
+Kinderheim K. in der Gemeinde P. untergebracht. Im ersten Jahr 
+besuchte er den heimeigenen Kindergarten, im zweiten Jahr 
+zusätzlich den regulären Kindergarten im Dorf. Seit dem Sommer 
+2006 besucht S. die Regelklasse in der Dorfschule. Im Juni 2006 
+entzog die Vormundschaftskommission Z. R. auf eigenen Wunsch die 
+Vormundschaft über ihren Sohn im Sinne von Art. 312 Ziff. 1 ZGB und 
+errichtete eine Vormundschaft nach Art. 368 ZGB. Gleichzeitig 
+ersuchte die Vormundschaftskommission Z. den Gemeinderat von P. 
+um Übernahme der bestehenden Kindesschutzmassnahmen. Im 
+November 2006 ersuchte die Vormundschaftskommission Z. den 
+Gemeinderat von P. erneut um Übernahme der Vormundschaft über 
+S. Im gleichen Schreiben wurde darauf hingewiesen, dass ohne 
+Gegenbericht bis Ende Dezember 2006 von der Übernahme der 
+Vormundschaft durch die Gemeinde P. ausgegangen werde. Beide 
+Schreiben blieben unbeantwortet. Mit Beschluss vom 5. Februar 2007 
+übertrug die Vormundschaftskommission Z. die für S. bestehende 
+Vormundschaft an die Vormundschaftsbehörde von P. 
+ 
+ 
+Der Regierungsrat hiess die Beschwerde des Gemeinderates von 
+P. gegen den Entscheid der Vormundschaftskommission Z. vom 5. 
+Februar 2007 aus folgenden Erwägungen gut: 
+ 
+1. In Lehre und Rechtsprechung ist umstritten, ob die vorliegende 
+Streitigkeit 
+als 
+Aufsichtsbeschwerde 
+oder 
+als 
+Vormundschaftsbeschwerde im Sinne von Art. 420 ZGB zu behandeln 
+ist. Die Befürworter der Aufsichtsbeschwerde machen geltend, dass 
+die Vormundschaftsbeschwerde den Mündelinteressen dienen und 
+nicht von den Behörden zur Wahrung eines Kompetenzstandpunktes 
+verwendet werden soll. Die anfechtende Behörde darf hingegen an 
+
+
+A. Verwaltungsentscheide 
+1456 
+ 
+27 
+die Aufsichtsbehörde der „gegnerischen“ Vormundschaftsbehörde 
+gelangen und den Konflikt im Rahmen des Aufsichtsrechts 
+entscheiden lassen (Schnyder/Murer, Berner Kommentar zum 
+schweizerischen Privatrecht, Systematischer Teil und Kommentar zu 
+den Art. 360-397, Bern 1984, Art. 377 N 130; Entscheid der 
+Justizdirektion des Kantons Zürich vom 21. Januar 1971 in ZVW 
+26/1971 Nr. 17). Andere Autoren und Kantone sehen für diese Art von 
+Streitigkeit die Vormundschaftsbeschwerde an die Aufsichtsbehörde 
+vor (Basler Kommentar zum ZGB I, Basel 2006, Art. 377 N 12; 
+Leitfaden zur Übertragung und Übernahme vormundschaftlicher 
+Massnahmen des Verbandes St. Gallischer Gemeinderatsschreiber, 
+Grundbuchverwalter und Vormundschaftssekretäre vom Oktober 
+1985). Der Regierungsrat des Kantons Appenzell Ausserrhoden hatte 
+im 
+Mai 
+1975 
+eine 
+Kompetenzstreitigkeit 
+im 
+Rahmen 
+einer 
+Übertragung 
+der 
+Vormundschaft 
+zu 
+entscheiden 
+(AR 
+GVP 
+Sammelband 1988, Nr. 1080). Damals wurde die Streitsache als 
+Rekurs behandelt. Der Rekurs stellt ein formelles Rechtsmittel dar, 
+d.h. gegen den Rekursentscheid stehen den Parteien weitere 
+Rechtsmittel 
+offen. 
+Gleich 
+verhält 
+es 
+sich 
+mit 
+der 
+Vormundschaftsbeschwerde. 
+Im 
+Gegensatz 
+dazu 
+stellt 
+die 
+Aufsichtsbeschwerde einen formlosen Rechtsbehelf dar und der von 
+der 
+Aufsichtsbehörde 
+gefällte 
+Entscheid 
+ist 
+nicht 
+anfechtbar 
+(Häfelin/Müller/Uhlmann, Allgemeines Verwaltungsrecht, Zürich 2006, 
+N 1835; Schär, Gesetz über das Verwaltungsverfahren des Kantons 
+Appenzell A.Rh., Herisau 1985, Art. 30 N 24). Es sind keine Gründe 
+ersichtlich, von der Praxis des Regierungsrates abzuweichen, 
+weshalb die vorliegende Streitsache als Vormundschaftsbeschwerde 
+im Sinne von Art. 420 ZGB zu behandeln ist. 
+ 
+2. […] 
+ 
+3. a) […] 
+ 
+3. b) Auch wenn die von der Vormundschaftskommission Z. 
+gewählte Vorgehensweise – ohne Rückmeldung innert Frist werde 
+von der Übernahme stillschweigend ausgegangen – offenbar auch 
+von anderen Vormundschaftsbehörden praktiziert wird, kann nicht von 
+einer gefestigten Praxis gesprochen werden. Für den Übergang der 
+Vormundschaft ist der rechtskräftige übereinstimmende Beschluss 
+beider Vormundschaftsbehörden auf Übergabe bzw. Übernahme 
+notwendig. Die Vormundschaft geht somit nicht ex lege über 
+(Schnyder/Murer, 
+Berner 
+Kommentar 
+zum 
+schweizerischen 
+
+
+A. Verwaltungsentscheide 
+1456 
+ 
+28 
+Privatrecht, Systematischer Teil und Kommentar zu den Art. 360-397, 
+Bern 1994, Art. 377 N 89). In diesem Sinne ist dem Beschwerdeführer 
+zuzustimmen, dass ein einseitiger Übertragungsbeschluss nicht mit 
+Art. 377 ZGB vereinbar ist. Ein Verstoss gegen Treu und Glauben 
+steht nicht zur Diskussion und es bleibt festzuhalten, dass bis zum 
+Vorliegen 
+eines 
+rechtskräftigen 
+Entscheides 
+die 
+Vormundschaftsbehörde 
+Z. 
+für 
+die 
+Führung 
+der 
+besagten 
+Vormundschaft zuständig bleibt. 
+ 
+4. a) Eine 
+Übernahme 
+der 
+Vormundschaft 
+durch 
+die 
+Vormundschaftsbehörde von P. wäre dann angezeigt, wenn das 
+bevormundete Kind seinen Wohnsitz in P. hätte. Dies ist im vorliegend 
+zu beurteilenden Fall jedoch gerade strittig und bedarf der Klärung. 
+ 
+b) Der Aufenthalt an einem Orte zum Zwecke des Besuches einer 
+Lehranstalt und die Unterbringung einer Person in einer Erziehungs-, 
+Versorgungs-, Heil- oder Strafanstalt begründen keinen Wohnsitz (Art. 
+26 ZGB). Art. 26 ZGB (wonach ein Aufenthalt zu einem Sonderzweck 
+keinen Wohnsitz begründet) umschreibt in negativer Weise den 
+Wohnsitzbegriff von Art. 23 ZGB (Staehelin, Basler Kommentar zum 
+ZGB I, Basel 2006, Art. 26 N 1). […] 
+ 
+Zum Kinderheim K. ist im Verzeichnis der Sozialeinrichtungen und 
+Spitaldienste in Appenzell A.Rh. und Appenzell I.Rh. sowie der 
+Region St. Gallen als Zielgruppe „mehrfache behinderte Kinder ab 2 
+Jahren, Sonderschule Abteilung für gesunde Kinder“ angeführt. Im 
+Bericht vom 19. Januar 2004 der damaligen Beiständin von S. wird 
+festgehalten, dass die Pflegeeltern mit S. auf die Dauer überfordert 
+seien und der heilpädagogische Dienst eine Umplatzierung in 
+professionelle Hände empfehle. Die Heimleiterin des Kinderheims K. 
+sei spezialisiert auf wahrnehmungsgestörte Kinder, weshalb eine 
+Umplatzierung dorthin richtig wäre. Zu jenem Zeitpunkt ging also auch 
+die Vormundschaftskommission Z. von einer Unterbringung zu einem 
+Sonderzweck aus, stand doch die auf die speziellen Bedürfnisse des 
+Kindes ausgerichtete Pflege und Erziehung im Vordergrund. Wurde 
+der Aufenthalt von S. im Kinderheim K. zu diesem Zweck veranlasst, 
+ging wohl auch die Vormundschaftskommission Z., mindestens im 
+Zeitpunkt der Anordnung der Umplatzierung, von einer Anstalt im 
+Sinne des Gesetzes aus. Auch sonst liegen keine Anhaltspunkte vor, 
+die am Anstaltscharakter (vgl. Art. 26 ZGB) des Kinderheims K. 
+zweifeln lassen. 
+
+
+A. Verwaltungsentscheide 
+1456 
+ 
+29 
+ 
+c) Mit 
+Beschluss 
+vom 
+26. 
+April 
+2004 
+stimmte 
+die 
+Vormundschaftskommission Z. der Umplatzierung von S. ins 
+Kinderheim K. zu. Bereits die Formulierung „Umplatzierung“ macht 
+deutlich, dass das bevormundete Kind diesen Schritt nicht aus freiem 
+Willen tat, sondern auf Anordnung der Vormundschaftsbehörde. 
+Überdies ist ein 5-jähriges Kind immer auf eine erwachsene Person 
+(Eltern, Vormund) angewiesen, welche für es die Wohnsituation 
+regelt. Von einer Unterbringung i.S. des Gesetzes kann nicht mehr 
+gesprochen werden, wenn der Betroffene aus freien Stücken sich für 
+einen Anstaltsaufenthalt entschliesst, ohne auf einen solchen 
+angewiesen zu sein und überdies die Anstalt und damit den Ort des 
+Aufenthaltes 
+frei 
+wählt 
+(Bucher, 
+Berner 
+Kommentar 
+zum 
+schweizerischen Privatrecht, Kommentar zu den Art. 11-26, Art. 26 N 
+15). Wie bereits dargelegt, kann diese freie Wahl bei einem 5-jährigen 
+Kind nicht vorliegen, weshalb im vorliegenden Fall von einer 
+Unterbringung im Sinne von Art. 26 ZGB auszugehen ist. 
+ 
+d) Die Vormundschaftskommission Z. wendet nun ein, dass durch 
+die positive Entwicklung von S. (Eintritt in die Regelklasse, Aufholung 
+/ weitgehende Behebung der Entwicklungsrückstände) die heutige 
+Unterbringung nicht mehr als Platzierung mit einem Sonderzweck, 
+sondern als Begründung eines neuen, in die Zukunft gerichteten 
+Wohnsitzes zu werten sei. 
+ 
+Aus den sich in den Akten befindlichen Unterlagen geht 
+unbestrittenermassen hervor, dass die physische und psychische 
+Entwicklung von S. günstig verläuft. Dies ändert jedoch nichts an der 
+Tatsache, dass nach wie vor von einer Unterbringung auszugehen ist. 
+Auch wenn die Pflegebedürftigkeit nicht mehr so intensiv ist wie bei 
+Eintritt ins Kinderheim, kann nicht davon gesprochen werden, dass 
+der Sonderzweck weggefallen ist. Bei einem 8-jährigen Kind ist die 
+Erziehung 
+noch 
+längst 
+nicht 
+abgeschlossen 
+und 
+auch 
+die 
+Pflegebedürftigkeit ist nach wie vor gegeben. Zuzustimmen ist der 
+Vormundschaftskommission 
+Z. 
+insoweit, 
+als 
+S. 
+seinen 
+Lebensmittelpunkt zwar in P. hat. Dies kann aber nicht als 
+Argumentation für eine Wohnsitzbegründung gewertet werden, bringt 
+doch die Unterbringung in einem Heim zwangsläufig eine Verlagerung 
+des Lebensmittelpunktes mit sich. Auch die Argumentation, dass der 
+Wohnsitz in P. in die Zukunft gerichtet sei, schlägt fehl. S. wird 
+voraussichtlich noch die nächsten Jahre im Kinderheim K. in P. 
+wohnen. Der Aufenthalt in einem Kinderheim ist, wie der Name schon 
+
+
+A. Verwaltungsentscheide 
+1456 
+ 
+30 
+sagt, Kindern vorbehalten und somit in jedem Fall befristet. 
+Frühestens ab dem 18. Altersjahr von S. kommt eine freie 
+Wohnsitzwahl in Frage. Bis zu jenem Zeitpunkt hat ein Kind 
+(unabhängig ob unter elterlicher Sorge oder unter Vormundschaft) 
+i.d.R. 
+einen 
+abgeleiteten 
+Wohnsitz 
+(vgl. 
+Art. 
+25 
+ZGB; 
+Hausheer/Reusser/Geiser, Berner Kommentar zum schweizerischen 
+Privatrecht, Bern 1999, Art. 162 N 34/7). 
+ 
+e) Schliesslich macht die Vormundschaftskommission Z. geltend, 
+dass es dem Kindeswohl resp. Mündelwohl entspreche, wenn die 
+Vormundschaft durch diejenige Behörde geführt werde, welche den 
+engsten Sachzusammenhang aufweise und die Verhältnisse am 
+besten kenne. Hierfür verweist sie auf Art. 315 ZGB. 
+ 
+Ein Teil der Lehre spricht sich im Vormundschaftsbereich für eine 
+„Funktionalisierung“ der Wohnsitzbestimmung aus. Danach soll die 
+Vormundschaft 
+möglichst 
+dort 
+geführt 
+werden, 
+wo 
+der 
+Schutzbedürftige 
+den 
+räumlichen 
+Mittelpunkt 
+seiner 
+Lebensverhältnisse besitzt. Nur so könne die Vormundschaft im 
+Interesse des Mündels geführt werden (Schnyder/Murer, a.a.O., Art. 
+376 N 34). Diese Überlegung darf insbesondere bei einem 
+bevormundeten Kind nicht ausser Acht gelassen werden, ist doch die 
+Schutzbedürftigkeit eines Kindes noch ausgewiesener als eines unter 
+Vormundschaft stehenden Erwachsenen. Im vorliegenden Fall wird 
+die Vormundschaft durch Z. geführt, der Lebensmittelpunkt von S. 
+befindet sich in P. Z. und P. liegen rund 30 Kilometer auseinander. Bei 
+dieser Entfernung sollte es (noch) möglich sein, eine Vormundschaft 
+gewissenhaft und somit im Interesse des Mündels bzw. Kindes zu 
+führen. Zudem besteht, falls nötig, immer auch die Möglichkeit, dass 
+die 
+Vormundschafsbehörde 
+von 
+P. 
+bei 
+Bedarf 
+Kindesschutzmassnahmen anordnet (vgl. Art. 315 Abs. 2 ZGB). Nach 
+Art. 315 Abs. 2 ZGB können Kindesschutzmassnahmen für Kinder, 
+die ausserhalb der häuslichen Gemeinschaft leben, auch von den 
+Behörden am Ort, wo sich das Kind aufhält, angeordnet werden. 
+Diese Regelung darf jedoch nicht als lex specialis zu den 
+vormundschaftlichen 
+Bestimmungen 
+verstanden 
+werden. 
+Die 
+gesetzlichen Grundlagen des Vormundschaftsrechts, so insbesondere 
+Art. 377 ZGB, gelten auch für Kinder, die unter Vormundschaft 
+stehen. 
+Aus 
+Art. 
+315 
+ZGB 
+kann 
+nicht, 
+wie 
+von 
+der 
+Vormundschaftskommission Z. dargelegt, eine Übertragung der 
+Vormundschaft an die Aufenthaltsgemeinde abgeleitet werden. Auch 
+
+
+A. Verwaltungsentscheide 
+1456 
+ 
+31 
+in einem weiteren Punkt kann der Vormundschaftskommission Z. 
+nicht zugestimmt werden: In ihrer Stellungnahme geht sie davon aus, 
+dass die Zuständigkeiten der Wohnsitzgemeinde (Art. 315 Abs. 1 
+ZGB) und der Aufenthaltsgemeinde (Art. 315 Abs. 2 ZGB) 
+gleichwertig seien und im konkreten Fall jene Behörde zuständig sei, 
+mit welcher der Fall enger zusammenhänge. Das Bundesgericht hat 
+in einem neueren Entscheid festgehalten, dass es nicht der Wille des 
+Gesetzgebers sei, zwei gleichwertige Zuständigkeiten zu schaffen, 
+ohne Kriterien zu nennen, nach denen die eine oder die andere gelten 
+sollte (BGE 129 I 423). Bei Kompetenzkonflikten, bei denen eine klare 
+Regelung unabdingbar ist, muss jedenfalls vom Vorrang von Art. 315 
+Abs. 1 ZGB ausgegangen werden. 
+ 
+5. Aufgrund 
+der 
+gemachten 
+Ausführungen 
+kann 
+zusammenfassend festgehalten werden, dass die Vormundschaft 
+über S. weiterhin durch die Vormundschaftsbehörde Z. zu führen ist. 
+ 
+6. […] 
+Entscheid des Regierungsrates vom 14.08.2007
