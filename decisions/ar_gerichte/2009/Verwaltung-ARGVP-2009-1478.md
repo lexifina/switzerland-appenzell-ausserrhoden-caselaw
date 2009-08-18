@@ -1,0 +1,195 @@
+---
+decision_id: "ar_gerichte_Verwaltung_ARGVP_2009_1478"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "Verwaltung ARGVP 2009 1478"
+decided: "2009-08-18"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2009/Verwaltung-20090818-20090818-ARGVP-2009-1478.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2009/Verwaltung-20090818-20090818-ARGVP-2009-1478.pdf"
+---
+
+# AR Gerichte Verwaltung ARGVP 2009 1478
+
+## Regeste
+
+A. Verwaltungsentscheide 1478 (Regenwasserbecken/Zisterne mit Bewässerungssystem) auf einer blossen Absichtserklärung der Rekurrentin; gesicherte Anhaltspunkte über deren Ausgestaltung und Grössenordnung bestehen zum heuti-gen Zeitpunkt
+
+## Text
+
+A. Verwaltungsentscheide 
+1478 
+12 
+(Regenwasserbecken/Zisterne mit Bewässerungssystem) auf einer 
+blossen Absichtserklärung der Rekurrentin; gesicherte Anhaltspunkte 
+über deren Ausgestaltung und Grössenordnung bestehen zum heuti-
+gen Zeitpunkt keine. Der vorhandene Wasseranschluss an der West-
+fassade des Attikageschosses jedenfalls vermag keine technische 
+Bedingtheit des strittigen Anbaus zu begründen. Selbst wenn im Ge-
+räteraum tatsächlich einmal eine ÅBewässerungszentrale“ mit Regen-
+wassertank und entsprechenden Bewässerungsvorrichtungen für die 
+Gartenbewässerung erstellt würde – was vorgängig jedoch eines ent-
+sprechenden Baugesuchs bedürfte – so ist zumindest fraglich, ob eine 
+solche notwendigerweise auf dem Dach des Obergeschosses errich-
+tet werden müsste. Ohnehin könnte auch ein solcher Bauteil nur um 
+das technisch notwendige Mass über die Dachfläche hinausragen. 
+4.4.3 Im Ergebnis handelt es sich beim strittigen Anbau somit 
+nicht um eine Dachaufbaute im Sinne von Art. 29 Abs. 5 BauR T., 
+weshalb die Vorschrift über das Attikageschoss von Art. 4 Abs. 4 
+BauV verletzt wird. 
+Departement Bau und Umwelt, 26.03.2009 
+Eine 
+gegen 
+diesen 
+Entscheid 
+erhobene 
+Verwaltungsgerichts-
+beschwerde ist mit Urteil des Verwaltungsgerichtes vom 
+28. Oktober 2009 abgewiesen worden. 
+1478 
+Bauermittlungsverfahren. Bei einem Bauermittlungsentscheid kann 
+die zuständige Behörde nur die Möglichkeit des Weiterzugs einräu-
+men, wenn die planungsrechtliche Zulässigkeit eines Vorhabens zur 
+Diskussion steht. 
+Aus den Erwägungen: 
+2.1 Nach Art. 101 Abs. 1 BauG kann zur Abklärung wichtiger, 
+konkreter Fragen im Zusammenhang mit einem Bauvorhaben von der 
+oder dem Bauwilligen mit Zustimmung des Grundeigentümers ein 
+Bauermittlungsgesuch eingereicht werden. Dem Gesuch sind alle Un-
+terlagen beizulegen, die zur Abklärung der gestellten Fragen nötig 
+sind. 
+A. Verwaltungsentscheide 
+1478 
+13 
+2.1.1 Das Bauermittlungsverfahren bezweckt, einzelne wichtige 
+Fragen im Zusammenhang mit einem geplanten Bauvorhaben vor der 
+Ausarbeitung eines Baugesuchs zu klären, z.B. bezüglich Erschlies-
+sung, planungsrechtliche Baureife, Art und Mass der Nutzung, Ein-
+ordnung oder Geschosszahl. Entsprechend bestimmt primär der Bau-
+willige den Gegenstand des Bauermittlungsentscheids. Es können je-
+doch nur konkrete und grundlegende Fragen der späteren 
+Bewilligungsfähigkeit Gegenstand eines Bauermittlungsentscheids 
+bilden, die sich von einer Detailprojektierung losgelöst beantworten 
+lassen. Nicht Gegenstand eines Bauermittlungsentscheids kann daher 
+ein ganzes Bauprojekt sein. Auch was umfassende, die Detailprojek-
+tierung voraussetzende Abklärungen und Bewertungen erfordert, lässt 
+sich nicht im Bauermittlungsentscheid prüfen, weil dadurch die Gren-
+zen zum Baubewilligungsverfahren verwischt würden (vgl. Baurechts-
+entscheide Kanton Zürich [BEZ] 2001 Nr. 15). Vorausgesetzt ist aber 
+ein gegenwärtiges, d.h. aktuelles Interesse am Bauermittlungsent-
+scheid. In diesem Rahmen hat der Gesuchsteller Anspruch auf be-
+hördliche Beurteilung der von ihm gestellten Fragen. […] 
+2.2.2 Sofern sich die rechtlichen und tatsächlichen Verhältnisse 
+nicht ändern und das Baugesuch innert eines Jahres nach Vorliegen 
+des Entscheids eingereicht wird, ist die Bewilligungsbehörde an den 
+Entscheid gebunden (Art. 101 Abs. 3 BauG). Die Bindungswirkung 
+nach dem Bauermittlungsverfahren im Kanton Appenzell Ausserrho-
+den betrifft unter den genannten Bedingungen alleine die Behörde, 
+nicht jedoch allfällige Dritte, da das Bauermittlungsgesuch weder öf-
+fentlich aufgelegt noch publiziert werden muss, Dritte somit keine 
+Kenntnis vom Vorentscheid erhalten. Dies hat zur Folge, dass ihnen 
+die umfassende Einsprache- und Rechtsmittelbefugnis gegen das 
+nachfolgende Baugesuch im Baubewilligungsverfahren zusteht. Die 
+Bindungswirkung gegenüber der Baubehörde beschränkt sich sodann 
+auf positive Vorentscheide; auf negativ lautende, abschlägige Antwor-
+ten oder auf Nebenbestimmungen kann die Baubehörde bei der Beur-
+teilung des Baugesuchs zugunsten des Gesuchstellers jederzeit zu-
+rückkommen. Wird das nachfolgende Baugesuch von einem einspra-
+cheberechtigten 
+Dritten 
+angefochten, 
+verliert 
+der 
+Bau-
+ermittlungsentscheid zudem jegliche Verbindlichkeit zugunsten des 
+Gesuchstellers, auch gegenüber den Behörden (Art. 101 Abs. 4 
+BauG). Dies stellt sicher, dass Dritte keinen Nachteil daraus erleiden, 
+dass sie im Bauermittlungsverfahren nicht als Partei dabei waren. 
+A. Verwaltungsentscheide 
+1478 
+14 
+Entsprechend gewährt das Bauermittlungsverfahren dem Gesuchstel-
+ler keine absolute Gewissheit, dass sein auf den Bauermittlungsent-
+scheid abgestütztes Bauvorhaben letztlich rechtskräftig bewilligt wird. 
+2.2.3 Aufgrund der in E. 2.2.2 genannten beschränkten Bin-
+dungswirkung sowie aufgrund des gesetzgeberischen Bestrebens, für 
+die Bauermittlung ein beschleunigtes Vorverfahren vorzusehen, ist der 
+Bauermittlungsentscheid 
+vom 
+Grundsatz 
+her 
+nicht 
+anfechtbar 
+(Art. 101 Abs. 2 Satz 1 BauG), d.h. es ist dagegen kein (ordentliches) 
+Rechtsmittel (Rekurs) gegeben. Nur ausnahmsweise, wenn die 
+grundsätzliche planungsrechtliche Zulässigkeit eines Vorhabens zur 
+Diskussion steht, kann die zuständige Behörde die Möglichkeit zum 
+Weiterzug des Vorentscheids einräumen (Art. 101 Abs. 2 Satz 2 
+BauG). Gerade weil keine öffentliche Auflage und keine Mitwirkung 
+von Nachbarn oder weiteren allfällig legitimierten Dritten vorgesehen 
+ist, weil der Bauermittlungsentscheid bei einer allfälligen Einsprache 
+im Baubewilligungsverfahren seine Rechtswirkung zugunsten des Ge-
+suchstellers verliert und weil der Gesetzgeber mit dem dem Baubewil-
+ligungsverfahren vorgelagerten Bauermittlungsverfahren kein Åzweifa-
+ches“ Einsprache- und Rechtsmittelverfahren zur Verfügung stellen 
+wollte, ist Art. 101 Abs. 2 BauG restriktiv auszulegen. Dies gilt insbe-
+sondere für die Ausnahmen von der Unanfechtbarkeit des Bauermitt-
+lungsentscheids nach Art. 101 Abs. 2 Satz 2 BauG. Nach dem Wort-
+laut dieser Bestimmung können zum einen nur grundsätzliche Fragen 
+über die planungsrechtliche Zulässigkeit eines Vorhabens angefoch-
+ten werden. Zum anderen liegt es selbst bei der Bejahung einer sol-
+chen Frage im (pflichtgemässen) Ermessen der Behörde (Kann-
+Bestimmung), die Möglichkeit zum Weiterzug einzuräumen oder nicht. 
+2.2.4 Der Begriff der Ågrundsätzlichen planungsrechtlichen Zuläs-
+sigkeit“ eines Bauvorhabens ist ein unbestimmter Rechtsbegriff, der 
+nach dem Gesagten restriktiv auszulegen ist. Nach dem Wortlaut die-
+ser Bestimmung geht es dabei nur um grundsätzliche Fragen der pla-
+nungsrechtlichen Zulässigkeit eines Bauvorhabens und nicht um an-
+dere wie etwa baurechtliche oder umweltrechtliche Fragen. Darunter 
+sind insbesondere Fragen über die Zonenkonformität oder die pla-
+nungsrechtliche Baureife eines Bauvorhabens im Sinne des RPG zu 
+verstehen. Im Vordergrund steht in diesem Zusammenhang bei-
+spielsweise die Zulässigkeit von Ausnahmen von der Zonenkonformi-
+tät ausserhalb der Bauzonen (Art. 24 und Art. 24a–24d RPG). Vorlie-
+gend steht die Bewilligungsfähigkeit eines Umbaus resp. einer 
+A. Verwaltungsentscheide 
+1478 
+15 
+Zweckänderung einer unter Åaltem Recht“ erstellten, ehemaligen Re-
+mise zum Zwecke der Wohnnutzung innerhalb der Bauzone zur De-
+batte. Im Vordergrund steht dabei die Frage, ob eine solche Zweck-
+änderung gestützt auf Art. 94 Abs. 2 BauG bewilligt werden kann. 
+Damit steht jedoch keine Frage der grundsätzlichen planungsrechtli-
+chen Zulässigkeit zur Diskussion, sondern allein eine Rechtsfrage 
+über die erweiterte Bestandesgarantie nach Art. 94 BauG. Konkret ist 
+etwa unbestritten, dass die angestrebte Wohnnutzung in der Zone W3 
+grundsätzlich zonenkonform ist, ebenso die Erschliessungsfrage. Die-
+se Ansicht hatte bereits die Baubewilligungskommission T. in ihrem 
+Entscheid vom 10. November 2008 vertreten, weshalb dieser aus-
+drücklich als nicht anfechtbar taxiert worden ist. Erst mit dem Wieder-
+erwägungsentscheid vom 4. Februar 2009 hat die Baubewilligungs-
+kommission T. – auf (ausdrückliches) Begehren des Rekurrenten hin 
+– den Rechtsmittelweg an den Gemeinderat eröffnet, wobei sie von ih-
+rer im Grundsatz richtigen Argumentation abweicht und neu die An-
+sicht vertritt, es stehe alleine im Ermessen der Behörde, das Rekurs-
+recht zu gewähren oder nicht. Wie am Schluss von E. 2.2.3 erläutert, 
+greift das Ermessen der Behörde jedoch erst, wenn die grundsätzliche 
+planungsrechtliche Zulässigkeit eines Bauvorhabens zur Diskussion 
+steht, was, wie geschildert, vorliegend nicht der Fall ist. 
+2.3 Damit steht fest, dass die Baubewilligungskommission T. mit 
+der dem Bauermittlungs- resp. dem Wiedererwägungsentscheid ange-
+fügten Rechtsmittelbelehrung auf eine vorliegend nicht gegebene Re-
+kursmöglichkeit hinwies. Diese Umstände übersah offenbar auch der 
+Gemeinderat T., indem er auf den gegen den Bauermittlungs- resp. 
+den Wiedererwägungsentscheid erhobenen Rekurs ohne weiteres 
+eintrat und ihn materiell behandelte. Weil Behörden ihre Zuständigkeit 
+von Amtes wegen zu prüfen haben und selbst im Einvernehmen mit 
+den Parteien keine vom Gesetz abweichende Zuständigkeit begrün-
+den können (Art. 2 Abs. 1 und 4 VRPG), ist der auf eine nicht an-
+fechtbare Verfügung hin ergangene Rekursentscheid der Vorinstanz 
+ersatzlos aufzuheben. Damit steht aber auch fest, dass es dem De-
+partement Bau und Umwelt vorliegend verwehrt ist, über den nicht mit 
+ordentlichen Rechtsmitteln (Rekurs) anfechtbaren Bauermittlungs- 
+resp. Wiedererwägungsentscheid materiell zu entscheiden. Auf den 
+Rekurs ist im Ergebnis somit nicht einzutreten. 
+Departement Bau und Umwelt, 18.08.2009
