@@ -1,0 +1,155 @@
+---
+decision_id: "ar_gerichte_Verwaltung_ARGVP_2012_1510"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "Verwaltung ARGVP 2012 1510"
+decided: "2012-05-30"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2012/Verwaltung-20120530-20120530-ARGVP-2012-1510.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2012/Verwaltung-20120530-20120530-ARGVP-2012-1510.pdf"
+cites_law: ["switzerland/bund/acts/101/art-029.md"]
+---
+
+# AR Gerichte Verwaltung ARGVP 2012 1510
+
+## Regeste
+
+A. Verwaltungsentscheide 1510 leisten. Eine solche Festlegung ist beispielsweise dann von Nöten, wenn im Bereich des Niveaupunktes der geplanten Baute topographische Veränderun-gen wie Hügel oder Mulden gegeben sind, welche eine zweckmäs
+
+## Text
+
+A. Verwaltungsentscheide 
+1510 
+ 
+10 
+leisten. Eine solche Festlegung ist beispielsweise dann von Nöten, wenn im 
+Bereich des Niveaupunktes der geplanten Baute topographische Veränderun-
+gen wie Hügel oder Mulden gegeben sind, welche eine zweckmässige Über-
+bauung beeinträchtigen könnten (Einspracheentscheid des Gemeinderats 
+vom 4. Juli 2011, Punkt 4.2). Für die Beurteilung, ob eine spezielle Gelände- 
+oder Gebäudeform vorliegt, ist nur jener Bereich massgeblich, der vom 
+Grundriss des geplanten Gebäudes bedeckt werden soll bzw. in welchem der 
+zugehörige Niveaupunkt liegt (Technische Erläuterungen zu Art. 5 BauV). Der 
+restliche, unbebaute Grundstücksteil oder der Grenzbereich zu einer benach-
+barten Liegenschaft sind zu vernachlässigen. Unter diesen Gesichtspunkten 
+weist die Liegenschaft der Parzelle Nr. X keine spezielle Geländeform auf. Die 
+topographischen Gegebenheiten, insbesondere der Hangverlauf, stellen keine 
+Besonderheit in der Vorderländer Hügellandschaft dar und sind an den Hän-
+gen des Rheintals der Normalfall. Ebenso verhält es sich im Übrigen mit dem 
+Grundriss des geplanten Gebäudes. Wie der Gemeinderat in seinem Ein-
+spracheentscheid vom 4. Juli 2011 richtig feststellt, lässt sich der L-förmige 
+Baukörper nicht als aussergewöhnlich bezeichnen. Einfamilienhäuser mit ho-
+rizontal und vertikal versetzten Baukörpern wie dem vorliegenden sind in der 
+Bauzone M. mehrfach zu finden. Von einer speziellen Gelände- und Gebäu-
+deform kann deshalb nicht gesprochen werden. Art. 5 Abs. 3 BauV wurde 
+deshalb zu Recht nicht angewendet. 
+Departement Bau und Umwelt, 18.04.2012 
+1510 
+Baubewilligungsverfahren. Berechnung der Baumassenziffer. Da öffentliche 
+Fusswege im Gegensatz zu Strassen und Plätzen in Plänen nicht als Flächen 
+erfasst sind, werden diese nicht von der anrechenbaren Landfläche abgezo-
+gen. 
+Aus den Erwägungen: 
+3a) Die Rekurrenten begründen ihren Rekurs unter anderem damit, dass 
+eine Verletzung der Baumassenziffer vorliege. Die Vorinstanz sei nicht auf ih-
+re Rüge eingetreten, dass bei der Berechnung der anrechenbaren Landfläche 
+gemäss Art. 1 Abs. 4 der kantonalen Bauverordnung (BauV; bGS 721.11) zu 
+Unrecht auch die Fläche des öffentlichen Weges längs der Parzelle Nr. 1365 
+einbezogen worden sei. Wenn die Flächen von Wald, Gewässer, Strassen 
+und Plätzen abzuziehen seien, so gelte dies unzweifelhaft auch für öffentliche 
+Wege. Die Gleichstellung von Strassen und Wegen werde in Art. 1 Abs. 2 des 
+Strassengesetzes (StrG; bGS 731.11) ausdrücklich vorgenommen und dürfte 
+auch für kommunale Erlasse Gültigkeit haben. Zudem bestreiten sie die Aus-
+
+
+A. Verwaltungsentscheide 
+1510 
+ 
+ 
+11 
+führungen der Vorinstanz, dass im Unterschied zu Strassen und Plätzen öf-
+fentliche Wege nicht als Flächen, sondern lediglich als gestrichelte Linien er-
+fasst und im Grundbuchplan ausgewiesen seien und folglich keine Fläche be-
+stehe, welche von der anrechenbaren Fläche abgezogen werden könne. 
+Wenn der heutige Weg baulich gesehen keine klar abgegrenzte Fläche auf-
+weise, dann habe die Baubehörde durch Sachvergleich ein Mass anzuneh-
+men, dass üblicherweise für einen öffentlichen Weg Gültigkeit habe. In Quar-
+tierplänen weise ein öffentlicher Weg mindestens eine Breite von 1.5 m bis 
+2 m auf. Dies dürfte auch der Praxis der Baubehörde T. bei der Festlegung 
+der Mindestbreite eines öffentlichen Weges entsprechen. 
+b) Gemäss Art. 2 Abs. 1 BauV ist die Baumassenziffer die Verhältniszahl 
+zwischen der oberirdischen Baumasse und der anrechenbaren Landfläche. 
+Als oberirdische Baumasse gilt unter anderem das gesamte Bauvolumen über 
+dem gewachsenen Terrain sowie das durch Abgrabungen des gewachsenen 
+Bodens zusätzlich in Erscheinung tretende Bauvolumen. Bei Terrainverände-
+rungen, die durch den Bau von Strassenerschliessungsanlagen zwingend 
+notwendig sind, kann der projektierte oder erstellte neue Terrainverlauf als 
+gewachsener Boden angenommen werden (Art. 2 Abs. 2 BauV). Mit der Teil-
+revision der Bauverordnung vom 1. August 2011 ist die Konstruktionsstärke 
+der Aussenwand und des Daches nicht mehr zur Baumasse hinzuzurechnen 
+(Art. 2 Abs. 3 BauV). Für die Berechnung der anrechenbaren Landfläche ver-
+weist Art. 2 Abs. 4 BauV auf Art. 1 Abs. 4 BauV. Demnach gilt als anrechen-
+bare Landfläche die von der Baueingabe erfasste Parzellenfläche, soweit sie 
+ausnützungsfähig und nicht schon früher baulich ausgenützt worden ist, ab-
+züglich Wald, Gewässer, Strassen und Plätze (ausser Strassen und Plätze, 
+welche der internen Erschliessung des Baugrundstücks dienen). Sofern für 
+den Bau oder die Korrektion öffentlicher Strassen, Trottoirs und Plätze seit In-
+krafttreten des Baugesetzes nachweislich Boden abgetreten wurde, so kann 
+dieser zur anrechenbaren Landfläche gerechnet werden. 
+Die betroffene Parzelle Nr. X ist der Bauzone W 2b und dem übrigen Ge-
+meindegebiet zugeordnet. Das Grundstück weist eine Fläche von 1‘510 m2 
+auf; der Wohnzone 2b sind 1‘223 m2 und dem übrigen Gemeindegebiet 
+287 m2 zugewiesen. Die maximal zulässige Baumassenziffer beträgt gemäss 
+Art. 16 des Baureglements der Gemeinde T 1.7. Daraus ergibt sich eine ma-
+ximal zulässige Baumasse von 1‘223 m2 × 1.7 = 2‘079 m3. Beansprucht wird 
+gemäss Baumassenberechnung vom 23. Januar 2012 eine Baumasse von 
+1‘913.90 m3. Die Baumassenziffer wird somit eingehalten. Es trifft zu, dass in 
+Art. 1 Abs. 2 StrG Wege den Strassen grundsätzlich gleichgestellt werden. In 
+Bezug auf die Berechnung der anrechenbaren Landfläche hilft diese Gleich-
+stellung jedoch nicht. Öffentliche Fusswege sind im Gegensatz zu Strassen 
+und Plätzen nicht als Flächen, sondern lediglich als gestrichelte Linien erfasst 
+und im Grundbuch ausgewiesen. Eine abzugsfähige Fläche kann somit nicht 
+berechnet werden. Ob nun die Festlegung einer Mindestbreite, wie dies die 
+
+
+A. Verwaltungsentscheide 
+1511 
+ 
+12 
+Rekurrenten fordern, für solche Wege angezeigt ist, kann vorliegend aller-
+dings offen bleiben. Nimmt man die von einzelnen Quartierplänen angesetzte 
+Mindestbreite von öffentlichen Wegen von 2 m als Berechnungsgrundlage 
+und multipliziert diese mit der Länge des betroffenen Strassenabschnittes 
+(maximal 22 m), so würde man eine abzugsfähige Fläche von maximal 44 m2 
+erhalten. Die anrechenbare Fläche würde somit 1‘179 m2 umfassen, was eine 
+zulässige Baumasse von 1.7 × 1‘179 m2 = 2‘004.3 m3 ergeben würde. Folg-
+lich würde sogar bei Abzug einer grosszügig berechneten Wegfläche die 
+Baumassenziffer eingehalten werden. Dem Einwand der Rekurrenten kann in 
+diesem Punkt somit nicht gefolgt werden. 
+Departement Bau und Umwelt, 30.05.2012 
+1511 
+Verfahren. Anspruch auf rechtliches Gehör. Das Recht des Betroffenen, vor 
+Erlass einer Feststellungsverfügung bezüglich Verstosses gegen Gewässer-
+schutzvorschriften angehört zu werden, bildet Bestandteil des rechtlichen Ge-
+hörs. Ungenügende Ermittlung des Sachverhalts im vorliegenden Fall. 
+Aus den Erwägungen: 
+3a) Der Rekurrent begründet den Rekurs unter anderem damit, dass ihm 
+das Amt für Umwelt das rechtliche Gehör verweigert habe, indem es ihn, un-
+ter Missachtung des Art. 66 Abs. 5 der Verordnung über die Direktzahlungen 
+an die Landwirtschaft (Direktzahlungsverordnung; DZV; SR 910.13), auf die 
+angeblichen Verfehlungen nicht unverzüglich aufmerksam gemacht und zur 
+Besichtigung vor Ort sowie zur Stellungnahme eingeladen habe. Ferner sei 
+ihm das Recht auf eine Nachkontrolle verwehrt worden. Durch diese Unter-
+lassung auf Seiten der Behörde sei es dem Rekurrenten nicht mehr in fairer 
+Weise möglich, sich gegen die Anschuldigungen zu wehren. 
+b) Der Anspruch auf rechtliches Gehör richtet sich nach Art. 12 ff. VRPG 
+und nach Art. 29 Abs. 2 BV. Das rechtliche Gehör dient einerseits der Sach-
+aufklärung, andererseits stellt es ein persönlichkeitsbezogenes Mitwirkungs-
+recht beim Erlass eines Entscheids dar, welcher in die Rechtsstellung des 
+Einzelnen eingreift. Dazu gehört insbesondere auch das Recht des Betroffe-
+nen, sich vor Erlass eines solchen Entscheides zur Sache zu äussern, erheb-
+liche Beweise beizubringen, Einsicht in die Akten zu nehmen, mit erheblichen 
+Beweisanträgen gehört zu werden und an der Erhebung wesentlicher Bewei-
+se entweder mitzuwirken oder sich zumindest zum Beweisergebnis zu äus-
+sern, sofern dieses geeignet ist, den Entscheid zu beeinflussen. Der Anspruch 
+auf rechtliches Gehör umfasst als Mitwirkungsrecht somit alle Befugnisse, die
