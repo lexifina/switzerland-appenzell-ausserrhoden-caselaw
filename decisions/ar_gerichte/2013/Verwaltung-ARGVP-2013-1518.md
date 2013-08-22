@@ -1,0 +1,370 @@
+---
+decision_id: "ar_gerichte_Verwaltung_ARGVP_2013_1518"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "Verwaltung ARGVP 2013 1518"
+decided: "2013-08-22"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2013/Verwaltung-20130822-20130822-ARGVP-2013-1518.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2013/Verwaltung-20130822-20130822-ARGVP-2013-1518.pdf"
+cites_law: ["switzerland/bund/acts/451/art-006.md"]
+---
+
+# AR Gerichte Verwaltung ARGVP 2013 1518
+
+## Regeste
+
+A. Verwaltungsentscheide 1518 dabei aufgrund der geringfügigen Abweichung in einem offenkundigen Irrtum befunden (Art. 26 Abs. 1 lit. c VRPG), zumal es dem Rekurrenten offenbar selbst nur möglich war, die Distanz durch Lasermessungen zu
+
+## Text
+
+A. Verwaltungsentscheide 
+1518 
+ 
+6 
+dabei aufgrund der geringfügigen Abweichung in einem offenkundigen Irrtum 
+befunden (Art. 26 Abs. 1 lit. c VRPG), zumal es dem Rekurrenten offenbar 
+selbst nur möglich war, die Distanz durch Lasermessungen zu ermitteln. Dass 
+zwingende öffentliche Interessen eine Wiederaufnahme des Verfahrens ge-
+bieten würden (Art. 26 Abs. 1 lit. d VRPG), ist ebenfalls nicht erkennbar. Dem 
+stünde vielmehr das Prinzip der Rechtssicherheit bzw. das Vertrauen in die 
+Rechtskraft der erteilten Baubewilligung entgegen. Mangels Vorliegen eines 
+Wiederaufnahmegrunds i.S.v. Art. 26 VRPG vermag der Rekurrent daher mit 
+seinen Vorbringen nicht durchzudringen, womit der Rekurs abzuweisen ist. 
+Departement Bau und Umwelt, 04.02.2013 
+1518 
+Bauen ausserhalb der Bauzone. Gestaltungsanforderungen bei Bedachun-
+gen von Alpställen. Die Dacheindeckung von Ställen in der Landschafts-
+schutzzone ausserhalb des Gebiets des Bundesinventars der Landschaften 
+und Naturdenkmäler (BLN) mit Blech-Sandwichpaneelen ist grundsätzlich zu-
+lässig. Praxisänderung. 
+Aus den Erwägungen: 
+3. Gemäss Art. 108 Abs. 2 BauG verfügt die zuständige Behörde für Bau-
+ten, welche in Abweichung von einer Baubewilligung erstellt wurden, die Ent-
+fernung oder Abänderung sowie die Wiederherstellung des ursprünglichen 
+rechtmässigen Zustands. Dabei ist im Sinne einer Vorprüfung festzustellen, 
+ob die ausgeführten Bauten nachträglich bewilligt werden können. Die Vor-
+instanz ist in ihrem Entscheid vom 11. September 2012 zum Schluss gekom-
+men, dass die gestalterischen Aspekte bereits im raumplanerischen Entscheid 
+vom 31. August 2011 abschliessend geprüft worden seien. Aufgrund dieser 
+gestalterischen Beurteilung sei die raumplanerische Bewilligung mit der be-
+sagten Auflage hinsichtlich der Dacheindeckung verbunden worden. Entspre-
+chend sei die nachträgliche Bewilligung der in Abweichung zur ursprünglichen 
+Baubewilligung realisierten Baute auszuschliessen. Wird nun aber eine Wie-
+derherstellungsverfügung mit Rekurs angefochten, so hat die Rechtsmittel-
+instanz wenigstens summarisch zu prüfen, ob die im Streit liegende Baute 
+materiell rechtswidrig ist. Dementsprechend ist nachfolgend die materielle 
+Rechtswidrigkeit der Dacheindeckung mit braunen Blech-Sandwichpaneelen 
+zu prüfen (vgl. Zaugg/Ludwig, Kommentar zum Baugesetz des Kantons Bern, 
+Band I, 3. A., Bern 2007, N 14a zu Art. 46). 
+4a) Bauten haben sich nach Art. 112 Abs. 1 BauG so in ihre bauliche und 
+landschaftliche Umgebung einzufügen, dass eine gute Gesamtwirkung ent-
+steht und das Orts-, Quartier- und Landschaftsbild nicht wesentlich beein-
+
+
+A. Verwaltungsentscheide 
+1518 
+ 
+ 
+7 
+trächtigt wird. Gemäss Art. 112 Abs. 2 BauG haben sich Neubauten aus-
+serhalb der Bauzonen an traditionellen Gebäuden der herkömmlichen Bauart 
+zumindest in Bezug auf Gebäude- und Dachform sowie Material- und Farb-
+wahl anzupassen. Weil das Vorhaben ein Gebäude ausserhalb der Bauzone 
+betrifft, muss die umstrittene Dacheindeckung diesen erhöhten Anforderun-
+gen, insbesondere auch bezüglich der Materialwahl, genügen. Dazu kommt, 
+dass die umstrittenen Blech-Sandwichpaneele auf einer Baute in der kantona-
+len Landschaftsschutzzone gemäss Schutzzonenplan von 1991 angebracht 
+wurden. Das umstrittene Vorhaben hat deshalb in Bezug auf die Gestaltung, 
+die Farbgebung und die Einpassung ins Landschaftsbild zusätzlich den erhöh-
+ten Anforderungen von Art. 82 Abs. 2 und 3 BauG zu genügen. Nach Art. 82 
+Abs. 3 BauG haben sich Neubauten der herkömmlichen Bauart anzupassen. 
+An traditionellen Bauten und selbst an Neubauten, welche in der Landschafts-
+schutzzone realisiert werden, sind daher stilgerechte Bauteile verlangt und 
+können stilfremde Materialien untersagt werden. Für die umstrittene Material-
+wahl zur Dacheindeckung (Blech-Sandwichpaneele anstelle von Schiefereter-
+nit oder Tonziegel) sind es vorab diese nach Art. 112 Abs. 2 und Art. 82 
+Abs. 2 und 3 BauG für alle Bauten ausserhalb der Bauzone und in der Land-
+schaftsschutzzone geltenden Anforderungen, welchen das strittige Bauvorha-
+ben zu genügen hat (vgl. AR GVP 20/2008, Nr. 2278, E. 3; AR GVP 9/1997, 
+Nr. 2160). 
+b) Die Vorinstanz kommt bereits in ihrem Baubewilligungsentscheid vom 
+31. August 2011 zum Schluss, dass das Dach des Alpstalles mit grauem 
+Schiefereternit oder braunen Tonziegeln eingedeckt werden müsse, um den 
+gestalterischen Vorgaben aus Art. 112 Abs. 2 BauG und Art. 82 Abs. 2 und 3 
+BauG genügen zu können. In ihrem Wiederherstellungsentscheid vom 
+11. September 2012 argumentiert sie diesbezüglich, dass verschiedene ge-
+stalterische Grundsätze eingehalten werden müssten, damit die kulturhistori-
+schen Werte der Alpen inkl. der Alpgebäude auch weiterhin im gesamten Alp-
+gebiet des Kantons Appenzell Ausserrhoden ersichtlich und ablesbar blieben. 
+Diese gestalterischen Grundsätze seien in der Wegleitung „Erneuerung und 
+Sanierung von Alpgebäuden“ (Kantonale Arbeitsgruppe „Alpgebäude-
+Sanierung“, Wegleitung Erneuerung und Sanierung von Alpgebäuden, Heri-
+sau 2011) formuliert. Im Sinne der Gleichbehandlung und der Wahrung der 
+landschaftlichen Eigenart der Alpen sei es zwingend notwendig, dass die 
+Blech-Sandwichpaneele vollständig entfernt würden und der Alpstall wie ur-
+sprünglich verlangt mit grauem Schiefereternit oder mit braunen Tonziegeln 
+eingedeckt werde. Diese Argumentation führt die Vorinstanz in ihrer Stellung-
+nahme vom 2. November 2012 weiter. Danach sei bei der Beurteilung mass-
+gebend, ob sich das Gebäude innerhalb oder ausserhalb des Perimeters des 
+Sömmerungsgebietes befinde. Innerhalb des Sömmerungsgebietes seien 
+Umbauten, Renovationen und Ersatzbauten möglichst sorgfältig zu gestalten. 
+In der Wegleitung „Erneuerung und Sanierung von Alpgebäuden“ seien ge-
+
+
+A. Verwaltungsentscheide 
+1518 
+ 
+8 
+stalterische Grundsätze formuliert, welche es bei Bauvorhaben im Sömme-
+rungsgebiet zu beachten gelte. Anlässlich des Rekursaugenscheins vom 
+3. Mai 2013 fügt die Vorinstanz hinzu, dass die Blech-Sandwichpaneele in 
+Richtung Industrialisierung der Alpgebäude gingen und wegen ihrer optischen 
+Wirkung nicht in die geschützte Landschaft passen würden. Diesen Stand-
+punkt betont die Vorinstanz auch in ihrer Duplik vom 3. Juli 2013, gemäss 
+welcher ihrer Meinung nach das Sömmerungsgebiet das grosse landschaftli-
+che Potenzial Ausserrhodens sei. Es sei praktisch vollständig als kantonale 
+Landschaftsschutzzone ausgeschieden. Die Landschaft werde durch die über 
+hundert Alpen und einem Mehrfachen an Gebäuden und ihren Dächern ge-
+prägt. Das Zulassen von Blech-Sandwichpaneelen in diesem sensiblen Ge-
+biet stehe in klarem Widerspruch zu den erhöhten gestalterischen Anforde-
+rungen bezüglich der Einpassung ins Landschaftsbild gemäss Baugesetz. 
+Insgesamt lässt sich demnach hinsichtlich der bewilligungsfähigen Materialien 
+zur Eindeckung von Dächern auf Alpgebäuden eine geübte Praxis der Vor-
+instanz erkennen, welche sich in der besagten Wegleitung niedergeschlagen 
+hat. Danach gilt der allgemeine Gestaltungsgrundsatz, nach dem die Dächer 
+von Alpställen „vorzugsweise mit Schiefereternit oder allenfalls grauen oder 
+braunen Ziegeln, idealerweise Muldenfalzziegeln“ eingedeckt werden sollten 
+(Wegleitung, a.a.O., S. 5). Es bleibt in Bezug auf diese Wegleitung zu bemer-
+ken, dass darin die Dacheindeckung nicht in den tabellarischen Detailanforde-
+rungen an Alpställe und Sennhütten geregelt ist. Das Departement Bau und 
+Umwelt stellt damit zusammenfassend fest, dass Blech-Sandwichpaneele zur 
+Dacheindeckung von Alpställen nach der eingelebten Praxis der Vorinstanz 
+nicht bewilligungsfähig sind. An dieser Stelle ist festzuhalten, dass dem Be-
+griff „Sömmerungsgebiet“ keinerlei raumplanungsrechtliche Bedeutung zu-
+kommt, womit dieser Begriff in der Folge ausgeblendet wird. Von raumpla-
+nungsrechtlichem Belang ist hingegen der Begriff „Bundesinventar der Land-
+schaften und Naturdenkmäler (nachfolgend BLN)“. Bei Vorhaben in einem 
+BLN-Gebiet, hier im Säntisgebiet, muss auf der Grundlage von Art. 5 des 
+Bundesgesetzes über den Natur- und Heimatschutz (NHG; SR 451) i.V.m. 
+Anhang 1 der Verordnung über das Bundesinventar der Landschaften und 
+Naturdenkmäler (VBLN; SR 451.11) nach der Rechtsprechung des Bundes-
+gerichts eine besondere Interessenabwägung gemäss Art. 6 Abs. 2 NHG im 
+Lichte der Natur- und Heimatschutzanliegen vorgenommen werden. In casu 
+können diese bundesrechtlichen Vorgaben insoweit ausser Acht bleiben als 
+sich der strittige Alpstall nicht im BLN-Gebiet befindet (vgl. Wegleitung, a.a.O., 
+S. 4 f.; BGE 135 II 209 E. 2.1). 
+5a) Das Gleichheitsprinzip verlangt, dass in der Regel an einer eingeleb-
+ten Praxis festgehalten wird. Die Entscheidungstätigkeit der rechtsanwenden-
+den Behörden ist jedoch zwangsläufig mit Praxisänderungen verbunden, wür-
+de doch sonst eine Rechtsfortbildung verunmöglicht werden. Somit ist es den 
+Behörden nicht verwehrt, eine geübte Praxis zu ändern, wenn sie der Ansicht 
+
+
+A. Verwaltungsentscheide 
+1518 
+ 
+ 
+9 
+sind, eine andere Rechtsanwendung entspreche besser dem Sinn des Geset-
+zes oder den veränderten Verhältnissen. Eine solche Praxisänderung muss 
+sich jedoch auf ernsthafte, sachliche Gründe stützen, welche umso gewichti-
+ger sein müssen, je länger die als falsch oder als nicht mehr zeitgemäss er-
+kannte Rechtsanwendung praktiziert worden ist. Ist diese Voraussetzung er-
+füllt, steht eine Praxisänderung weder mit dem Grundsatz der Rechtssicher-
+heit noch der Rechtsgleichheit im Widerspruch, obschon jede Änderung der 
+bisherigen Rechtsanwendung zwangsläufig mit einer Ungleichbehandlung der 
+früheren und der neuen Fälle verbunden ist. Es stellt sich somit die Frage, ob 
+an der geltenden Praxis der Vorinstanz, keine Blech-Sandwichpaneele zur 
+Dacheindeckung von Alpställen zu tolerieren, festzuhalten ist oder ob sachli-
+che Gründe eine Praxisänderung zulassen. Es gilt dabei hervorzuheben, dass 
+es sich um eine eingelebte Praxis der Vorinstanz handelt. Es ist jedoch zu 
+hinterfragen, ob diese Praxis angesichts der immer höheren Baustandards 
+und der heutigen Bauentwicklung noch den aktuellen Gegebenheiten und Be-
+dürfnissen zu entsprechen vermag (vgl. BGE 127 I 52 E. 3c; BGE 125 II 152 
+E. 4c; AR GVP 16/2004, Nr. 1407, E. 4a; Weber-Dürler, Zum Anspruch auf 
+Gleichbehandlung in der Rechtsanwendung, ZBl 105/2004, S. 16). 
+b) Das Departement Bau und Umwelt stellte bereits in zwei früheren Ent-
+scheiden fest, dass die Dacheindeckung von Ställen ausserhalb der Bauzone 
+mit Blech-Sandwichpaneelen sowohl für isolierte wie auch für nichtisolierte 
+Bedachungen unter bestimmten Voraussetzungen mit den Anforderungen von 
+Art. 112 Abs. 2 BauG vereinbar ist. In diesen Entscheiden argumentiert das 
+Departement Bau und Umwelt, dass Blech-Sandwichpaneele bei der nötigen 
+sorgfältigen Ausführung für Bedachungen von Ställen eine optisch anspre-
+chende Lösung darzustellen vermögen und die Anliegen der Landwirtschaft 
+sowie die statischen und finanziellen Aspekte ein Abweichen von der her-
+kömmlichen Bauweise zulassen. Die grundsätzliche Zulässigerklärung der 
+Dacheindeckung von Ställen mit Blech-Sandwichpaneelen blieb in diesen 
+früheren Entscheiden des Departements Bau und Umwelt unter dem Vorbe-
+halt der Beurteilung von Bauten, an welche erhöhte gestalterische Anforde-
+rungen zu stellen sind. Dazu sind die Landschaftsschutzzonen nach Art. 82 
+BauG zu zählen. Dementsprechend bleibt nun zu entscheiden, ob die bisheri-
+ge Rechtsprechung des Departements Bau und Umwelt, welche Blech-
+Sandwichpaneele zur Dacheindeckung von Ställen ausserhalb der Bauzone 
+zulässt, auf Ställe in der Landschaftsschutzzone ausgeweitet werden muss 
+(vgl. AR GVP 16/2004, Nr. 1407, E. 4; AR GVP 14/2002, Nr. 1384, E. 4). 
+c) Art. 82 Abs. 2 BauG verlangt für Landschaftsschutzzonen, dass eine 
+Baute in Bezug auf die Gestaltung, die Farbgebung und die Einpassung ins 
+Landschaftsbild erhöhten gestalterischen Anforderungen zu genügen hat. 
+Nach Art. 82 Abs. 3 BauG haben sich Neubauten der herkömmlichen Bauart 
+anzupassen. Wie bereits oben gesehen, sind daher an Neubauten stilgerech-
+te Bauteile verlangt und können stilfremde Materialien untersagt werden. 
+
+
+A. Verwaltungsentscheide 
+1518 
+ 
+10 
+Nach der Rechtsprechung haben sich Neubauten zwingend am herkömmli-
+chen Baustil zu orientieren. Die Anpassung daran kann nicht von einer Inte-
+ressenabwägung abhängig gemacht werden. Insofern handelt es sich bei 
+Art. 82 Abs. 3 BauG ausschliesslich um eine Ästhetiknorm. Somit können die-
+jenigen funktionalen Aspekte, welche in den beiden früheren Entscheiden des 
+Departements Bau und Umwelt zur Begründung der Vereinbarkeit von Blech-
+Sandwichpaneelen mit Art. 112 Abs. 2 BauG angeführt wurden, in diesem Fall 
+nicht einer Interessenabwägung zugeführt werden. Dementsprechend fallen 
+etwa die Anliegen der Landwirtschaft, die statischen Vorteile oder finanzielle 
+Überlegungen ausser Betracht. Ob die Dacheindeckung von Ställen mit 
+Blech-Sandwichpaneelen mit Art. 82 Abs. 2 und 3 BauG vereinbar ist, muss 
+anhand des optischen Erscheinungsbilds unter Berücksichtigung der her-
+kömmlichen Bauweise beurteilt werden. 
+d) Die von der Vorinstanz angeführte Wegleitung „Erneuerung und Sanie-
+rung von Alpgebäuden“ zeichnet die historische Entwicklung der Dacheinde-
+ckung von Alpbauten kurz nach. So hätten die Bauten ursprünglich über ein 
+Schindeldach verfügt, welches Mitte des 20. Jahrhunderts jedoch durch eine 
+Eindeckung mit Schiefereternit ersetzt worden sei. Gemäss dieser Wegleitung 
+würden selten auch Blechdächer vorkommen. Alpen, welche gut mit dem 
+Fahrzeug erreichbar seien, würden auch Tonziegeleindeckungen aufweisen. 
+Demnach stellt das Departement Bau und Umwelt fest, dass Schindeldächer 
+die herkömmliche Bauart für die Dacheindeckung von Alpställen i.S.v. Art. 82 
+Abs. 3 BauG darstellen. Dementsprechend sind bereits Schiefereternit, 
+Blechdächer und Tonziegel als stilfremde Materialien im Sinne des Gesetzes 
+zu bezeichnen. Hinsichtlich der dahinter stehenden Bewilligungspraxis, wel-
+che sich auch in der Gestaltungsempfehlung der Wegleitung widerspiegelt, ist 
+zu bemerken, dass sie sich offensichtlich zumindest teilweise auf funktionale 
+Argumente wie die verkehrstechnische Erschliessung einer Alp stützt. Lässt 
+die Vorinstanz stilfremde Materialien wie Schiefereternit oder Tonziegel zur 
+Dacheindeckung von Alpställen zu, so muss sie angesichts der damit verbun-
+denen Eigentumsbeschränkung den verfassungsmässigen Grundsatz der 
+Rechtsgleichheit beachten und in der Konsequenz die Zulässigkeit von Blech-
+Sandwichpaneelen im Lichte des von Art. 82 Abs. 2 und 3 BauG geforderten 
+optischen Erscheinungsbildes zumindest prüfen. Dies ergibt sich im Übrigen 
+auch aus der Rechtsprechung des Obergerichts, wonach sich weder aus 
+Art. 82 Abs. 2 und 3 BauG noch aus Art. 112 Abs. 2 BauG sondern lediglich 
+aus Art. 86 Abs. 5 BauG – namentlich für geschützte Kulturobjekte – eine 
+über die Erhaltung des traditionellen Erscheinungsbildes hinausgehende Ein-
+schränkung der Materialwahl ableiten lässt (vgl. AR GVP 20/2008, Nr. 2278, 
+E. 3; AR GVP 9/1997, Nr. 2160; Urteil II 05 19 des Obergerichts des Kantons 
+Appenzell Ausserrhoden vom 28. Februar 2007; Wegleitung, a.a.O., S. 2 ff.). 
+e) Vergleicht man mit braunen Tonziegeln eingedeckte Dächer von 
+Alpställen mit der in casu realisierten Dachart, ist zunächst zu sagen, dass vor 
+
+
+A. Verwaltungsentscheide 
+1518 
+ 
+ 
+11 
+allem aus geringer Distanz betrachtet Unterschiede bestehen, welche haupt-
+sächlich in der Glätte der Oberfläche gründen. Diese Unterschiede werden 
+umso unsichtbarer, je grösser die Sichtdistanz wird. Was die Kombination mit 
+Elementen wie Dachabschluss, Schneefängern usw. betrifft, hat sich das De-
+partement Bau und Umwelt anlässlich des Augenscheins vom 3. Mai 2013 
+davon überzeugen können, dass diesbezüglich durchaus gute Lösungen 
+möglich sind. Vom Gesamteindruck her erscheint die Baute der Rekurrenten 
+durchaus als optisch-gestalterisch gefällig. Wie Figura gezeigt hat, sind folg-
+lich auch mit der Dacheindeckungsart „Blech-Sandwichpaneele“ ansprechen-
+de Resultate erzielbar. Von einiger Bedeutung sind indessen die Sorgfältigkeit 
+der Ausführung, die Farbwahl sowie das Zusammenspiel zwischen Dachflä-
+che und Dachdetails. Das Departement Bau und Umwelt entscheidet aus die-
+sen Erwägungen, dass die Dacheindeckung mit Blech-Sandwichpaneelen den 
+erhöhten Anforderungen von Art. 82 Abs. 2 und 3 BauG zu genügen vermag 
+und diese Materialart zur Dacheindeckung von Ställen in der Landschafts-
+schutzzone ausserhalb des BLN-Gebiets zulässig ist (vgl. AR GVP 16/2004, 
+Nr. 1407, E. 4; AR GVP 14/2002, Nr. 1384, E. 4). 
+6. Die grundsätzliche Zulässigerklärung der Dacheindeckung von Ställen 
+in der Landschaftsschutzzone ausserhalb des BLN-Gebiets mit Blech-
+Sandwichpaneelen stellt eine Praxisänderung dar. Angesichts der gestalteri-
+schen Ziele von Art. 112 Abs. 2 und Art. 82 BauG gilt es aber, Präzisierungen 
+und Einschränkungen zu treffen, da nicht jede erdenkliche Bauweise dem ge-
+setzgeberischen Willen entsprechen kann. Es ist festzuhalten, dass sich diese 
+Praxisänderung nur auf freistehende Ökonomiegebäude wie Ställe, Scheunen 
+und dergleichen bezieht. Übrige Bauten, insbesondere Wohnbauten und der-
+gleichen, bleiben von der Praxisänderung ausgeschlossen. In dieser Hinsicht 
+sind auch die tabellarischen Detailanforderungen an Alpställe und Sennhüt-
+ten, wie sie in der Wegleitung „Erneuerung und Sanierung von Alpgebäuden“ 
+auf der Seite 5 festgehalten sind, zu ergänzen: Für die Dacheindeckung von 
+Alpställen ausserhalb des BLN-Gebiets können neben Schiefereternit und 
+Tonziegel nun auch Blech-Sandwichpaneele gewählt werden, währenddessen 
+innerhalb des BLN-Gebiets weiterhin nur Schiefereternit und Tonziegel zuge-
+lassen sind. Für die Bauausführung sind darüber hinaus verschiedene Anfor-
+derungen zu erfüllen. So ist die Farbauswahl auf herkömmliche Farbtöne ein-
+zuschränken, wobei dunklere Farbtöne (braun, rot, rot-braun) zu bevorzugen 
+sind. Sodann ist festzulegen, dass bei der Planung und Ausführung von mit 
+Blech-Sandwichpaneelen einzudeckenden Dächern ein spezielles Augenmerk 
+auf die Dachrandabschlüsse zu legen ist. Die ort- und traufseitigen Abschlüs-
+se sind fachgerecht mit Abdeckblechen des Blech-Sandwichpaneelsystems 
+zu versehen. Ebenfalls möglich – und in gestalterischer Hinsicht gar zu bevor-
+zugen – sind Ortbretter. Hinsichtlich der Dimensionierung haben sich 
+Dachrandabschlüsse an jene herkömmlicher Ziegeldächer zu halten. Die im 
+
+
+A. Verwaltungsentscheide 
+1519 
+ 
+12 
+vorliegenden 
+Fall 
+ausgeführte 
+Dacheindeckung 
+mit 
+braunen 
+Blech-
+Sandwichpaneelen vermag diesen Vorgaben ohne Weiteres zu genügen. 
+7. Das Departement Bau und Umwelt entscheidet aufgrund vorgegange-
+ner 
+Erwägungen, 
+dass 
+die 
+Dacheindeckung 
+mit 
+braunen 
+Blech-
+Sandwichpaneelen auf dem Alpstall Assek. Nr. X auf der Parz. Nr. Y, G., Ur. 
+den gestalterischen Vorgaben sowohl von Art. 112 Abs. 2 als auch von Art. 82 
+Abs. 2 und 3 BauG genügt. Dementsprechend entfällt mit der vorgenomme-
+nen Praxisänderung die materielle Rechtswidrigkeit. Der in Abweichung von 
+der Baubewilligung ausgeführten Dacheindeckung kann die nachträgliche 
+Bewilligung erteilt werden. Bei diesem Ergebnis kann die Frage offengelassen 
+werden, ob die verfügte Wiederherstellung dem Grundsatz der Verhältnis-
+mässigkeit Genüge getan hätte. Der Rekurs wird damit gutgeheissen und der 
+Wiederherstellungsentscheid der Vorinstanz vom 11. September 2012 aufge-
+hoben. 
+Departement Bau und Umwelt, 22.08.2013 
+1519 
+Wasserrecht. Voraussetzungen eines ehehaften Rechtes. Die Bewilligung 
+der Kiesentnahme wurde im konkreten Fall zu Recht verweigert. 
+Aus den Erwägungen: 
+3a) Gemäss Art. 24 des Gesetzes über den Wasserbau und die Gewäs-
+sernutzung 
+vom 
+25. September 2006 
+(Wasserbaugesetz; 
+WBauG; 
+bGS 741.1) steht das Recht zur Entnahme von Steinen, Kies, Sand und 
+Schlamm aus öffentlichen Gewässern, soweit es ohne nachteilige Folgen für 
+das Gewässer ausgeübt werden kann, für den eigenen nicht gewerblichen 
+Bedarf den unterhaltspflichtigen Anstösserinnen und Anstössern zu. Vorgän-
+gig ist eine Bewilligung der Fachstelle einzuholen. Nach Art. 27 Abs. 1 
+WBauG bleiben Nutzungsrechte, die vor dem Inkrafttreten dieses Gesetzes 
+gemäss damaligem Recht begründet wurden, anerkannt. Nutzungsrechte, die 
+seit unvordenklicher Zeit als solche ausgeübt und anerkannt waren, gelten als 
+wohlerworben und geniessen den Schutz der Eigentumsgarantie in dem Um-
+fange, in dem sie im Zeitpunkt des Inkrafttretens des Gesetzes ausgeübt wur-
+den. Ein Nutzungsrecht wird seit unvordenklicher Zeit ausgeübt, wenn dieses 
+bereits am 1. Januar 1912, zur Zeit des Inkrafttretens des Einführungsgeset-
+zes zum ZGB, in welchem die Nutzung öffentlicher Gewässer bis zum 
+1. Januar 2007 geregelt war, als solches ununterbrochen ausgeübt wurde. Im 
+Kanton Appenzell Ausserrhoden werden solche Nutzungsrechte als ehehafte 
+Rechte bezeichnet. Entscheidend ist somit, ob das von der Rekurrentin gel-
+tend gemachte Recht auf Kiesentnahme aus öffentlichen Gewässern vor dem
