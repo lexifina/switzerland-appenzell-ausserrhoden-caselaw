@@ -1,0 +1,155 @@
+---
+decision_id: "ar_gerichte_Verwaltung_ARGVP_2015_1534"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "Verwaltung ARGVP 2015 1534"
+decided: "2015-08-19"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2015/Verwaltung-20150819-20150819-ARGVP-2015-1534.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//AR%20GVP/Verwaltungsentscheide/2015/Verwaltung-20150819-20150819-ARGVP-2015-1534.pdf"
+cites_law: ["switzerland/bund/acts/700/art-024.md"]
+---
+
+# AR Gerichte Verwaltung ARGVP 2015 1534
+
+## Regeste
+
+A. Verwaltungsentscheide 1534 1534 Baubewilligungsverfahren. Bestandesgarantie in der Kurzone. Verneinung der Bestandesgarantie für Wohnhäuser, welche zuvor als Ferienhäuser ge-nutzt wurden. Aus den Erwägungen: 3.b) Die heute als Wohnhäu
+
+## Text
+
+A. Verwaltungsentscheide 
+1534 
+ 
+2 
+1534 
+Baubewilligungsverfahren. Bestandesgarantie in der Kurzone. Verneinung 
+der Bestandesgarantie für Wohnhäuser, welche zuvor als Ferienhäuser ge-
+nutzt wurden. 
+Aus den Erwägungen: 
+3.b) Die heute als Wohnhäuser genutzten sechs Reiheneinfamilienhäuser 
+der Rekursgegnerin Assek. Nr. A-F auf den Parzellen Nrn. U-Z wurden durch 
+den Gemeinderat G. mit Baubewilligung vom 17. November 1972 als Ferien-
+häuser bewilligt. Gemäss telefonischer Auskunft des Grundbuchamts G. vom 
+17. Juli 2015 lasse sich heute nicht mehr nachvollziehen, seit wann die Rei-
+heneinfamilienhäuser als Wohnhäuser genutzt würden. Allerdings stehe fest, 
+dass diese Zweckänderung nicht bewilligt worden sei. 
+c) Die Parz. Nrn. T sowie U-Z befinden sich in einer Kurzone. Gemäss 
+Art. 25 Abs. 1 des Gesetzes über die Raumplanung und das Baurecht (Bau-
+gesetz; BauG; bGS 721.1) sind in den Kurzonen nur Bauten und Anlagen zu-
+lässig, welche dem Kurbetrieb und der Erholung dienen. Die Gemeinden kön-
+nen in ihren Baureglementen aber Ausnahmen für weitere Bauten wie Wohn-
+bauten, Hotels oder Ferienanlagen vorsehen (Art. 25 Abs. 2 BauG). Das 
+geltende Baureglement der Gemeinde G. sieht keine Ausnahme für Ferien- 
+oder Wohnbauten in Kurzonen vor. Bereits das vor Inkrafttreten des heutigen 
+Reglements geltende Baureglement kannte keine derartige Ausnahmerege-
+lung. Somit war die Nutzung der Reiheneinfamilienhäuser Assek. Nr. A-F als 
+Ferienhäuser bereits seit 1996 klar zonenwidrig. Da die Reiheneinfamilien-
+häuser 1972 rechtmässig als Ferienhäuser errichtet worden sind, werden die 
+Reiheneinfamilienhäuser aber – in ihrer ursprünglichen Nutzung als Ferien-
+häuser – von der Bestandesgarantie erfasst. Es stellt sich allerdings die Fra-
+ge, ob sich die Rekursgegnerin, angesichts der heutigen, ebenfalls zonenwid-
+rigen Nutzung der Reiheneinfamilienhäuser als Wohnhäuser, in der vorlie-
+genden Streitsache tatsächlich auf die Bestandesgarantie nach Art. 94 BauG 
+berufen kann. 
+4.a) Art. 94 Abs. 1 BauG schützt den Weiterbestand, den Unterhalt sowie 
+die zeitgemässe Erneuerung von bestehenden Bauten innerhalb von Bauzo-
+nen, die der Nutzungsordnung oder den Bauvorschriften nicht entsprechen. 
+Zweckänderungen können gemäss Art. 94 Abs. 2 BauG bewilligt werden, so-
+fern die Bauten ursprünglich rechtmässig erstellt wurden (lit. a), der Wider-
+spruch zum geltenden Recht nicht wesentlich verstärkt wird (lit. b) und keine 
+wesentlichen öffentlichen Interessen verletzt werden (lit. c). 
+
+
+A. Verwaltungsentscheide 
+1534 
+ 
+ 
+3 
+b) Seit Inkrafttreten des RPG am 1. Januar 1980 besteht von Bundes-
+rechts wegen eine gesamtschweizerische, einheitliche Bewilligungspflicht für 
+die Errichtung oder Zweckänderung von Bauten. Zweckänderungen, die fass-
+bare Auswirkungen auf die Nutzungsordnung haben, waren demnach seit 
+spätestens dem 1. Januar 1980 bewilligungspflichtig (siehe BGE 113 Ib 219 
+E. 4d; Alexander Ruch, in: Aemisegger/Moor/Ruch/Tschannen [Hrsg.], Kom-
+mentar zum RPG, Zürich 2010, N 34 zu Art. 22). 
+Gemäss Art. 4 Abs. 2 des Gesetzes über die Einführung des Bundesge-
+setzes über die Raumplanung (EG zum RPG) sind Zweckänderungen im 
+Rahmen der Bestandesgarantie bewilligungspflichtig. Das EG zum RPG trat 
+am 1. Januar 1986 in Kraft und wurde durch das am 1. Januar 2004 in Kraft 
+getretene BauG abgelöst. Zweckänderungen im Rahmen der Bestandesga-
+rantie sind daher mindestens seit dem 1. Januar 1980 bzw. dem 1. Ja-
+nuar 1986 bewilligungspflichtig. Gemäss Rechtsprechung des Obergerichts 
+von Appenzell Ausserrhoden waren Zweckänderungen zudem ohnehin seit 
+jeher bewilligungspflichtig (Urteil OGer AR O4V 128, E. 3.2). 
+Aufgrund der Faktenlage ist davon auszugehen, dass zumindest ein Teil 
+der Ferienhäuser nach dem 1. Januar 1986 als Wohnhäuser genutzt wurden. 
+Da sich die im Jahr 1972 erteilte Baubewilligung nur auf eine Nutzung als Fe-
+rienhäuser bezog und die Zweckänderung zur Wohnnutzung somit nie recht-
+mässig bewilligt wurde, kann die Bestandesgarantie nur hinsichtlich der ur-
+sprünglich bewilligten Nutzung als Ferienhäuser zur Anwendung kommen. 
+c) Nach dem oben Gesagten ist die Verstärkung der Rechtswidrigkeit 
+(Art. 94 Abs. 2 lit. a BauG) nicht an der unbewilligten und daher nicht durch 
+die Bestandesgarantie geschützten Wohnnutzung, sondern an der bewilligten 
+Nutzung als Ferienhäuser zu bemessen (Urteil OGer AR O4V 128, E. 4.2 E). 
+Die Wohnnutzung eines Gebäudes ist bedeutend intensiver als die Nutzung 
+als Feriendomizil. Ferienhäuser werden i.d.R. hauptsächlich an Wochenenden 
+sowie zu den Ferienzeiten bewohnt, während Wohnhäuser üblicherweise 
+durchgehend bewohnt sind. Zudem ist bei einem Ferienhaus auch eine weni-
+ger regelmässige Frequentierung durch Handwerker, Lieferanten und Besu-
+cher zu erwarten. Zur Ermittlung der für ein Ferienhaus notwendigen Anzahl 
+an Parkplätzen können Art. 21 des Baureglements der Gemeinde G. sowie 
+die Norm SN 640 281 der Vereinigung Schweizerischer Strassenfachleute 
+(VSS) „Parkieren; Angebot an Parkfeldern für Personenwagen“ vom 1. Feb-
+ruar 2006 herangezogen werden. Gemäss Art. 21 Abs. 3 des Baureglements 
+benötigen Einfamilienhäuser zwei Abstellplätze oder Garagen. Für besondere 
+Nutzungen verweist das Baureglement auf die Richtwerte der VSS-Norm 
+SN 640 281. Die VSS-Norm sieht in Ziff. 9.2 vor, dass für Spezialfälle wie Al-
+terswohnungen, Studentenwohnungen etc. von tieferen Richtwerten auszuge-
+hen ist. Wie bereits aufgezeigt wurde, ist die Nutzung eines Gebäudes als Fe-
+rienhaus weit weniger intensiv als die Nutzung zu Wohnzwecken. Ferienhäu-
+ser sind somit als Spezialfall i.S.v. Ziff. 9.2 der VSS-Norm SN 640 281 einzu-
+
+
+A. Verwaltungsentscheide 
+1535 
+ 
+4 
+stufen. Es ist daher davon auszugehen, dass für ein Ferienhaus grundsätzlich 
+nur ein Parkplatz pro Einfamilienhaus als notwendig bzw. angemessen erach-
+tet werden kann. Wie der Rekurrent richtig anmerkt, verfügen die Reihenein-
+familienhäuser auf den Parz. Nr. U-Z bereits heute über einen grunddienst-
+barkeitsvertraglich geschützten Anspruch auf einen Parkplatz auf der Parzelle 
+Nr. M. Da für die Nutzung als Ferienhaus grundsätzlich nur ein Parkplatz pro 
+Reiheneinfamilienhaus erforderlich ist, würde die Bewilligung von neuen zu-
+sätzlichen Parkplätzen, im Vergleich zu den ursprünglich bewilligten Ferien-
+häusern, eine wesentliche Verstärkung des Widerspruchs zur geltenden Zo-
+nenordnung darstellen. 
+Departement Bau und Umwelt, 19.08.2015 
+1535 
+Bauen ausserhalb der Bauzone. Erweiterung einer Mobilfunkantennenanla-
+ge. Zulässigkeit, wenn sich der Standort ausserhalb der Bauzone wesentlich 
+geeigneter als ein Standort innerhalb der Bauzone erweist. 
+Aus den Erwägungen: 
+4a) Gemäss Art. 24 RPG können Ausnahmebewilligungen für Bauten und 
+Anlagen ausserhalb der Bauzonen erteilt werden, wenn der Zweck der Bauten 
+und Anlagen einen Standort ausserhalb der Bauzonen erfordert (lit. a) und 
+keine überwiegenden Interessen entgegenstehen (lit. b). Die Standortgebun-
+denheit ist zu bejahen, wenn eine Deckungs- oder Kapazitätslücke aus funk-
+technischen Gründen mit einem oder mehreren Standorten innerhalb der Bau-
+zonen nicht in genügender Weise beseitigt werden kann bzw. es bei einem 
+Standort innerhalb der Bauzonen zu einer nicht vertretbaren Störung der in 
+anderen Funkzellen des Netzes verwendeten Frequenzen kommen würde. 
+Nicht ausreichend sind dagegen wirtschaftliche Vorteile des gewählten Stand-
+orts (z.B. geringere Landerwerbskosten; voraussichtlich geringere Anzahl von 
+Einsprachen) oder zivilrechtliche Gründe für die Standortwahl, wie z.B. die 
+Weigerung von Eigentümern, einer Mobilfunkantenne auf ihren Grundstücken 
+innerhalb der Bauzonen zuzustimmen (Urteil BGer 1C_405/2011, E. 3.1). Es 
+ist jedoch nicht erforderlich, dass überhaupt kein anderer Standort in Betracht 
+fällt. Es müssen aber besonders wichtige und objektive Gründe vorliegen, die 
+den vorgesehenen Standort gegenüber anderen Standorten innerhalb der 
+Bauzone als viel vorteilhafter erscheinen lassen. Das Bundesgericht hat diese 
+Rechtsprechung präzisiert für Mobilfunkanlagen, die auf bestehende Bauten 
+und Anlagen, wie namentlich Hochspannungs- und Antennenmasten, montiert 
+werden: Hier kann die Standortgebundenheit auch dann bejaht werden, wenn 
+diese zwar nicht aus funktechnischen Gründen unentbehrlich sind, sich aber
