@@ -1,0 +1,586 @@
+---
+decision_id: "ar_gerichte_OG_O2V-20-36"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+docket: "OG O2V-20-36"
+decided: "2021-08-05"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/download//Obergericht/2021/OG-20210512-O2V-20-36-20210908.pdf"
+pdf_url: "https://rechtsprechung.ar.ch/download//Obergericht/2021/OG-20210512-O2V-20-36-20210908.pdf"
+cites_law: ["switzerland/bund/acts/101/art-127.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-103.md", "switzerland/bund/acts/642.11/art-147.md", "switzerland/bund/acts/642.14/art-051.md"]
+---
+
+# AR Gerichte OG O2V-20-36
+
+## Regeste
+
+Obergericht Appenzell Ausserrhoden 2. Abteilung Die von der Beschwerdeführerin gegen dieses Urteil erhobene Beschwerde an das Bundesgericht hat dieses mit Entscheiddatum vom 5. August 2021 abgewiesen (2C_514/2021). Zirkular-Urteil vom 12.
+
+## Text
+
+Beschwerdeführerin 
+A. 
+ 
+vertreten durch: RA AA. 
+ 
+ 
+ 
+Vorinstanz 
+Steuerverwaltung Appenzell Ausserrhoden, 
+Gutenberg-Zentrum, 9102 Herisau 
+ 
+ 
+ 
+Gegenstand 
+Staats- und Gemeindesteuern 2016 und 2017 
+Beschwerde gegen den Revisionsentscheid der 
+kantonalen Steuerverwaltung vom 23. Juni 2020 
+ 
+Obergericht Appenzell Ausserrhoden 
+2. Abteilung 
+ 
+Die von der Beschwerdeführerin gegen dieses Urteil erhobene Beschwerde an das 
+Bundesgericht hat dieses mit Entscheiddatum vom 5. August 2021 abgewiesen 
+(2C_514/2021). 
+Zirkular-Urteil vom 12. Mai 2021 
+ 
+Mitwirkende 
+Obergerichtsvizepräsident W. Kobler 
+Oberrichterin J. Lanker 
+Oberrichter M. Winiger, M. Müller, R. Kläger 
+Obergerichtsschreiberin A. Mauerhofer 
+ 
+ 
+Verfahren Nr. 
+O2V 20 36 
+ 
+ 
+ 
+
+
+Seite 2 
+Rechtsbegehren 
+ 
+Hinweis: Die Anträge der Parteien mit Bezug auf die direkte Bundessteuer 2016 und 2017 werden 
+im Verfahren O2V 20 38 behandelt und sind im vorliegenden Verfahren, das ausschliesslich die 
+Staats- und Gemeindesteuern zum Gegenstand hat, nicht angeführt. 
+ 
+ 
+a) der Beschwerdeführerin: 
+ 
+ 
+1. 
+Der Revisionsentscheid vom 23.06.2020 sei aufzuheben, die Sache an die Vorinstanz 
+zur Neubeurteilung zurückzuweisen und die Vorinstanz anzuweisen auf das Revisions-
+gesuch einzutreten und im Sinne der Erwägungen antragsgemäss zu urteilen; 
+ 
+ 
+2. 
+Eventualiter sei der Revisionsentscheid vom 23.06.2020 der kantonalen Steuerverwal-
+tung Appenzell Ausserrhoden aufzuheben und die Ermessensveranlagung (inkl. Veran-
+lagungsverfügung und Schlussrechnung) vom 16.07.2019 betreffend Staats- und 
+Gemeindesteuern 2016 und die Ermessensveranlagung (inkl. Veranlagungsverfügung 
+und Schlussrechnung) vom 16.07.2019 betreffend Staats- und Gemeindesteuern 2017 
+in Revision zu ziehen und die Steuerfaktoren seien im Sinne der Erwägungen anzu-
+passen; 
+ 
+ 
+3. 
+Unter Kosten- und Entschädigungsfolge zu Lasten der Staatskasse. 
+ 
+ 
+ 
+b) der Vorinstanz: 
+ 
+ 
+1. 
+Die Beschwerde betreffend die Staats- und Gemeindesteuern 2016 und 2017 sei abzu-
+weisen. 
+ 
+ 
+2. 
+Unter Kostenfolge zu Lasten der Beschwerdeführerin. 
+ 
+ 
+ 
+
+
+Seite 3 
+Sachverhalt 
+ 
+A. Am 8. September 2017 schickte die kantonale Steuerverwaltung Appenzell Ausserrhoden 
+(nachfolgend: Vorinstanz) der A. mit Sitz in B. (nachfolgend: Beschwerdeführerin) eine erste 
+Mahnung zur Einreichung der Steuererklärung 2016 zu. Nachdem eine Reaktion der 
+Beschwerdeführerin ausblieb, verschickte die Vorinstanz am 26. Januar 2018 eine zweite 
+Mahnung und setzte der Beschwerdeführerin eine Frist bis zum 15. Februar 2018, um die 
+Steuererklärung 2016 samt Beilagen einzureichen. Die Beschwerdeführerin wurde zudem 
+unter Verweis auf die einschlägigen Gesetzesgrundlagen darauf aufmerksam gemacht, dass 
+bei Nichteinreichen der Steuererklärung eine Veranlagung nach Ermessen vorgenommen 
+werde, welche nur unter eingeschränkten Voraussetzungen anfechtbar sei. Nachdem die 
+Beschwerdeführerin in der Folge mehrmals um Fristerstreckung ersuchte, wurde die Frist zur 
+Einreichung der Steuererklärung 2016 zuletzt bis zum 31. August 2018 erstreckt 
+(KStV.AR.act. 3). 
+ 
+Mit Schreiben vom 27. Juli 2018 und 11. September 2018 schickte die Vorinstanz der Be-
+schwerdeführerin ausserdem Mahnungen zur Einreichung der Steuererklärung 2017 zu, 
+nachdem die Beschwerdeführerin auch für die Steuerperiode 2017 ihre Steuererklärung nicht 
+innert Frist eingereicht hatte. Die Beschwerdeführerin wurde ebenfalls explizit darauf auf-
+merksam gemacht, dass bei Nichteinreichen der Steuererklärung eine Veranlagung nach 
+Ermessen vorgenommen werde, welche nur unter eingeschränkten Voraussetzungen an-
+fechtbar sei (KStV.AR.act. 4). 
+ 
+ 
+B. In der Folge gingen bei der Vorinstanz weder die Steuererklärung 2016 noch die Steuerer-
+klärung 2017 ein. Am 16. Juli 2019 wurde die Beschwerdeführerin von der Vorinstanz 
+schliesslich für beide Steuerperioden nach Ermessen veranlagt. 
+ 
+Gemäss Veranlagungsverfügung und Schlussrechnung für die im vorliegenden Verfahren 
+betroffenen Staats- und Gemeindesteuern 2016 erhob die Vorinstanz basierend auf einem 
+in Appenzell Ausserrhoden steuerbaren Gewinn von Fr. 10‘000.-- und einem in Appenzell 
+Ausserrhoden steuerbaren Kapital von Fr. 158‘000.-- (bei einem Gesamtgewinn von 
+Fr. 75‘700.-- bzw. Gesamtkapital von Fr. 383‘000.--) Staats- und Gemeindesteuern im Betrag 
+von Fr. 1‘550.-- (KStV.AR.act. 5). 
+ 
+Gemäss Veranlagungsverfügung und Schlussrechnung für die im vorliegenden Verfahren 
+betroffenen Staats- und Gemeindesteuern 2017 erhob die Vorinstanz basierend auf einem 
+in Appenzell Ausserrhoden steuerbaren Gewinn von Fr. 10‘000.-- und einem in Appenzell 
+Ausserrhoden steuerbaren Kapital von Fr. 51‘000.-- (bei einem Gesamtgewinn von 
+
+
+Seite 4 
+Fr. 99‘000.-- bzw. Gesamtkapital von Fr. 482‘000.--) ebenfalls Staats- und Gemeindesteuern 
+im Betrag von Fr. 1‘550.-- (KStV.AR.act. 6). 
+ 
+Sowohl die Ermessensveranlagung 2016 als auch 2017 wurden unangefochten rechtskräftig. 
+ 
+ 
+C. Am 9. April 2020 reichte die Beschwerdeführerin bei der Vorinstanz ein Revisionsgesuch 
+betreffend die beiden Ermessenveranlagungen der Steuerperioden 2016 und 2017 ein 
+(KStV.AR.act. 8). Die Beschwerdeführerin begründete ihr Revisionsgesuch damit, dass ein 
+Verstoss gegen das Doppelbesteuerungsverbot vorliege. Dem Revisionsgesuch beigelegt 
+waren unter anderem ein Einspracheentscheid vom 14. Januar 2020 des kantonalen Steu-
+eramts St. Gallen sowie die bei den St. Galler Behörden eingereichten Steuererklärungen 
+2016 und 2017. 
+ 
+ 
+D. Zunächst forderte die Vorinstanz bei der Beschwerdeführerin weitere Unterlagen und Aus-
+künfte an (KStV.AR.act. 9). Nach mehreren Fristerstreckungen reichte die Beschwerdefüh-
+rerin am 11. Mai 2020 diverse Unterlagen bei der Vorinstanz ein (KStV.AR.act. 13). Mit Re-
+visionsentscheid vom 23. Juni 2020 trat die Vorinstanz auf das Revisionsbegehren bezüglich 
+Staats- und Gemeindesteuern 2016 und 2017 nicht ein (KStV.AR.act. 14). 
+ 
+Insoweit vom Revisionsbegehren der Beschwerdeführerin die direkten Bundessteuern der 
+Steuerperioden 2016 und 2017 betroffen waren, hat die Vorinstanz bis anhin noch nicht 
+darüber entschieden (siehe dazu das ebenfalls beim Obergericht pendente Verfahren 
+O2V 20 38). 
+ 
+ 
+E. Gegen den Revisionsentscheid der Vorinstanz vom 23. Juni 2020 betreffend Staats- und 
+Gemeindesteuern 2016 und 2017 richtet sich die von der Beschwerdeführerin am 24. Juli 
+2020 beim Obergericht eingereichte Beschwerde mit den eingangs erwähnten Anträgen. Mit 
+Vernehmlassung vom 26. August 2020 beantragte die Vorinstanz Abweisung der Beschwer-
+de und Kostenfolgen. Auf die Replik der Beschwerdeführerin vom 21. Oktober 2020 hin liess 
+sich die Vorinstanz nicht mehr vernehmen. 
+ 
+Aufgrund der Corona-Pandemie wurde beim Obergericht im ersten Halbjahr 2020 von Bera-
+tungen vor Ort weitgehend abgesehen. Als nach vorübergehender Wiederaufnahme des 
+ordentlichen Verhandlungs- und Sitzungsbetriebs im Spätsommer infolge der weiteren Ent-
+wicklung der Pandemie bereits ab Herbst 2020 erneut soweit möglich von Beratungen vor 
+Ort abgesehen werden musste, fällten die Richter schliesslich einstimmig das vorliegende 
+Zirkular-Urteil. 
+
+
+Seite 5 
+ 
+ 
+ 
+Erwägungen 
+ 
+1. 
+Formelles 
+ 
+1.1 Aufgrund unterschiedlicher Rechtsgrundlagen zu den kantonalen Steuern einerseits und den 
+Bundessteuern andererseits eröffnet das Obergericht praxisgemäss separate Verfahren zur 
+Behandlung von entsprechenden Beschwerdeanträgen, auch wenn diese in einer einzigen 
+Beschwerdeschrift eingereicht werden. Insoweit die Beschwerdeführerin sich in ihrer 
+Beschwerde auf die direkten Bundessteuern 2016 und 2017 bezieht, werden diese Anträge 
+im Verfahren O2V 20 38 behandelt. Das vorliegende Verfahren O2V 20 36 betrifft aus-
+schliesslich die Staats- und Gemeindesteuern. 
+ 
+ 
+1.2 Anfechtungsobjekt im vorliegenden Verfahren bildet der Revisionsentscheid vom 23. Juni 
+2020 (KStV.AR.act. 14), mit welchem die kantonale Steuerverwaltung Appenzell Ausserrho-
+den auf das Revisionsgesuch bezüglich der bereits rechtskräftig veranlagten Staats- und 
+Gemeindesteuern 2016 und 2017 nicht eingetreten ist. Gegen diesen Entscheid kann direkt 
+Beschwerde ans Obergericht erhoben werden (Art. 191 Steuergesetz [StG, bGS 621.11]). 
+ 
+ 
+1.3 Der Entscheid über Steuerstreitsachen fällt, vorbehältlich der hier nicht betroffenen Kompe-
+tenzen des Einzelrichters (siehe aber Verfahren O2V 20 38), unabhängig vom Streitwert in 
+die Zuständigkeit der Abteilungen des Obergerichts (Art. 29 Abs. 1 lit. a Justizgesetz [JG, 
+bGS 145.31] e contrario). Das Gesamtgericht hat Beschwerden in Steuerstreitsachen der 
+2. Abteilung zur Beurteilung zugewiesen (so publiziert im aktuellen Staatskalender des Kan-
+tons Appenzell Ausserrhoden [https://staatskalender.ar.ch/organizations/pdf], Ziff. 2.6.1.2), 
+weshalb diese zur Behandlung der Beschwerde zuständig ist. 
+ 
+ 
+1.4 Nachdem sämtliche formellen Voraussetzungen sowohl bezüglich der Beschwerdeführerin 
+persönlich als auch bezüglich der Beschwerdeschrift erfüllt sind und der für das vorliegende 
+Verfahren angeforderte Kostenvorschuss innert erstreckter Frist geleistet wurde, ist auf die 
+Beschwerde einzutreten. 
+ 
+ 
+
+
+Seite 6 
+1.5 Gestützt auf Art. 2 der Verordnung über COVID-19-Massnahmen: Gerichte (bGS 113.2) kann 
+das Obergericht zur Bewältigung der aktuell ausserordentlichen Lage in allen Fällen auf dem 
+Zirkularweg entscheiden, wenn das Gesetz keine Verhandlung vorschreibt. Entscheide, die 
+auf dem Zirkularweg gefällt werden, bedürfen der Einstimmigkeit (Art. 52 Abs. 2 JG). Da 
+vorliegend keine Durchführung einer Verhandlung vorgeschrieben ist und die Parteien auf 
+die Durchführung einer solchen verzichteten, hat das Obergericht den vorliegenden 
+Entscheid im Zirkularverfahren gefällt. 
+ 
+ 
+ 
+2. 
+Materielles 
+ 
+Im vorliegenden Verfahren O2V 20 36 ist zu prüfen, ob die Voraussetzungen zur Vornahme 
+einer Revision im Fall der Beschwerdeführerin bezüglich der Veranlagung der Staats- und 
+Gemeindesteuern 2016 und 2017 erfüllt sind oder ob die Vorinstanz auf das Revisionsbe-
+gehren der Beschwerdeführerin zu Recht nicht eingetreten ist. Die Vorinstanz hat einen An-
+spruch auf Revision gestützt auf Art. 189 Abs. 2 StG verneint. Gemäss ständiger Rechtspre-
+chung des Obergerichts (vgl. dazu Urteil O2V 17 10 vom 13. März 2018, welches vom Bun-
+desgericht mit Urteil 2C_566/2018 vom 29. Januar 2020 bestätigt wurde; Urteile des Ober-
+gerichts O2V 19 15 vom 18. August 2020 und O2V 19 38 vom 29. Oktober 2020) ist eine 
+Verwirkung des Revisionsanspruchs nach Art. 189 Abs. 2 StG als formelle und nicht als 
+materielle Frage zu behandeln. Daraus folgt, dass der im vorliegenden Verfahren von der 
+Beschwerdeführerin angefochtene Nichteintretensentscheid dann zu schützen wäre, wenn 
+ihr, wie dies nach Auffassung der Vorinstanz der Fall ist, eine Pflichtverletzung im Sinn von 
+Art. 189 Abs. 2 StG vorzuwerfen wäre. 
+ 
+Das Obergericht zieht hierzu folgendes in Erwägung: 
+ 
+2.1 Unter welchen Voraussetzungen auf eine rechtskräftige Steuerveranlagung betreffend 
+Staats- und Gemeindesteuern revisionsweise zurückgekommen werden kann, bestimmt sich 
+nach Art. 51 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone 
+und Gemeinden (StHG, SR 642.14) in Verbindung mit den einschlägigen Bestimmungen im 
+kantonalen Steuergesetz. 
+ 
+a. 
+Demnach kann im Kanton Appenzell Ausserrhoden ein rechtskräftiger Entscheid gestützt auf 
+Art. 189 Abs. 1 StG auf Antrag oder von Amtes wegen zugunsten der steuerpflichtigen Per-
+son revidiert werden: 
+ 
+ 
+a) wenn erhebliche Tatsachen oder entscheidende Beweismittel entdeckt werden; 
+ 
+
+
+Seite 7 
+ 
+b) wenn die erkennende Behörde erhebliche Tatsachen oder entscheidende Beweismittel, 
+die ihr bekannt waren oder bekannt sein mussten, ausser acht gelassen hat oder in anderer 
+Weise wesentliche Verfahrensgrundsätze verletzt hat; 
+ 
+ 
+c) wenn ein Verbrechen oder ein Vergehen den Entscheid beeinflusst hat; 
+ 
+ 
+d) wenn nach den auf interkantonale Doppelbesteuerungskonflikte anzuwendenden Regeln 
+die Vermeidung der Doppelbesteuerung gemäss erkennender Behörde durch den Kanton 
+Appenzell Ausserrhoden zu erfolgen hat; 
+ 
+ 
+e) wenn die Besteuerung einen Staatsvertrag verletzt; 
+ 
+ 
+f) wenn die Voraussetzungen für einen Aufschub der Grundstückgewinnsteuer erst nach 
+rechtskräftiger Veranlagung erfüllt werden. 
+ 
+b. 
+Das Revisionsbegehren muss innert 90 Tagen nach Entdeckung des Revisionsgrundes, spä-
+testens aber innert zehn Jahren nach Eröffnung der Verfügung oder des Entscheids ein-
+gereicht werden (Art. 190 StG). 
+ 
+c. 
+Die Revision ist ausgeschlossen, wenn als Revisionsgrund vorgebracht wird, was bei Beach-
+tung der zumutbaren Sorgfalt schon im ordentlichen Verfahren hätte geltend gemacht wer-
+den können (Art. 189 Abs. 2 StG in der im Zeitpunkt der hier in Frage stehenden Steuer-
+perioden gültigen Version; per 1. Januar 2019 wurde diese Bestimmung vom kantonalen 
+Gesetzgeber dahingehend ergänzt, dass auf ein Revisionsgesuch gemäss Art. 189 Abs. 1 
+lit. d und e StG ausserdem nicht eingetreten wird, wenn die Doppelbesteuerung Folge einer 
+Gewinn- oder Einkommensverschiebung ist, welche die antragsstellende Person absichtlich 
+oder fahrlässig selbst veranlasst hat). 
+ 
+ 
+2.2 Die Beschwerdeführerin begründete ihre Beschwerde damit, dass die am Nebensteuerdomi-
+zil im Kanton St. Gallen festgesetzten Steuerfaktoren der Steuerperioden 2016 und 2017 
+wesentlich von den am Hauptsteuerdomizil in Appenzell Ausserrhoden veranlagten Faktoren 
+abweichen würden. In der Steuerausscheidung des Kantons Appenzell Ausserrhoden sei ein 
+viel höherer Betrag an den Kanton St. Gallen zugewiesen worden, als dieser tatsächlich in 
+seiner Veranlagung für sich beanspruche: Anstelle des in Appenzell Ausserrhoden an St. 
+Gallen ausgeschiedenen Reingewinns 2016 von Fr. 65‘700.-- habe St. Gallen einen 
+Reingewinn 2016 von Fr. 20‘706.-- veranlagt und anstelle des in Appenzell Ausserrhoden an 
+St. Gallen ausgeschiedenen Reingewinns 2017 von Fr. 89‘000.-- habe St. Gallen einen 
+Reingewinn 2017 von Fr. 14‘820.-- veranlagt. Die von der Vorinstanz bei der Veranlagung 
+angenommenen Zahlen seien nicht nachvollziehbar. Erst mit Kenntnisnahme des vom 
+
+
+Seite 8 
+Kanton St. Gallen ausgefällten Einspracheentscheids vom 14. Januar 2020 habe die Be-
+schwerdeführerin festgestellt, dass ein Verstoss gegen das Doppelbesteuerungsverbot vor-
+liege. Die Beschwerdeführerin werde durch die von den St. Galler Behörden abweichenden 
+Veranlagungsverfügungen der Vorinstanz stärker belastet und schlechter gestellt, was unzu-
+lässig sei. 
+ 
+ 
+2.3 Die Beschwerdeführerin rügt explizit eine Verletzung des Verbots der interkantonalen Dop-
+pelbesteuerung und bezieht sich dabei auf Art. 127 Abs. 3 der Schweizerischen Bundesver-
+fassung (BV, SR 101). Art. 127 Abs. 3 BV sieht vor: „Die interkantonale Doppelbesteuerung 
+ist untersagt. Der Bund trifft die erforderlichen Massnahmen.“ Eine Verletzung dieses Dop-
+pelbesteuerungsverbots liegt vor, wenn eine steuerpflichtige Person von zwei oder mehreren 
+Kantonen für das gleiche Steuerobjekt und für die gleiche Zeit zu Steuern herangezogen wird 
+(sog. aktuelle Doppelbesteuerung) oder wenn ein Kanton in Verletzung der geltenden 
+Kollisionsnormen seine Steuerhoheit überschreitet und eine Steuer erhebt, die einem 
+anderen Kanton zusteht (sog. virtuelle Doppelbesteuerung). Dass ein solcher Sachverhalt im 
+konkreten Fall gegeben sein könnte, ist nicht ersichtlich: 
+ 
+a. 
+Die Beschwerdeführerin hatte ihr Hauptsteuerdomizil in den hier interessierenden Steuerpe-
+rioden 2016 und 2017 am Sitz in B. und war somit in Appenzell Ausserrhoden steuerpflichtig. 
+Gleichzeitig wurde die Beschwerdeführerin ausserdem auch im Kanton St. Gallen besteuert, 
+weil sie dort (in C., D. und E.) verschiedene Liegenschaften besass. Die Beschwerdeführerin 
+macht - zu Recht - nicht geltend, sie sei in den Steuerperioden 2016 und 2017 nur von einem 
+der beiden Kantone zu besteuern. Somit ist zum Vornherein fraglich, inwiefern sie ihren 
+geltend gemachten Revisionsanspruch auf das Doppelbesteuerungsverbot in Art. 127 Abs. 
+3 BV abstützen will. Dass das Hauptsteuerdomizil 2016 und 2017 in Appenzell Ausserrhoden 
+lag und aufgrund wirtschaftlicher Zugehörigkeit gleichzeitig ein Nebensteuerdomizil in 
+St. Gallen vorhanden war, wird von ihr, soweit ersichtlich, grundsätzlich gar nicht bestritten. 
+ 
+b. 
+Die Beschwerdeführerin ist allerdings der Ansicht, der Kanton Appenzell Ausserrhoden habe 
+die im Kanton St. Gallen für die Steuerveranlagung angenommenen Werte (namentlich das 
+dort für die Veranlagung berücksichtigte steuerbare Einkommen) zu übernehmen, weil die 
+vom Kanton St. Gallen angenommenen Werte deutlich tiefer liegen als jene Werte, die den 
+rechtskräftigen Steuerveranlagungen 2016 und 2017 in Appenzell Ausserrhoden zugrunde 
+liegen. Dem ist allerdings entgegenzuhalten, dass in jedem Kanton, in welchem eine be-
+schränkte oder unbeschränkte Steuerpflicht besteht, von der jeweiligen Steuerbehörde ein 
+eigenes Veranlagungsverfahren durchzuführen und eine eigene Steuerausscheidung vorzu-
+nehmen ist (vgl. dazu auch Art. 2 Abs. 1 der Verordnung über die Anwendung des 
+
+
+Seite 9 
+Steuerharmonisierungsgesetzes im interkantonalen Verhältnis [SR 642.141]). Das Verbot 
+der interkantonalen Doppelbesteuerung bedeutet nicht, dass die Veranlagungen am Haupt- 
+und Nebensteuerdomizil zwingend übereinstimmen müssen. Ist die Beschwerdeführerin mit 
+einer Veranlagung eines Kantons nicht einverstanden, steht es ihr aber selbstverständlich 
+frei, diese mit den im betroffenen Kanton vorgesehenen Rechtsmittelmöglichkeiten anzufech-
+ten (vgl. Art. 2 Abs. 4 der Verordnung über die Anwendung des Steuerharmonisierungs-
+gesetzes im interkantonalen Verhältnis). 
+ 
+ 
+2.4 
+a. 
+Betrachtet man die Veranlagungen der Beschwerdeführerin für die Steuerperioden 2016 und 
+2017 im Kanton Appenzell Ausserrhoden einerseits und im Kanton St. Gallen andererseits, 
+so fällt auf, dass diese jeweils gestützt auf eine unterschiedliche Ausgangslage erfolgten: 
+ 
+ 
+Veranlagungsverfahren Kanton Appenzell Ausserrhoden 
+Aus den vorinstanzlichen Akten ergibt sich, dass die Beschwerdeführerin trotz mehrfacher 
+Mahnung ihre Steuererklärungen 2016 und 2017 nicht bei der Vorinstanz eingereicht 
+hatte, so dass diese schliesslich für beide Steuerperioden eine Veranlagung nach Er-
+messen vornahm. Die beiden Ermessenveranlagungen vom 16. Juli 2019 erwuchsen un-
+angefochten in Rechtskraft. 
+ 
+ 
+Veranlagungsverfahren Kanton St. Gallen 
+Im Kanton St. Gallen wurde die Beschwerdeführerin für die Steuerperioden 2016 und 
+2017 zunächst am 24. Oktober 2019 ebenfalls nach Ermessen veranlagt, weil sie auch 
+dort trotz diverser Mahnungen und Bussen keine Steuererklärungen eingereicht hatte. 
+Gegen diese Ermessensveranlagungen erhob die Beschwerdeführerin allerdings fristge-
+mäss Einsprache und reichte die Steuererklärungen inklusive Jahresabschlüsse 2016 und 
+2017 bei den St. Galler Behörden nachträglich noch ein. Im Einspracheentscheid vom 14. 
+Januar 2020 gelangten die zuständigen St. Galler Behörden zum Schluss, die Be-
+schwerdeführerin sei mit der Einreichung dieser Unterlagen im Rahmen des Einsprache-
+verfahrens den versäumten Verfahrenspflichten nun nachgekommen und setzte die Steu-
+erfaktoren unter Berücksichtigung der bei ihr nachgereichten Deklaration in einer 
+ordentlichen Veranlagung neu fest (vgl. dazu den Einspracheentscheid Kantonssteuern 
+SG vom 14. Januar 2020, bei den Unterlagen in KStV.AR.act. 8). 
+ 
+ 
+Während also im Kanton Appenzell Ausserrhoden für die Steuerperioden 2016 und 2017 
+wegen einer vollständigen Verweigerung der Mitwirkungspflichten der Beschwerdeführerin 
+eine Ermessensveranlagung vorgenommen werden musste, konnte im Kanton St. Gallen, 
+
+
+Seite 10 
+nachdem die Beschwerdeführerin dort im Rahmen des ordentlichen Rechtsmittelverfahrens 
+ihren Verfahrenspflichten schliesslich doch noch nachgekommen war, eine ordentliche Ver-
+anlagung für die Steuerperioden 2016 und 2017 durchgeführt werden. 
+ 
+b. 
+Wenn die Beschwerdeführerin nun verlangt, dass infolge dieser im Kanton St. Gallen erlas-
+senen ordentlichen Veranlagungen 2016 und 2017 nachträglich auch in Appenzell Ausser-
+rhoden namentlich der steuerbare Gewinn für die Steuerperioden 2016 und 2017 revisions-
+weise neu zu beurteilen und auf die deutlich tieferen Werte festzusetzen sei, die im Kanton 
+St. Gallen akzeptiert worden seien, lässt sie dabei ausser Acht, dass eine Revision der 
+bereits rechtskräftigen Steuerveranlagungen in Appenzell Ausserrhoden nur noch unter ein-
+geschränkten Voraussetzungen möglich ist. 
+ 
+ 
+Im konkreten Fall ist namentlich zu berücksichtigen, dass eine Revision ausdrücklich ausge-
+schlossen ist, wenn als Revisionsgrund vorgebracht wird, was bei Beachtung der zumutba-
+ren Sorgfalt schon im ordentlichen Verfahren hätte geltend gemacht werden können (Art. 189 
+Abs. 2 Satz 1 StG): Die Revision bezweckt zwar letztlich nichts anderes als die Durchsetzung 
+des materiellen Rechts. Dieser Aufgabe steht allerdings gleichzeitig die Rechtskraft einer 
+Veranlagung gegenüber, welche Unabänderlichkeit des von der Steuerbehörde getroffenen 
+Entscheids bedeutet und damit die Rechtssicherheit gewährleisten soll (vgl. dazu 
+RICHNER/FREI/KAUFMANN/MEUTER, Handkommentar zum DBG, 3. Aufl. 2016, N 3 zu Art. 147 
+DBG; MARTIN LOOSER, in: Zweifel/Beusch, Bundesgesetz über die Harmonisierung der direk-
+ten Steuern der Kantone und Gemeinden, 3. Aufl. 2017, N 3b zu Art. 51 StHG). Wägt man 
+diese beiden Ziele gegeneinander ab, führt dies gemäss einhelliger Lehre und Praxis zum 
+Schluss, dass das Revisionsverfahren nicht dazu dienen kann, von der steuerpflichtigen Per-
+son zu verantwortende Nachlässigkeiten nachträglich zu bereinigen - so namentlich die un-
+vollständige Sachdarstellung oder Nichtbeschaffung bzw. Nichtbezeichnung von Beweismit-
+teln im vorangegangenen ordentlichen Verfahren. In solchen Fällen hat eine steuerpflichtige 
+Person auch die sich zu ihren Lasten auswirkende Fehlerhaftigkeit eines Entscheids hin-
+zunehmen, weil die Rechtssicherheit hier mehr zu gewichten ist als die Durchsetzung des 
+materiellen Rechts (RICHNER/FREI/KAUFMANN/MEUTER, a.a.O., N 23 zu Art. 147 DBG; MARTIN 
+LOOSER, a.a.O., N 16 zu Art. 51 StHG). Eine Revision ist gemäss ständiger Rechtsprechung 
+des Bundesgerichts klar ausgeschlossen, wenn die steuerpflichtige Person im Veran-
+lagungsverfahren ihren Mitwirkungspflichten nicht nachgekommen ist, so dass zu einer Er-
+messensveranlagung geschritten werden musste: Wer nach Ermessen veranlagt wird, weil 
+er seine Steuererklärung und / oder andere Unterlagen nicht rechtzeitig bei der Veran-
+lagungsbehörde eingereicht hat, handelt nicht mit der nötigen Sorgfalt im Sinn der Be-
+stimmung von Art. 51 Abs. 2 StHG, welche in Appenzell Ausserrhoden in Art. 189 Abs. 2 
+
+
+Seite 11 
+Satz 1 StG umgesetzt worden ist (vgl. dazu nebst den von der Vorinstanz in der Vernehm-
+lassung angeführten und entgegen der Ansicht der Beschwerdeführerin durchaus einschlä-
+gigen Bundesgerichtsentscheiden ergänzend auch die Urteile des Bundesgerichts 
+2C_495/2018 vom 7. Mai 2019 E. 4.4; 2C_352/2018 vom 1. Mai 2020 E. 3.3; 2C_566/2018 
+vom 29. Januar 2020 E. 3.5.3; 2C_164/2020 vom 6. Oktober 2020 E. 2.3.4; je m.w.H.; ferner 
+auch MARTIN LOOSER, a.a.O., N 26a zu Art. 51 StHG, ebenfalls m.w.H.). 
+ 
+c. 
+Die Beschwerdeführerin verlangt von der Vorinstanz, dass sie die bereits rechtskräftigen Er-
+messensveranlagungen 2016 und 2017 nachträglich revisionsweise so zu korrigieren habe, 
+dass die den Veranlagungen zugrunde liegenden Steuerwerte ihrer Steuerdeklaration 
+entsprechen (wie dies im Kanton St. Gallen, wo allerdings nachträglich im ordentlichen 
+Rechtsmittelverfahren noch eine Steuererklärung eingereicht wurde, der Fall ist). Bei diesem 
+Antrag handelt es sich allerdings um etwas, das bei Beachtung der zumutbaren Sorgfalt auch 
+schon im ordentlichen Verfahren hätte geltend gemacht werden können: 
+ 
+ 
+Es wäre der Beschwerdeführerin zum einen frei gestanden, bereits im Veranlagungsver-
+fahren ihre Mitwirkungspflichten zu erfüllen und eine Steuererklärung und die nötigen Be-
+lege rechtzeitig bei der Vorinstanz einzureichen. Diesfalls hätte gar keine Ermessensver-
+anlagung vorgenommen werden müssen. 
+ 
+ 
+Zum anderen hätte die Beschwerdeführerin die von der Vorinstanz erlassenen Ermes-
+sensveranlagungen mit ordentlichen Rechtsmitteln anfechten und auch in Appenzell Aus-
+serrhoden ihre Steuererklärung und die nötigen Unterlagen immerhin noch im Rahmen 
+des Einspracheverfahrens bei der Veranlagungsbehörde einreichen können (wie sie dies 
+schliesslich im Kanton St. Gallen tat). 
+ 
+ 
+Da die Beschwerdeführerin ihren Mitwirkungspflichten in Appenzell Ausserrhoden jedoch 
+(anders als im Kanton St. Gallen) zu keinem Zeitpunkt nachkam, weder die Steuererklärung-
+en noch weitere nötige Unterlagen bei der Vorinstanz rechtzeitig einreichte und die Ermes-
+sensveranlagungen auch nicht mit ordentlichen Rechtsmitteln anfocht, hat sie aufgrund des 
+gesetzlichen Ausschlusstatbestands von Art. 189 Abs. 2 Satz 1 StG den Anspruch auf eine 
+nachträgliche Revision der bereits in Rechtskraft erwachsenen Steuerveranlagungen 2016 
+und 2017 verwirkt. Die Vorinstanz ist zu Recht nicht auf das Revisionsgesuch der Be-
+schwerdeführerin eingetreten. Die Beschwerde ist dementsprechend abzuweisen. 
+
+
+Seite 12 
+3. 
+Kosten und Entschädigung 
+ 
+3.1 Die 2. Abteilung des Obergerichts hat in der vorliegenden Sache als Verwaltungsgericht ent-
+schieden. Vor Verwaltungsgericht betragen die Verfahrenskosten gemäss Art. 4a des Ge-
+setzes über die Gebühren in Verwaltungssachen (bGS 233.2) grundsätzlich bis zu Fr. 5‘000.-
+-. Innerhalb dieses Gebührenrahmens sind die Gebühren nach dem Zeit- und Arbeits-
+aufwand, der Bedeutung des Geschäfts sowie nach dem Interesse und der wirtschaftlichen 
+Leistungsfähigkeit der Gebührenpflichtigen zu bemessen (Art. 20 des Gesetzes über die 
+Verwaltungsrechtspflege [VRPG, bGS 143.1]). 
+ 
+ 
+Gemäss Praxis der 2. Abteilung des Obergerichts wird in vergleichbaren Fällen üblicherweise 
+eine Gebühr zwischen Fr. 1‘500.-- bis Fr. 3‘000.-- festgelegt. Namentlich unter Berücksich-
+tigung des geringen Streitwerts erscheint im vorliegenden Verfahren eine Gebühr von Fr. 
+1‘500.-- als angemessen. 
+ 
+ 
+Im Rechtsmittelverfahren ist gebühren- und kostenpflichtig, wer ganz oder teilweise unterliegt 
+oder auf dessen Rechtsmittel nicht eingetreten wird (Art. 53 Abs. 1 i.V.m. Art. 19 Abs. 3 
+VRPG). Die Gerichtskosten sind folglich von der Beschwerdeführerin zu tragen. Es kann eine 
+Verrechnung mit dem von ihr geleisteten Kostenvorschuss erfolgen. 
+ 
+ 
+3.2 Eine Entschädigung ist der Beschwerdeführerin beim vorliegenden Verfahrensausgang nicht 
+zuzusprechen (Art. 53 Abs. 3 VRPG e contrario), während die Vorinstanz als staatliche 
+Behörde unabhängig vom Verfahrensausgang keinen Entschädigungsanspruch hat (Art. 59 
+i.V.m. Art. 24 Abs. 3 lit. a VRPG). Somit sind keine Entschädigungen auszurichten. 
+ 
+ 
+
+
+Seite 13 
+Demgemäss erkennt das Obergericht: 
+ 
+ 
+1. 
+Die Beschwerde der A. wird abgewiesen. 
+ 
+ 
+2. 
+Die Gerichtskosten von Fr. 1‘500.-- werden der Beschwerdeführerin auferlegt, unter Verrech-
+nung mit dem von ihr geleisteten Kostenvorschuss. 
+ 
+ 
+3. 
+Es werden keine Parteientschädigungen zugesprochen. 
+ 
+ 
+4. 
+Rechtsmittel: 
+ 
+Gegen dieses Urteil kann innert 30 Tagen seit der Zustellung Beschwerde in öffentlich-
+rechtlichen Angelegenheiten erhoben werden. Die Zulässigkeit einer solchen Beschwerde 
+richtet sich nach Art. 82 ff. Bundesgerichtsgesetz (BGG, SR 173.110). Die Beschwerde ist 
+beim Schweizerischen Bundesgericht, Avenue du Tribunal fédéral 29, 1000 Lausanne 14, 
+schriftlich einzureichen. Die Beschwerdeschrift hat die Begehren, deren Begründung mit 
+Angabe der Beweismittel und die Unterschrift zu enthalten; der angefochtene Entscheid 
+sowie die als Beweismittel angerufenen Urkunden sind - soweit vorhanden - beizulegen (Art. 
+42 BGG). Die Beschwerde hat in der Regel keine aufschiebende Wirkung (Art. 103 BGG). 
+ 
+ 
+5. 
+Zustellung an die Beschwerdeführerin über deren Anwalt und die Vorinstanz. 
+ 
+ 
+ 
+Im Namen der 2. Abteilung des Obergerichts 
+ 
+ 
+Der Obergerichtsvizepräsident: 
+ 
+ 
+lic. iur. Walter Kobler 
+Die Gerichtsschreiberin: 
+ 
+ 
+lic. iur. Annika Mauerhofer 
+ 
+ 
+ 
+ 
+ 
+versandt am: 19. Mai 2021
