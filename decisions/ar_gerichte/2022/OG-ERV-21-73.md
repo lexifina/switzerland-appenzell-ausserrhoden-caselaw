@@ -1,0 +1,270 @@
+---
+decision_id: "ar_gerichte_OG ERV-21-73"
+court: "AR Gerichte"
+court_id: "ar_gerichte"
+chamber: "Obergericht"
+docket: "OG ERV-21-73"
+decided: "2022-04-28"
+published: "2023-10-06"
+language: "de"
+source_url: "https://rechtsprechung.ar.ch/cache?id=d6e7aa1d-fc32-330d-997c-f0aefc970453&guiLanguage=de"
+pdf_url: "https://rechtsprechung.ar.ch/download/Obergericht/2022/OG-20220428-ERV-21-73-20231006.pdf"
+cites_decisions: ["2C_372/2022", "BGE 122 I 153", "BGE 129 I 249", "BGE 134 I 286"]
+cites_law: ["switzerland/bund/acts/101/art-004.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-080.md", "switzerland/bund/acts/173.110/art-042.md", "switzerland/bund/acts/173.110/art-103.md", "switzerland/bund/acts/235.1/art-009.md", "switzerland/bund/acts/235.1/art-021.md", "switzerland/bund/acts/235.1/art-022.md"]
+---
+
+# Übrige Entscheide
+
+## Text
+
+Obergericht Appenzell Ausserrhoden 4. Abteilung
+Auf die vom Beschwerdeführer gegen dieses Urteil erhobene Beschwerde an das
+Bundesgericht wird mit Entscheiddatum vom 30. August 2023 nicht eingetreten
+(2C_372/2022).
+Urteil vom 28. April 2022
+Mitwirkende Obergerichtsvizepräsident M. Hüsser
+Oberrichterinnen D. Cadosch Autolitano, M. Gasser Aebischer
+Oberrichter E. Graf, P. Louis
+Obergerichtsschreiber D. Hofmann
+Verfahren Nr. O4V 21 35 und ERV 21 73
+Sitzungsort Trogen
+Beschwerdeführer A.
+Vorinstanz Departement Gesundheit und Soziales, Kasernenstrasse 17,
+9102 Herisau
+Gegenstand Akteneinsicht
+Beschwerde gegen den Rekursentscheid des Departements
+Gesundheit und Soziales vom 14. September 2021
+Rechtsbegehren
+a) des Beschwerdeführers:
+1. Der Entscheid der Vorinstanz sei aufzuheben.
+2. Die Beschwerdegegnerin sei anzuweisen, unverzüglich die mit Schwärzungen verse-
+henen Aktenkopien erneut zuzustellen, dabei jedoch auf das Unkenntlichmachen zu
+verzichten.
+3. Es sei die Verletzung von Art. 8 und 13 EMRK festzustellen.
+4. Es sei mir eine Genugtuung nach Gerichtsermessen zuzusprechen.
+5. Unter Kostenfolge der Beschwerdegegnerin.
+b) der Vorinstanz:
+Die Beschwerde sei abzuweisen.
+Sachverhalt
+A. Aufgrund von Meldungen von Anwohnern führte das Veterinäramt bei A. am 11. August 2020
+eine unangekündigte Kontrolle seiner [...] durch. Dabei stellte das Veterinäramt keine Mängel
+bei der Tierhaltung fest, weshalb es keine Massnahmen einleitete und den Fall als
+abgeschlossen betrachtete (Kontrollbericht Veterinäramt vom 11. August 2020, act. 5.1.3;
+Aktennotiz Veterinäramt, act. 5.1.4). Mit Schreiben vom 11. August 2020 (act. 5.1.5) und
+19. August 2020 (act. 5.1.9) ersuchte A. das Veterinäramt in diesem Zusammenhang um
+Akteneinsicht in alles, was das Veterinäramt zum Handeln veranlasst habe, insbesondere
+die eingegangenen Meldungen. Mit Schreiben vom 19. August 2020 (act. 5.6.1) übermittelte
+das Veterinäramt A. sämtliche Akten zur Kontrolle der [...] vom 11. August 2020. Gleichzeitig
+teilte es mit, dass einige Akten aus Gründen des Daten- und Persönlichkeitsschutzes der
+meldenden Personen anonymisiert seien. Mit Schreiben vom 20. August 2020 (act. 5.6.3)
+verlangte A. volle Akteneinsicht ohne Anonymisierung (Schwärzung).
+B. Mit Verfügung vom 31. August 2020 (act. 5.6.4) lehnte das Veterinäramt das Gesuch von A.
+zur vollständigen Akteneinsicht (Offenlegung von persönlichen Daten der meldenden
+Personen) ab.
+C. Gegen diese Verfügung erhob A. mit Eingabe vom 16. September 2020 (act. 5.1) beim
+Departement Gesundheit und Soziales Rekurs u.a. mit dem Antrag ihm uneingeschränkte
+Akteneinsicht zu gewähren.
+Seite 2
+D. Mit Entscheid vom 14. September 2021 (act. 2.1) wies das Departement Gesundheit und
+Soziales den Rekurs ab.
+E. Dagegen erhob A. (im Folgenden: Beschwerdeführer) mit Eingabe vom 15. Oktober 2021
+(act. 2.1) beim Obergericht Beschwerde, wobei er eingangs erwähnte Rechtsbegehren
+stellte.
+F. Mit Schreiben vom 15. November 2021 (act. 4) beantragte das Departement Gesundheit und
+Soziales (im Folgenden: Vorinstanz) die Beschwerde abzuweisen.
+G. Mit Eingabe vom 29. November 2021 (act. 7) liess sich der Beschwerdeführer nochmals
+vernehmen.
+H. Auf die Begründung der gestellten Anträge wird - soweit erforderlich - in den Erwägungen
+näher eingegangen.
+Erwägungen
+1. Die von Amtes wegen vorzunehmende Prüfung der Prozessvoraussetzungen ergibt, dass
+diese sowohl hinsichtlich der Beschwerdeberechtigung als auch hinsichtlich der Form- und
+Fristerfordernisse erfüllt sind. Die sachliche bzw. funktionale Zuständigkeit des Obergerichts
+ergibt sich aus Art. 54 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege (VRPG, bGS
+143.1), wonach das Obergericht zur Behandlung von Beschwerden gegen letztinstanzliche
+Verfügungen der Verwaltungsbehörden zuständig ist. Der Beschwerdeführer ist als Adressat
+des angefochtenen Rekursentscheids formell beschwert. Auf die Beschwerde ist unter
+folgendem Vorbehalt einzutreten: Gegenstand dieses Beschwerdeverfahrens kann nur sein,
+was Gegenstand des erstinstanzlichen Verfahrens war oder nach richtiger Gesetzesaus-
+legung hätte sein sollen (WIEDERKEHR/PLÜSS, Praxis des öffentlichen Verfahrensrechts,
+2020, Rz. 3036). Das erstinstanzliche Verfahren wurde mit dem Gesuch des Beschwerde-
+führers vom 20. August 2020 um unbeschränkte Akteneinsicht eingeleitet. Mit Verfügung
+vom 31. August 2020 hat das Veterinäramt das Gesuch abgelehnt. Strittig ist daher einzig
+die Frage, ob der Beschwerdeführer Anspruch auf uneingeschränkte Akteneinsicht hat oder
+ob das Veterinäramt zu Recht die Personalien der meldenden Personen schwärzte. Nicht
+eingetreten werden kann auf die Beschwerde, soweit darin die Rechtmässigkeit der Kontrolle
+vom 11. August 2020 gerügt und diesbezüglich die Feststellung der Verletzung von Art. 8
+und 13 EMRK beantragt wird. Dies gilt ebenso für die beantragte Zusprechung einer
+Seite 3
+Genugtuung, zumal dieses Rechtsbegehren nicht begründet wird und nach Art. 57 VRPG im
+Klageverfahren geltend zu machen wäre.
+2. Beim Obergericht können mit Beschwerde in Verwaltungssachen grundsätzlich nur Rechts-
+verletzungen (inbegriffen Ermessensmissbrauch, Ermessensüberschreitung und -unter-
+schreitung) sowie die unrichtige oder unvollständige Feststellung des Sachverhalts gerügt
+werden (Art. 56 VRPG). Das Obergericht hat darüber hinaus volle Überprüfungsbefugnis,
+soweit dies im Gesetz vorgesehen ist oder wenn sein Entscheid an eine Bundesinstanz mit
+unbeschränkter Überprüfungsbefugnis weitergezogen werden kann. Ein Weiterzug an eine
+Bundesinstanz mit voller Kognition, welche auch die Ermessenskontrolle umfasst, ist vorlie-
+gend nicht gegeben. Da eine volle Überprüfung auch nicht anderweitig gesetzlich vorge-
+sehen ist, bleibt die Kognition des Obergerichts vorliegend auf die Rechts- und Sachverhalts-
+kontrolle beschränkt.
+3. Art. 12 Abs. 2 VRPG räumt den Parteien und Betroffenen als allgemeine Verfahrensgarantie
+und Teil des Anspruchs auf rechtliches Gehör einen Anspruch auf Akteneinsicht ein. Im
+Hinblick auf den Erlass einer Verfügung sollen die Verfahrensbeteiligten von den Entschei-
+dungsgrundlagen vorbehaltlos und ohne Geltendmachung eines besonderen Interesses
+Kenntnis nehmen können (BGE 129 I 249 E. 3; BGE 122 I 153 E. 6a). Dieser Aspekt des
+Anspruchs auf Akteneinsicht kommt indessen im vorliegenden Verfahren nicht zum Tragen,
+da das Veterinäramt nach der Kontrolle vom 11. August 2020 gegen den Beschwerdeführer
+kein Verwaltungsverfahren eingeleitet und keine konkreten Tierschutzmassnahmen in Form
+einer Verfügung angeordnet hat. Nach der bundesgerichtlichen Rechtsprechung steht
+Betroffenen und Dritten jedoch gestützt auf Art. 29 Abs. 2 BV bzw. Art. 4 aBV ein
+verfassungsrechtlicher Anspruch auf Einsichtnahme ausserhalb eines hängigen Verfahrens
+zu, wenn sie ein schutzwürdiges Interesse glaubhaft machen können, das allfällige entge-
+genstehende staatliche oder private Interessen überwiegt (BGE 134 I 286 E. 6.3, 129 I 249
+E. 3. 127 I 145 E. 4a). Im kantonalen Recht ergibt sich ein Anspruch auf Einsicht in amtliche
+Akten ausserhalb eines Verfahrens aus dem Informationsgesetz (InfG, bGS 133.1) und dem
+Datenschutzgesetz (DSG, bGS 146.1). Gemäss Art. 9 InfG hat jede Person, die ein
+berechtigtes Interesse nachweisen kann, im Rahmen des Gesetzes das Recht auf Einsicht
+in amtliche Akten, soweit keine überwiegenden öffentlichen oder privaten Interessen entge-
+genstehen. Nach Art. 21 Abs. 1 DSG erteilt das verantwortliche Organ jeder Person Auskunft
+darüber, welche Daten über sie in einer bestimmten Datensammlung bearbeitet werden und
+gewährt ihr Einsicht in diese Daten. Auskunft und Einsicht können eingeschränkt oder
+verweigert werden, wenn überwiegende öffentliche Interessen oder schutzwürdige In-
+teressen einer Drittperson dies erfordern (Art. 22 Abs. 1 DSG).
+Seite 4
+https://www.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?lang=de&type=show_document&page=1&from_date=&to_date=&from_year=1954&to_year=2022&sort=relevance&insertion_date=&from_date_push=&top_subcollection_clir=bge&query_words=&part=all&de_fr=&de_it=&fr_de=&fr_it=&it_de=&it_fr=&orig=&translation=&rank=0&highlight_docid=atf%3A%2F%2F122-I-153%3Ade&number_of_ranks=0&azaclir=clir#page153
+3.1 Die Vorinstanz kommt im angefochtenen Entscheid zum Schluss, dass der Beschwerdefüh-
+rer aufgrund eines aufsichtsrechtlichen Hinweises ein besonderes Rechtsschutzinteresse an
+der unbeschränkten Akteneinsicht habe. Das Veterinäramt habe die Verweigerung der
+Akteneinsicht mit dem Persönlichkeitsschutz der meldenden Personen sowie dem öffentli-
+chen Interesse, welches darin bestehe, dass es Meldungen von Dritten zu allgemeinen
+Missständen in Bezug auf die Tierhaltung erhalte, begründet. Damit das Veterinäramt seinem
+gesetzlichen Auftrag nachkommen könne, sei es auf Hinweise aus der Bevölkerung
+angewiesen. Diese vorgebrachten Interessen stellten berechtigte Gründe für eine
+Akteneinsichtsverweigerung dar. Das Interesse des Beschwerdeführers an der Ergreifung
+rechtlicher Schritte gegen die meldenden Personen sei zu berücksichtigen, allenfalls
+überwiege es nicht in jedem Fall – insbesondere dann nicht, wenn die meldenden Personen
+ohne unlautere Absichten gehandelt hätten und rechtliche Schritte somit aussichtslos seien.
+Es seien keine Hinweise ersichtlich, dass die meldenden Personen in Schädigungsabsicht
+gehandelt hätten. Insgesamt überwögen die vom Veterinäramt geltend gemachten
+Interessen an der Einschränkung des Akteneinsichtsrechts. Indem die Vorinstanz lediglich
+die Personalien der meldenden Personen geschwärzt habe, habe sie den Grundsatz der
+Verhältnismässigkeit gewahrt.
+3.2 Der Beschwerdeführer wendet dagegen ein, dass sich den Akten nichts entnehmen lasse,
+wonach Drittpersonen schutzwürdige Interessen geltend gemacht hätten. Wer einer Behörde
+Auskunft über andere Personen gebe, habe grundsätzlich keinen Anspruch darauf, dass
+diese Informationen den Betroffenen nicht mitgeteilt würden. Die Meldung vom 12. Juli 2020
+beruhe, soweit er es aufgrund der Anonymisierung beurteilen könne, zu einem Drittel auf
+Wahrheit, einem weiteren Drittel auf Übertreibungen und zu einem letzten Drittel auf Lügen.
+In diesem Verfahren gehe es nicht darum, die einzelnen Differenzierungen vorzunehmen,
+dies solle Teil des zu prüfenden Strafverfahrens sein. Enthalte der Inhalt Hinweise, die
+hochgradig auf Denunziantentum schliessen liessen, sollte dies mehr als genügen. In den
+Akten lasse sich nichts entnehmen, wonach das Veterinäramt bereits vor dem 12. Juli 2020
+Aussagen zum Zaun gemacht habe. Diesbezüglich habe die Vorinstanz den Sachverhalt
+unzureichend abgeklärt, indem sie den Verfahrensantrag unbearbeitet gelassen habe und
+das bereits vorhandene Indiz auf Denunziantentum nicht näher untersucht habe. Er denke
+auch an das Ergreifen von Massnahmen des Persönlichkeitsschutzes, um die enthaltenden
+Unwahrheiten zu entkräften und damit dem Vermieter die Infamität der Schriften zu belegen.
+Es stelle auch ein Recht dar, falsch geführte Akten berichtigen zu lassen. Würde der
+Argumentation des Veterinäramts gefolgt werden, wonach die Anonymisierung der
+Informanten per se gestützt werden müsse, damit den Vollzugsaufgaben nachgekommen
+werden müsse, dann müsste das Gleiche auch für andere Behörden gelten. Für einen
+grundsätzlichen Schutz finde sich in der Rechtsprechung keine Stütze. Er rüge die
+Seite 5
+Anwendung unzutreffenden Rechts, die falsche Rechtsanwendung, möglicherweise die
+Unangemessenheit des Entscheids.
+3.3 Beim Tierschutz handelt es sich nach Art. 80 BV um eine Bundesaufgabe, welche unbe-
+strittenermassen im öffentlichen Interesse liegt. Für den Vollzug des Tierschutzrechts sind
+die Behörden auf Meldungen aus der Bevölkerung angewiesen, um überhaupt von tier-
+schutzrechtlichen Missständen zu erfahren und ihren Vollzugsaufgaben nachkommen zu
+können (GOETSCHEL/BOLLIGER: Das Tier im Recht, Zürich 2003, S. 178). Dies gilt insbe-
+sondere für den Bereich der Heimtierhaltung, welche nur einer beschränkten behördlichen
+Aufsicht unterliegt. Die Befürchtung, von einem angezeigten vermeintlichen Tierquäler
+identifiziert zu werden, würde Zeugen von Tierschutzdelikten daran abhalten, Anzeige zu
+erstatten. In der Rechtsprechung ist anerkannt, dass in solchen Fällen ein legitimes
+öffentliches Interesse an der Geheimhaltung der Identität einer Auskunftsperson besteht
+(BGE 122 I 153 E. 6c; 103 Ia 490 E. 8; BVR 1992 S. 89 E. 5b).
+Mit dem Beschwerdeführer ist allerdings darin übereinzugehen, dass das öffentliche
+Interesse am Tierschutz nicht in jedem Fall überwiegt, womit eine pauschale Zusicherung
+der Anonymisierung nicht zulässig erscheint; vielmehr bedarf es einer Interessenabwägung
+im Einzelfall. Insbesondere darf das private Interesse des Anzeigers nicht überwiegend
+dadurch motiviert sein, dem Angezeigten Schaden zuzufügen; keinen Schutz verdient die
+boshafte und unwahre Denunziation (ALEXANDER DUBACH: Das Recht auf Akteneinsicht,
+Diss. Bern 1990, S. 337). In diesem Fall würde ein berechtigtes Interesse des Beschwerde-
+führers bestehen, die Hinweisgeber für ihre Aussagen zur Rechenschaft zu ziehen.
+Im Schreiben vom 15. Juni 2020 (act. 5.6.1), welches von Nachbarn des Beschwerdeführers
+verfasst wurde und an die Vermieterschaft gerichtet war, wurde die Sicherheit der Mieter der
+B. und die Tierhaltung des Beschwerdeführers in Frage gestellt, ohne konkrete Missstände
+aufzuzeigen. Auch das Schreiben vom 12. Juli 2020 (act. 5.6.2), in welchem vom
+Veterinäramt mit Ausnahme des Beschwerdeführers sämtliche Namen geschwärzt sind,
+wurde von Mietern der B. verfasst. Auch dieses Schreiben war an die Vermieterschaft
+gerichtet, wurde jedoch offenbar auch dem Veterinäramt und der Gemeinde C. zugestellt.
+Aus dem Schreiben geht hervor, dass die Verfasser mehrmals beobachtet hätten, wie der
+Beschwerdeführer […] mit dem Knie und seinem Gewicht zu Boden gedrückt habe. Gemäss
+der Aktennotiz vom 11. August 2020 (act. 5.1.4) hat der Beschwerdeführer den Vertretern
+des Veterinäramts diese Massnahme - welche sich als harmlos herausstellte - selbst
+aufgezeigt, womit diese Meldung nicht als unwahre Denunziation qualifiziert werden kann.
+Im Weiteren machen die Mieter im Schreiben geltend, dass […] frisch und fröhlich sein
+"Geschäft" unmittelbar beim Weg macht, was nicht tierschutzrelevant ist. Im Schreiben vom
+Seite 6
+12. Juli 2020 wird zudem der Maschendrahtzaun beanstandet, welcher nicht konform […]
+sei. Dieser stelle keine Sicherheit dar und sei laut Veterinäramt untauglich. Dabei handelt es
+sich nach Erachten des Obergerichts primär um eine mietrechtliche Beanstandung, welche
+an die Vermieterschaft gerichtet war, auch wenn diese Aussage vom Veterinäramt bei der
+Kontrolle vom 11. August 2020 widerlegt wurde. Auch die geschilderten Beissvorfälle stellten
+die Sicherheit der Mieter und nicht die artgerechte Haltung […] in Frage, weshalb diese
+Aussagen in tierschutzrechtlicher Hinsicht und die Durchführung der Kontrolle nach Art. 39
+des Tierschutzgesetzes (TschG, SR 455) nicht ausschlaggebend waren. Damit kann der
+Schluss gezogen werden, dass die Aussagen der Informanten, welche die artgerechte [...]
+des Beschwerdeführers in Frage stellten und die Kontrolle der Tierhaltung vom 11. August
+2020 zur Folge hatten, nicht aus übelwollenden und sachfremden Motiven erfolgten bzw. den
+Zweck hatten, den Beschwerdeführer durch tierschutzrechtliche Massnahmen zu schädigen.
+Damit kann das öffentliche Interesse an der Geheimhaltung der Informanten im vorliegenden
+Fall nicht in Abrede gestellt werden.
+3.4 Mit dem öffentlichen Interesse an einem praxistauglichen Vollzug des Tierschutzgesetzes ist
+das private Interesse der Informanten an ihrer Anonymität eng verbunden. Durch die
+Geheimhaltung sollen sie vor allfälligen Anfeindungen oder rechtlichen Schritten geschützt
+werden, welche ihnen mangels böswilliger Denunziation in Bezug auf die Tierhaltung aus-
+schliesslich unnötige Umstände bereiten würden. Zu berücksichtigen gilt es im Weiteren,
+dass es sich bei den geschwärzten Angaben in den Meldungen der Informanten ebenfalls
+um Personendaten handelt, welche an Private nur bekannt gegeben werden können, wenn
+das verantwortliche Organ dazu rechtlich verpflichtet oder ermächtigt ist oder die betroffene
+Person ausdrücklich zugestimmt hat oder ihre Zustimmung nach den Umständen voraus-
+gesetzt werden darf (Art. 9 Abs. 1 DSG). Insofern kann dem Veterinäramt nicht vorgeworfen
+werden, die Informanten nicht ausdrücklich angefragt und nicht um deren Einverständnis für
+eine Bekanntgabe ersucht zu haben. Wie die Vorinstanz im Weiteren zutreffend ausführt, hat
+das Veterinäramt dem Verhältnismässigkeitsprinzip Rechnung getragen, indem es dem
+Beschwerdeführer die Einsicht in die Akten grundsätzlich gestattete, dabei jedoch die Daten
+über Drittpersonen abdeckte. Der Beschwerdeführer hatte in die Meldungen der Informanten
+Einsicht und konnte vom Inhalt der Aussagen Kenntnis nehmen. Zudem hatten die
+Abdeckungen auf die Verständlichkeit der Meldungen keinen Einfluss, was auch vom
+Beschwerdeführer nicht bestritten wird.
+3.5 In Anbetracht dieser Umstände kommt das Obergericht zum Schluss, dass das Interesse des
+Beschwerdeführers an der Offenlegung der Namen der Informanten das entgegenstehende
+öffentliche und private Interesse an der Geheimhaltung nicht zu überwiegen vermag. Es steht
+Seite 7
+dem Beschwerdeführer frei, im Rahmen eines allfälligen Straf- oder Zivilverfahrens die
+Bekanntgabe der Informanten zu beantragen.
+4. Daraus ergibt sich, dass die Beschwerde abzuweisen ist, soweit darauf eingetreten wird.
+Nach Art. 19 Abs. 3 in Verbindung mit Art. 53 Abs. 1 VRPG ist im Beschwerdeverfahren vor
+Obergericht gebühren- und kostenpflichtig, wer ganz oder teilweise unterliegt oder auf
+dessen Rechtsmittel nicht eingetreten wird. Das Obergericht erhebt für seine Urteile und
+Beschlüsse Gebühren bis Fr. 5'000.-- (Art. 4a des Gesetzes über die Gebühren in Verwal-
+tungssachen, bGS 233.2). Die Gerichtsgebühr ist auf Fr. 1'500.-- festzusetzen. Der
+Beschwerdeführer hat ein Gesuch um unentgeltliche Rechtspflege eingereicht. Die Voraus-
+setzungen von Art. 25 Abs. 1 VRPG sind erfüllt, womit dem Gesuch stattzugeben ist. Die
+Gerichtsgebühr ist damit auf die Staatskasse zu nehmen. Der Beschwerdeführer hat die
+Gerichtskosten nachzuzahlen, sobald es seine wirtschaftlichen Verhältnisse erlauben. Auf
+die Zusprechung einer Parteientschädigung besteht bei diesem Verfahrensausgang kein
+Anspruch (Art. 53 Abs. 3 VRPG).
+Seite 8
+Das Obergericht erkennt:
+1. Die Beschwerde von A. wird abgewiesen, soweit darauf eingetreten wird. 2. Dem Beschwerdeführer wird die unentgeltliche Rechtspflege gewährt. 3. Dem Beschwerdeführer wird eine Entscheidgebühr von Fr. 1'500.-- auferlegt. Diese wird
+zufolge der gewährten unentgeltlichen Rechtspflege auf die Staatskasse genommen, unter Vorbehalt der Rückerstattungspflicht nach Art. 25 Abs. 3 VRPG.
+4. Es werden keine Parteientschädigungen zugesprochen. 5. Rechtsmittel: Gegen dieses Urteil kann innert 30 Tagen seit der Zustellung Beschwerde in öffentlich-
+rechtlichen Angelegenheiten erhoben werden. Die Zulässigkeit einer solchen Beschwerde richtet sich nach Art. 82 ff. Bundesgerichtsgesetz (BGG, SR 173.110). Die Beschwerde ist beim Schweizerischen Bundesgericht, Avenue du Tribunal fédéral 29, 1000 Lausanne 14, schriftlich einzureichen. Die Beschwerdeschrift hat die Begehren, deren Begründung mit Angabe der Beweismittel und die Unterschrift zu enthalten; der angefochtene Entscheid sowie die als Beweismittel angerufenen Urkunden sind - soweit vorhanden - beizulegen (Art. 42 BGG). Die Beschwerde hat in der Regel keine aufschiebende Wirkung (Art. 103 BGG).
+6. Zustellung an den Beschwerdeführer, die Vorinstanz und das Veterinäramt.
+Im Namen der 4. Abteilung des Obergerichts Der Obergerichtsvizepräsident: Der Gerichtsschreiber:
+Dr. iur. Manuel Hüsser lic. iur. Daniel Hofmann
+versandt am: 3. Mai 2022
+Seite 9
